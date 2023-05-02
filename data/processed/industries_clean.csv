@@ -1,0 +1,103 @@
+id	industry	keywords
+0	neuro	neurology signal neuron memory network cognition brain neural plasticity neuroscience synaptic
+1	procurement	source supply chain proposal supplier negotiation contract purchase inventory requisition request
+2	greentech	biofuel solar renewable sustainability geothermal waste management footprint energy cleantech recycling wind carbon
+3	social impact	empowerment volunteer justice activism social charity non education philanthropy community inequality profit
+4	esports	streaming competition game virtual tournament professional online spectator team sponsorship
+5	gut microbiome	immune probiotic fermentation microbiota bacteria flora system intestine gut health nutrition digestive
+6	quantum computing	superposition algorithm error quantum circuit cryptography entanglement state correction qubit coherence
+7	professional services	support strategy account human finance consult resource advisory marketing legal
+8	manufacturing	industrial machine fabrication assembly automation control process production equipment quality factory
+9	video/audio	format audiovisual sound edit codec podcast broadcasting video multimedia compression
+10	cloud infrastructure	provider server architecture datum platform virtualization compute storage scalability cloud service
+11	supply chains	warehouse freight transportation planning import export logistic demand operation distribution
+12	industrial tech	safety iot sensor machinery maintenance robotic
+13	cybersecurity	access malware encryption authentication firewall vulnerability security detection threat policy intrusion
+14	entertainment	theater film music talent event content television creation
+15	longevity	age lifespan genomic anti healthspan extension gerontology rejuvenation life biotechnology cellular
+16	oceantech	aquaculture exploration subsea conservation marine remote ocean water sense underwater oceanography maritime
+17	healthcare	medicine hospital patient diagnosis clinic device prevention telehealth medical treatment therapy
+18	hardware	peripheral electronic motherboard semiconductor embed computer component microprocessor
+19	sales & crm	lead sale pipeline forecasting relationship opportunity prospect revenue customer
+20	security	protection patrol monitor alarm surveillance incident guard response
+21	media	medium broadcast digital journalism publishing advertising press news
+22	materials	metal alloy biomaterial polymer nanomaterial textile glass ceramic composite
+23	biotech	vaccine drug cell pharmaceutical genetic engineering protein molecular biology gene bioinformatics discovery
+24	medtech	wearable technology surgical diagnostic telemedicine implant
+25	future of work	collaboration development productivity coworke work ai workforce skill gig balance economy
+26	edtech	course assessment curriculum gamification e mooc adaptive learn classroom
+27	defi	blockchain decentralized yield liquidity stablecoin farm lend financial cryptocurrency smart token
+28	semiconductors	microchip transistor integrate silicon nanotechnology lithography wafer
+29	social networks	message sharing privacy connection engagement interaction user generate
+30	platforms	infrastructure software experience integration marketplace api ecosystem monetization
+31	mobility	hail transit ride electric public urban city vehicle autonomous share mobility bike
+32	energy distribution	electricity microgrid power grid transmission
+33	sextech	adult reproductive wellness positive date pleasure intimacy toy sex sexual
+34	blockchain	consensus asset distribute tokenization ledger decentralization
+35	agtech	agriculture precision hydroponic crop sustainable farming drone
+36	genomics	expression crispr epigenetic sequence personalize testing functional genome dna
+37	gaming	multiplayer console mobile gaming design esport reality
+38	human resources	benefit employee training performance hr recruitment payroll analytic
+39	communications	communication voip unify voice telecommunication
+40	business intelligence	report kpi etl make mining analysis visualization decision dashboard
+42	developer tools	language programming debug devop ide review version code
+43	martech	analytics seo crm
+44	chemicals	engineer industry material inorganic petrochemical chemical chemistry synthesis green organic science
+45	logistics	ship fulfillment warehousing tracking
+46	design	ux product web creative graphic typography branding ui illustration
+47	femtech	personal menstruation pregnancy healthcare fertility woman contraception care
+48	robotics	vision actuator robot unmanned
+49	happiness & wellbeing	mindfulness self stress growth intelligence reduction meditation mental emotional
+50	death tech	estate legacy memorial cremation bereavement burial funeral grief end
+51	energy generation	hydro nuclear plant generation bioenergy
+52	location services	map geolocation gps navigation geocode proximity position indoor gis geospatial
+53	nutrition	macronutrient diet food mineral vitamin meal supplement
+54	industrial iot	data connectivity predictive iiot manufacture
+55	adtech	ssp programmatic retargete target ad dsp
+56	psychedelics	hallucinogen psilocybin clinical research lsd mdma psychedelic trial
+57	nano	nanoparticle nanodevice nanoscience nanoscale
+59	proptech	real construction tour building lease property investment
+60	data centers	cool colocation recovery disaster
+61	data infrastructure	big processing database
+62	automotive	manufacturing automotive car connect charge
+63	iot	wireless internet m thing
+64	fashion	clothing apparel retail style trend commerce
+65	travel	travel trip tourism agency book vacation hospitality accommodation destination leisure
+66	cloud ops	scale microservice container orchestration deployment
+67	legaltech	practice compliance document case law
+68	space tech	earth launch aerospace space rocket payload commercial observation orbit satellite debris
+69	telecoms	g spectrum fiber ip roam broadband
+70	familytech	parent baby child family entertainment
+71	e-commerce	payment personalization store shop
+72	sharing economy	consumption collaborative trust rental peer
+73	defense	counter military defense cybersecurity homeland weapon terrorism
+74	energy efficiency	insulation audit retrofit
+75	search	query search rank semantic information engine index retrieval relevance natural recommendation
+76	edge computing	time edge local latency
+77	web3	dapp sovereignty identity decentralize
+78	3d printing	additive cad prototyping rapid fdm layer customization sla print bed
+80	api-first	application developer documentation interface graphql rest endpoint json
+81	ar/mr/vr	headset spatial simulation hologram mixed augment computing immersive
+83	economic empowerment	capital poverty microfinance inclusion entrepreneurship equal job impact
+84	beauty	cosmetic makeup fragrance haircare tech skincare beauty grooming
+85	health tech	record imaging interoperability
+86	sport & wellness	exercise sport fitness coach
+87	crypto	currency ethereum trade wallet bitcoin
+89	payments	gateway credit card remittance secure transaction fintech
+93	computer vision	object ocr image recognition facial segmentation deep
+94	creator economy	subscription influencer creator nft art
+95	insurtech	insurance telematic risk claim underwriting
+96	biodiversity	restoration specie change endanger climate wildlife habitat
+97	energy storage	ion capacity lithium
+98	deep tech	innovation advanced photonic
+100	carbon capture	capture gas direct ccs geoengineere sequestration air greenhouse emission
+101	circular economy	upcycle recycle circular model
+102	carbon removal	dioxide removal negative reforestation
+103	productivity	project goal set organization task
+108	disinformation	manipulation bias fake fact check deepfake propaganda cognitive misinformation
+109	retail	shopping point merchandising brick omnichannel mortar
+113	data storage	backup center hardware solution
+114	generative ai	gin augmentation adversarial generative
+117	extremism	violence radicalization right speech hate far ideology
+119	network infrastructure	sdn router optic wan switch backbone
+120	food & beverage	restaurant beverage catering foodtech
