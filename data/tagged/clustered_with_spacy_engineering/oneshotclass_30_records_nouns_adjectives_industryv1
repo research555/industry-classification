@@ -1,0 +1,31 @@
+,sequence,industry1,industry2,industry3,score1,score2,score3
+0,"insurer, insurance, payment, compensation, agency",InsurTech,Carbon Capture,Genomics,0.15816985070705414,0.013862675987184048,0.006385927554219961
+1,"platform, brand, large, asset, merchant, solution, infrastructure, trade, datum, product, learn, marketing, stakeholder",Cloud Infrastructure,E-commerce,Data Storage,0.7172950506210327,0.6728127598762512,0.6170907020568848
+2,"postal, document, print, postage, mailing",Genomics,FemTech,Energy Efficiency,0.0376158244907856,0.024068957194685936,0.01457024272531271
+3,"biodesign, nature, fermentation, biology, protein",Energy Generation,GreenTech,Genomics,0.14957913756370544,0.027952661737799644,0.004633625969290733
+4,"bioproduction, molecule, bioindustrial",GreenTech,Energy Generation,Life Sciences,0.3615485727787018,0.3099956512451172,0.2097797393798828
+5,"web, ajax, file, integration, webex",EdTech,Future of Work,Productivity,0.9361216425895691,0.9328177571296692,0.9277364611625671
+6,"digital, automate, integrate, robot, algorithm, automation, software",Automation,Robotics,Industrial IoT,0.9627987742424011,0.9596495032310486,0.9121912717819214
+7,"planar, optical, innovative, company, operation, entrepreneurial, manufacturing, technology, specialty, processing, telecom, performance",Telecoms,Deep Tech,Communications,0.7079355120658875,0.6672956347465515,0.526398241519928
+8,"labor, worker, office, employment, staff, unemployment",AR/MR/VR,Computer Vision,Genomics,0.008669259026646614,0.005839813034981489,0.005566513631492853
+9,"platform, tool, livestation, server, screen, program, desktop, catalog, widget, interactive, hardware, joost, programming, forum, browser, free, display, download, client, software",EdTech,Esports,Developer Tools,0.8929717540740967,0.8862401843070984,0.8803490996360779
+10,"coffee, drip, brewer",Food & Beverage,Data Management,Future of Work,0.3577253818511963,0.12733954191207886,0.055287379771471024
+11,"platform, digital, engineering, asset, production, company, farm, operator, operation, provider, technology, forefront, service, subsea, field, offshore, supplier, client, equipment",Industrial IoT,Mobile,Video/Audio,0.9212427735328674,0.9078362584114075,0.8785239458084106
+12,"prostate, genetic, protein",Deep Tech,Life Sciences,Security,0.07873007655143738,0.05455628037452698,0.0426446907222271
+13,"architecture, virtual, satellite, space, power, educational, development, governmental",EdTech,AR/MR/VR,Metaverse,0.5797878503799438,0.45473411679267883,0.24445593357086182
+14,"vision, critical, quality, success, significant, consumer, new, market, variety, revenue, delivery, smart",E-commerce,Media,Gaming,0.8907012343406677,0.8851315975189209,0.8821842074394226
+15,"peace, office, space, parking, car, hospital, hotel, authority, driveway, park, location",InsurTech,AR/MR/VR,Life Sciences,0.024936392903327942,0.01908779703080654,0.017868243157863617
+16,"concentrator, electricity, desalination, solar, photovoltaic, energy",Energy Generation,GreenTech,Infrastructure Tech,0.8241280317306519,0.6838163137435913,0.02368875779211521
+17,"information, service, product, provision, technology, important, research, video, equipment, streamline, system, datum, coverage, flow, resource, comprehensive, use, pride, safe, report, project, transport, manual",Cloud Infrastructure,Video/Audio,Hardware,0.8541204929351807,0.8272747993469238,0.8210889101028442
+18,"entrepreneur, business, industry, investment, company, marketplace, partnership, customer, product, invest, fund, sector, financing, growth, venture, market, revenue, client, portfolio",Sales & CRM,Life Sciences,InsurTech,0.6617211103439331,0.4366574287414551,0.24346700310707092
+19,"indication, product, pimavanserin, commercialization, candidate, development, feasibility",Life Sciences,Electrification,Gaming,0.7504925727844238,0.5924620628356934,0.49407267570495605
+20,"sport, federation, official, sporting, league",Esports,Sport & Wellness,Computer Vision,0.16683201491832733,0.0856640562415123,0.024004483595490456
+21,"platform, range, distribution, high, multiple, number, world, solution, able, broadcaster, product, device, experience, cloud, compelling, continent, special, video, way, custom, freedom",Video/Audio,Entertainment,Mobile,0.959555447101593,0.9446755647659302,0.9054105281829834
+22,"entrepreneur, company, partnership, fintech, initiative, startup, experience, partner, growth, mentor, market",FinTech,DeFi,InsurTech,0.9837153553962708,0.8935111165046692,0.6856526136398315
+23,"team, major, skilled, sensor, device, technology, generation, breakthrough, power, portable, strength, tech, mobile",Deep Tech,Mobile,Connected Life,0.9608646631240845,0.9149720668792725,0.8508244752883911
+24,"team, contribution, skill, order, high, action, work, time, message, user, support, cross, role, community",Productivity,Communications,Social Networks,0.9894185662269592,0.4263838827610016,0.4229598641395569
+25,"merchant, voucher, solution, barcode, ticket, payment, transaction, gift, loyalty, card, coupon, signature, offering",E-commerce,Beauty,Transportation,0.6180317401885986,0.35515010356903076,0.12357370555400848
+26,"broker, marketplace, margin, customer, charter, unstructured, provider, booking, service, consumer, market, lead, pricing",Sales & CRM,FinTech,Travel,0.1886748969554901,0.04534413665533066,0.03870221972465515
+27,"control, rework, production, machine, product, quality, analysis, manufacturer, profit, failure, scrap, artificial",Manufacturing,Automation,Industrial Tech,0.9739064574241638,0.9064478874206543,0.8504987359046936
+28,"business, system, opportunitie, organization, infrastructure, stakeholder",Cloud Infrastructure,Data Infrastructure,Data Storage,0.8371523022651672,0.7720590233802795,0.7573596239089966
+29,"industry, ship, time, cruise, accident, booking, cabin, service, entertainment, partner, coast, construction, term, facility",Travel,Logistics,Security,0.0857037678360939,0.08031971752643585,0.013093138113617897

@@ -1,0 +1,31 @@
+name,cb_description,id,industry1,score1,industry2,score2,industry3,score3,industry4,score4,industry5,score5
+InterResolve,"insurer, insurance, payment, compensation, agency",0,InsurTech,0.577,Procurement,0.452,Automotive,0.422,FemTech,0.391,Payments,0.387
+GladCloud,"platform, brand, large, asset, merchant, solution, infrastructure, trade, datum, product, learn, marketing, stakeholder",1,Procurement,0.673,Retail,0.604,Sales & CRM,0.586,Sharing Economy,0.582,E-commerce,0.575
+21GRAMS,"postal, document, print, postage, mailing",2,Media,0.466,Location Services,0.444,Transportation,0.427,Logistics,0.426,Procurement,0.399
+Geltor,"biodesign, nature, fermentation, biology, protein",3,Life Sciences,0.566,Genomics,0.467,Nutrition,0.455,Food & Beverage,0.445,Hardware,0.435
+21st.BIO,"bioproduction, molecule, bioindustrial",4,Life Sciences,0.39,Nano,0.346,Materials,0.299,Genomics,0.282,Hardware,0.274
+24SevenOffice,"web, ajax, file, integration, webex",5,Data Infrastructure,0.336,Web3,0.328,Industrial IoT,0.3,MarTech,0.287,Cloud Infrastructure,0.283
+Jiffy.ai,"digital, automate, integrate, robot, algorithm, automation, software",6,Robotics,0.738,Automation,0.725,Industrial IoT,0.603,Autonomous Driving,0.593,Industrial Tech,0.559
+Gemfire,"planar, optical, innovative, company, operation, entrepreneurial, manufacturing, technology, specialty, processing, telecom, performance",7,Manufacturing,0.617,Fashion,0.603,Deep Tech,0.593,Mobile,0.584,Semiconductors,0.578
+Jobandtalent,"labor, worker, office, employment, staff, unemployment",8,Future of Work,0.474,Human Resources,0.474,Productivity,0.4,Industrial Tech,0.386,Mobile,0.384
+Joost,"platform, tool, livestation, server, screen, program, desktop, catalog, widget, interactive, hardware, joost, programming, forum, browser, free, display, download, client, software",9,Hardware,0.511,Search,0.45,Video/Audio,0.439,Social Networks,0.434,Industrial IoT,0.428
+3TEMP-AB,"coffee, drip, brewer",10,Sales & CRM,0.276,Food & Beverage,0.212,Energy Distribution,0.212,Procurement,0.211,Esports,0.201
+4Subsea,"platform, digital, engineering, asset, production, company, farm, operator, operation, provider, technology, forefront, service, subsea, field, offshore, supplier, client, equipment",11,Physical Storage,0.625,Retail,0.598,Cloud Infrastructure,0.582,Logistics,0.577,Procurement,0.576
+A3P-Biomedical,"prostate, genetic, protein",12,Life Sciences,0.277,Genomics,0.261,Healthcare,0.228,Nutrition,0.227,FemTech,0.208
+AAC-Microtec,"architecture, virtual, satellite, space, power, educational, development, governmental",13,Space Tech,0.604,PropTech,0.6,Cloud Infrastructure,0.581,Infrastructure Tech,0.573,Energy Generation,0.549
+Just-Eat,"vision, critical, quality, success, significant, consumer, new, market, variety, revenue, delivery, smart",14,Entertainment,0.588,Sales & CRM,0.583,Procurement,0.569,E-commerce,0.548,MarTech,0.533
+JustPark,"peace, office, space, parking, car, hospital, hotel, authority, driveway, park, location",15,Location Services,0.533,Healthcare,0.519,Security,0.513,Mobility,0.509,Transportation,0.487
+Absolicon-Solar-Concentrator,"concentrator, electricity, desalination, solar, photovoltaic, energy",16,Energy Generation,0.669,GreenTech,0.585,Energy Distribution,0.584,Energy Storage,0.566,Energy Efficiency,0.543
+Tracsis,"information, service, product, provision, technology, important, research, video, equipment, streamline, system, datum, coverage, flow, resource, comprehensive, use, pride, safe, report, project, transport, manual",17,Industrial Tech,0.633,IoT,0.55,Hardware,0.542,Location Services,0.536,Manufacturing,0.535
+Episode-1,"entrepreneur, business, industry, investment, company, marketplace, partnership, customer, product, invest, fund, sector, financing, growth, venture, market, revenue, client, portfolio",18,Sales & CRM,0.637,FinTech,0.608,Procurement,0.599,DeFi,0.593,MarTech,0.56
+Acadia-Pharmaceuticals-Inc.,"indication, product, pimavanserin, commercialization, candidate, development, feasibility",19,Procurement,0.369,Sales & CRM,0.356,Healthcare,0.339,3D Printing,0.321,Life Sciences,0.305
+Genius-Sports,"sport, federation, official, sporting, league",20,Esports,0.648,Gaming,0.479,Sport & Wellness,0.468,Media,0.415,Entertainment,0.41
+Accedo,"platform, range, distribution, high, multiple, number, world, solution, able, broadcaster, product, device, experience, cloud, compelling, continent, special, video, way, custom, freedom",21,Communications,0.6,Video/Audio,0.591,Telecoms,0.586,Sharing Economy,0.581,Cloud Infrastructure,0.576
+Accelerace,"entrepreneur, company, partnership, fintech, initiative, startup, experience, partner, growth, mentor, market",22,FinTech,0.606,Sales & CRM,0.566,DeFi,0.542,MarTech,0.532,Procurement,0.53
+Acconeer,"team, major, skilled, sensor, device, technology, generation, breakthrough, power, portable, strength, tech, mobile",23,Manufacturing,0.574,Automotive,0.567,Industrial Tech,0.561,Defense,0.559,Industrial IoT,0.551
+Common-Room,"team, contribution, skill, order, high, action, work, time, message, user, support, cross, role, community",24,Productivity,0.553,Esports,0.481,Social Networks,0.477,Future of Work,0.445,Sharing Economy,0.434
+Accumulate,"merchant, voucher, solution, barcode, ticket, payment, transaction, gift, loyalty, card, coupon, signature, offering",25,Procurement,0.618,Payments,0.614,E-commerce,0.543,Sales & CRM,0.528,Travel,0.474
+Get-Heli,"broker, marketplace, margin, customer, charter, unstructured, provider, booking, service, consumer, market, lead, pricing",26,Sales & CRM,0.68,Procurement,0.643,E-commerce,0.579,Physical Storage,0.563,Logistics,0.536
+Acerta-Analytics,"control, rework, production, machine, product, quality, analysis, manufacturer, profit, failure, scrap, artificial",27,Manufacturing,0.74,3D Printing,0.589,Industrial Tech,0.583,Procurement,0.578,Industrial IoT,0.57
+Activity-Stream,"business, system, opportunitie, organization, infrastructure, stakeholder",28,Procurement,0.519,Productivity,0.502,Sharing Economy,0.499,Automotive,0.474,Mobility,0.463
+CruiseWise,"industry, ship, time, cruise, accident, booking, cabin, service, entertainment, partner, coast, construction, term, facility",29,Logistics,0.646,Physical Storage,0.63,Supply Chains,0.625,Travel,0.621,Procurement,0.595

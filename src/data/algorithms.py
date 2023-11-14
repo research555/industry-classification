@@ -185,3 +185,33 @@ class Clustering:
         self.plot_clusters(algorithm=algorithm, clustering=clustering, matrix=matrix)
         return self.tsne_output, self.cluster_labels
 
+class TopicModelling:
+    def __init__(self, dataframe, column_name):
+        self.dataframe = dataframe
+        self.column_name = column_name
+
+    def calculate_tfidf(self):
+        vectorizer = TfidfVectorizer(stop_words='english')
+        tfidf_matrix = vectorizer.fit_transform(self.dataframe[self.column_name])
+        self.vectorizer = vectorizer
+        self.tfidf_matrix = tfidf_matrix
+        return tfidf_matrix
+
+    def append_top_words(self, n_topics=1, n_words=10, random_state=42):
+        top_words = []
+        for i, row in enumerate(self.tfidf_matrix):
+            self.lda = LatentDirichletAllocation(n_components=n_topics, random_state=random_state)
+            lda_matrix = self.lda.fit_transform(row)
+            top_n_words = self.__get_top_words(n_words=n_words)
+            top_words.append(top_n_words)
+        self.dataframe['top_words'] = top_words
+        return self.dataframe
+
+    def __get_top_words(self, n_words=10):
+        feature_names = self.vectorizer.get_feature_names_out()
+        top_n_words = " ".join([feature_names[i] for i in self.lda.components_[0].argsort()[:-n_words - 1:-1]])
+        return top_n_words
+
+
+
+

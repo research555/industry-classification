@@ -1,0 +1,735 @@
+id,name,cb_description,industry1,score1,industry2,score2,industry3,score3,industry4,score4,industry5,score5
+4081,InterResolve,"insurance, insurer, agency, compensation",InsurTech,0.524,RegTech,0.358,Automotive,0.356,Procurement,0.345,Professional Services,0.339
+2785,GladCloud,"brand, asset, customisation, product, learn, marketing, analysis, stakeholder, cosmetic",Design,0.649,Beauty,0.641,Fashion,0.639,MarTech,0.592,Sales & CRM,0.585
+23680,13th-Lab,"camera, vision, sensor, vehicle, potential",Autonomous Driving,0.515,Robotics,0.491,Automotive,0.429,Security,0.426,Hardware,0.424
+2932,Hilson-Moran,"leisure, facility, hotel",Travel,0.629,Sharing Economy,0.381,Physical Storage,0.356,Entertainment,0.328,Esports,0.324
+22003,1928-Diagnostics,"infection, diagnostic, trace, outbreak",Healthcare,0.386,Gut Microbiome,0.364,Life Sciences,0.304,Cybersecurity,0.291,Security,0.285
+21617,1939-Games,"gaming, veteran, experience, fun, game, card",Gaming,0.621,Esports,0.521,Metaverse,0.505,SexTech,0.428,Design,0.413
+23558,2021.AI,"capability, oversight, expertise",Productivity,0.439,Security,0.379,RegTech,0.364,Future of Work,0.349,Human Resources,0.342
+22310,20nine,"brand, industry, marketing",Fashion,0.593,MarTech,0.584,Sales & CRM,0.565,Procurement,0.559,Design,0.533
+21774,21GRAMS,"post, offer, postage, mailing",Procurement,0.487,Logistics,0.412,E-commerce,0.369,Physical Storage,0.366,Payments,0.358
+9229,Geltor,"fermentation, protein",Gut Microbiome,0.341,Nutrition,0.277,Food & Beverage,0.212,BioTech,0.192,Manufacturing,0.185
+4726,Cloud-Sustainability,"platform, term, software, user, consultancy",Platforms,0.548,Professional Services,0.538,Sales & CRM,0.473,LegalTech,0.468,API-First,0.463
+2475,IOCOM,videoconferencing,Video/Audio,0.374,Communications,0.344,Esports,0.268,Computer Vision,0.264,Entertainment,0.229
+23525,21st.BIO,"platform, bioproduction, system, media, molecule, startup, foundation",Life Sciences,0.517,BioTech,0.513,Longevity,0.492,Hardware,0.45,Nano,0.44
+4315,iSIZE-Technologies,"content, video, saving, bitrate, improvement, quality",Video/Audio,0.687,Entertainment,0.486,Creator Economy,0.455,Communications,0.438,Sharing Economy,0.432
+246,Iterable,"customer, marketer, market, channel",Sales & CRM,0.6,MarTech,0.514,Sharing Economy,0.507,Telecoms,0.484,Procurement,0.478
+19064,Cyrus-Audio,"design, engineering, equipment, audio",Video/Audio,0.555,Manufacturing,0.535,Industrial Tech,0.49,3D Printing,0.488,Hardware,0.471
+25530,24SevenOffice,"web, file, module, application",API-First,0.454,Web3,0.296,Cloud Infrastructure,0.295,Platforms,0.292,IoT,0.274
+23102,2D-fab-AB,"material, powder, electronic, defense, graphite",Materials,0.615,Hardware,0.432,Nano,0.415,3D Printing,0.404,Chemicals,0.359
+8367,Utmost,"vendor, legacy, source",Procurement,0.381,Platforms,0.292,Physical Storage,0.263,Retail,0.253,Creator Economy,0.251
+3351,Jiffy.ai,"platform, robot, algorithm, process, automation, processing, software, format, data",Robotics,0.761,Automation,0.73,Industrial IoT,0.646,Autonomous Driving,0.628,Industrial Tech,0.607
+9293,eleXsys-Energy,"energy, electricity, flow",Energy Distribution,0.512,Electrification,0.472,Energy Generation,0.472,Energy Efficiency,0.466,Energy Storage,0.463
+741,Gemfire,"atmosphere, aerospace",Space Tech,0.549,Carbon Capture,0.359,Carbon Removal,0.344,Autonomous Driving,0.288,AR/MR/VR,0.283
+3560,Jobandtalent,"labor, worker, company, office, reduction, employment, unemployment, jobandtalent",Future of Work,0.442,Human Resources,0.439,Productivity,0.428,Procurement,0.421,Sales & CRM,0.399
+25024,360-Logistics,"deliver, shipment, box",Logistics,0.517,Supply Chains,0.469,Physical Storage,0.426,Procurement,0.412,Transportation,0.338
+21625,3rd-Eye-Studios,"movie, tv, game",Gaming,0.484,Entertainment,0.451,Esports,0.423,Space Tech,0.354,Metaverse,0.334
+126,Joost,"platform, peer, livestation, server, internet, desktop, friend, widget, skype, browser, service, type, party, client, chat",Communications,0.608,Social Networks,0.607,Sharing Economy,0.584,Telecoms,0.562,Esports,0.529
+14040,NAVENTIK-GmbH,"sensor, system, software, security, solution",Industrial Tech,0.539,IoT,0.508,Cybersecurity,0.501,Security,0.482,Connected Life,0.465
+22957,3TEMP-AB,"tool, knowledge, year, experience, quality, end, service",Manufacturing,0.52,Productivity,0.509,Procurement,0.499,Sales & CRM,0.499,Platforms,0.488
+22815,46elks,"number, telephony",Communications,0.533,Telecoms,0.45,Healthcare,0.421,Mobile,0.306,5G Networks,0.292
+25010,4Subsea,"integrity, experience, expert, competence, forefront, subsea, way",Professional Services,0.482,Sales & CRM,0.449,Human Resources,0.444,LegalTech,0.438,RegTech,0.423
+24698,A2O,"inquiry, process, concept, form",Procurement,0.421,Sales & CRM,0.346,Healthcare,0.299,Payments,0.294,Travel,0.262
+25510,A3P-Biomedical,"prostate, cancer, protein, product, treatment, stage, blood",Longevity,0.415,Life Sciences,0.397,Healthcare,0.388,Gut Microbiome,0.386,BioTech,0.386
+25360,AAC-Microtec,"tool, sub, system, solution, debugger, customer, spacecraft, satellite, space, wire, power",Space Tech,0.6,Hardware,0.584,Industrial Tech,0.528,Industrial IoT,0.522,Productivity,0.481
+15383,Shoppero.com,"advertisment, impression",AdTech,0.442,MarTech,0.327,Media,0.316,Creator Economy,0.305,Entertainment,0.301
+155,Just-Eat,"round, team, vision, order, world, access, food, nerk, parent, quality, success, leader, series, restaurant, consumer, exposure, activity, variety, delivery, stream",Entertainment,0.539,Sales & CRM,0.536,Sharing Economy,0.504,Esports,0.503,Procurement,0.494
+3602,Nature’s-Fynd,"fermentation, microbe",Gut Microbiome,0.367,Food & Beverage,0.212,Semiconductors,0.201,Hardware,0.2,Manufacturing,0.196
+24656,Aalbun-Ltd,"patent, innovators, innovation",Deep Tech,0.423,FinTech,0.393,RegTech,0.37,Semiconductors,0.363,LegalTech,0.358
+2867,Kaptivo,"conjunction, collaboration, meeting",Productivity,0.366,Communications,0.347,Procurement,0.327,Social Networks,0.281,Entertainment,0.262
+24423,Aapiable.io,"customer, need, system, pre, product, service, partner, time",Procurement,0.615,Sales & CRM,0.602,Sharing Economy,0.494,Platforms,0.468,Hardware,0.465
+15785,Maniko-Nails,"chip, nail, manicure",Beauty,0.341,Materials,0.301,Semiconductors,0.298,3D Printing,0.268,Manufacturing,0.267
+8,JustPark,"office, space, parking, car, app, service, driveway, hotels, park, location",Location Services,0.65,Mobile,0.565,Mobility,0.563,Transportation,0.547,Sharing Economy,0.538
+22116,Aava-Mobile,"platform, operator, device, equipment, user, service",Hardware,0.57,Platforms,0.542,Cloud Infrastructure,0.515,IoT,0.513,Telecoms,0.511
+23702,abeo,"healthcare, anesthesiologist, service",Healthcare,0.494,MedTech,0.461,Professional Services,0.432,Health Tech,0.413,Beauty,0.398
+22624,Absolicon-Solar-Concentrator,"electricity, concentrators, conditioning, heat, energy, heating",Energy Distribution,0.591,Energy Generation,0.589,Energy Efficiency,0.553,Energy Storage,0.524,Electrification,0.52
+4683,Tracsis,"capture, control, range, cost, system, collection, datum, provision, technology, expert, recording, transport, service, camera, variety, equipment, manual",Manufacturing,0.587,Industrial Tech,0.579,Hardware,0.568,Video/Audio,0.546,IoT,0.519
+9901,Episode-1,"entrepreneur, business, ventures, industry, investment, company, marketplace, partnership, capital, invest, fund, sector, financing, growth, venture, market, portfolio",Professional Services,0.629,FinTech,0.614,DeFi,0.592,Sales & CRM,0.587,Procurement,0.558
+24246,Academica,"competency, business, infrastructure, core, employee, service, work, company",Professional Services,0.554,Human Resources,0.543,Industrial IoT,0.543,Future of Work,0.537,Sales & CRM,0.536
+22631,Acadia-Pharmaceuticals-Inc.,"psychosis, therapy, disease, disorder, pimavanserin, drug, treatment, schizophrenia",Psychedelics,0.62,Healthcare,0.459,Happiness & Wellbeing,0.364,Life Sciences,0.361,BioTech,0.306
+455,Codat,"saas, business, institution, software, product, company",Procurement,0.602,Professional Services,0.568,Sales & CRM,0.538,Physical Storage,0.533,E-commerce,0.515
+21651,Acamp,"campground, camp",Travel,0.301,Sharing Economy,0.242,Location Services,0.205,Carbon Capture,0.195,Esports,0.194
+3141,Pathee,"location, information, search",Location Services,0.632,Search,0.508,Industrial Tech,0.414,Media,0.405,Procurement,0.403
+9447,Genius-Sports,"sport, sporting, league",Esports,0.623,Gaming,0.563,Sport & Wellness,0.507,Entertainment,0.433,Media,0.428
+23751,Acarix,"trade, venture, capital, development, shareholder, company",Procurement,0.605,Professional Services,0.541,Sales & CRM,0.518,FinTech,0.497,DeFi,0.49
+22556,Accedo,"distribution, industry, world, office, broadcaster, focus, experience, manage, engagement, enterprise, freedom",Media,0.706,Entertainment,0.695,Communications,0.584,Sharing Economy,0.574,Creator Economy,0.574
+382,CoMentis,"neurovascular, macular",Neuro,0.279,MedTech,0.173,Metaverse,0.173,Healthcare,0.168,AR/MR/VR,0.166
+10642,GeoSentric,"office, place, location, gypsii",Location Services,0.474,Travel,0.42,Sharing Economy,0.361,Telecoms,0.33,Media,0.312
+23648,Accelerace,"network, accelerator, scale, help, science, growth, seed",Edge Computing,0.446,Cloud Infrastructure,0.442,Data Infrastructure,0.442,Generative AI,0.442,Cloud Ops,0.442
+28,8tracks-Radio,"track, love, song, playlist, music, mixtape, tune, radio",Video/Audio,0.543,Entertainment,0.504,Media,0.409,SexTech,0.389,Creator Economy,0.387
+21023,Acconeer,"microradar, sensor, device, position, mobile, location",Location Services,0.473,Mobile,0.379,IoT,0.369,Telecoms,0.367,Connected Life,0.364
+9922,Cylon-Controls,"energy, light, hvac",Energy Efficiency,0.509,Energy Distribution,0.452,Energy Generation,0.424,Energy Storage,0.397,Connected Home,0.36
+6067,Speckle,"infrastructure, interoperability, software, collaboration, management, versioning, automation",Cloud Ops,0.637,Platforms,0.585,Industrial IoT,0.578,Productivity,0.575,Automation,0.553
+93,Common-Room,"impact, team, contribution, build, action, work, time, scale, value, user, outcome, cross, obtain, project, form, development, community",Productivity,0.621,Procurement,0.464,Sales & CRM,0.463,Esports,0.455,Entertainment,0.448
+22627,Accumulate,"merchant, voucher, payment, transaction, gift, loyalty, card, coupon, signature, offering",Payments,0.595,Procurement,0.571,E-commerce,0.513,Sales & CRM,0.495,Travel,0.423
+10767,Get-Heli,"broker, marketplace, customer, price, booking, market, pricing",Sales & CRM,0.629,Procurement,0.616,E-commerce,0.559,Travel,0.493,Physical Storage,0.488
+23887,Acerta-Analytics,"rework, solution, precision, machine, datum, cause, root, quality, failure, scrap, defect",Manufacturing,0.492,Industrial IoT,0.486,Productivity,0.466,Hardware,0.453,Procurement,0.452
+3202,Cúram-Software,"customer, solution, military, service, security, health, cúram",Healthcare,0.541,Procurement,0.535,Beauty,0.534,Sales & CRM,0.528,Payments,0.51
+24057,Acquia,"platform, building, company, organization",Platforms,0.555,Sharing Economy,0.521,Productivity,0.513,Creator Economy,0.503,Procurement,0.482
+5969,AI-XPRT,"account, assurance, audit",Payments,0.379,Sales & CRM,0.358,FinTech,0.352,Cybersecurity,0.344,InsurTech,0.336
+23745,Activity-Stream,"business, system, organization, infrastructure, stakeholder, pattern",Procurement,0.553,Sales & CRM,0.504,Productivity,0.49,Platforms,0.472,Crypto,0.466
+23837,Actiwave,"actiwave, acoustic, signal",Video/Audio,0.31,Network Infrastructure,0.301,Communications,0.294,Telecoms,0.291,Hardware,0.277
+427,CruiseWise,"ship, simplicity, dip, cruise, partner, coast",Travel,0.391,Sharing Economy,0.378,Space Tech,0.375,Procurement,0.358,Logistics,0.355
+6769,Alasco,"availability, workflow, developer, productivity",Productivity,0.558,Future of Work,0.522,Developer Tools,0.456,Human Resources,0.447,Cloud Ops,0.446
+23252,Acumem,"success, benefit, performance",Human Resources,0.444,Productivity,0.439,Sales & CRM,0.307,Entertainment,0.302,Happiness & Wellbeing,0.285
+22294,Adamant-Health,"disease, diagnostic, patient, symptom, medication, treatment",Healthcare,0.682,MedTech,0.44,Health Tech,0.422,Psychedelics,0.396,Happiness & Wellbeing,0.393
+4294,AllPlants,"plant, planet, vegan, people",Energy Generation,0.429,Biodiversity,0.423,GreenTech,0.36,Nutrition,0.36,Longevity,0.339
+2752,Powr-of-You,"platform, brand, datum, provider, place, roi, consumer, market, revenue",Sharing Economy,0.636,Sales & CRM,0.609,Procurement,0.588,Mobile,0.585,AdTech,0.579
+133,AllPeers,"speed, peer, folder, web, text, technology, file, source, extension, browser, software, image",Video/Audio,0.648,Hardware,0.57,Network Infrastructure,0.567,Cloud Infrastructure,0.556,Telecoms,0.539
+25307,Adapteva,"microprocessor, architecture, semiconductor, device, chip, multicore, supercomputer",Hardware,0.728,Semiconductors,0.719,Edge Computing,0.538,Industrial IoT,0.529,Deep Tech,0.523
+23515,ADCendo,"antibody, conjugate",Longevity,0.17,BioTech,0.169,Life Sciences,0.137,Healthcare,0.13,Cybersecurity,0.107
+44,Kong,"platform, service, cloud, microservice",Cloud Ops,0.714,Cloud Computing,0.698,Cloud Infrastructure,0.632,Platforms,0.575,API-First,0.518
+477,doubleTwist,"withdrawal, firm, founder, capital, partner, venture, investor",Procurement,0.459,FinTech,0.446,Creator Economy,0.439,Sales & CRM,0.431,Professional Services,0.422
+2274,Estateguru,"investment, estate, invest, property, investor",PropTech,0.553,FinTech,0.505,DeFi,0.496,Crypto,0.445,Mobility,0.435
+22995,Addbutment-Dental,"implant, dentist, abutment",MedTech,0.363,Healthcare,0.334,Beauty,0.303,Space Tech,0.238,SexTech,0.235
+23637,addwish,"benefit, promote, product, gift, friend, user, website, lead, family",Creator Economy,0.578,Sharing Economy,0.533,Social Networks,0.526,Sales & CRM,0.471,Entertainment,0.467
+23459,Adenium-Biotech-ApS,"bacteremia, toxicology, antibiotic, infection, bacteria, utis, coli, aeruginosa, pathogen, lugworm, baumannii, cholangitis, diarrhea, peptide, hospital, species, pneumoniae, amino, pneumonia",Gut Microbiome,0.683,Life Sciences,0.537,BioTech,0.499,Longevity,0.482,Healthcare,0.463
+4,Elastic,"system, security, power, fund, mission, family, country",Defense,0.605,DeFi,0.545,Web3,0.508,Crypto,0.505,Industrial Tech,0.485
+13194,DIREVO-Industrial-Biotechnology,"platform, biocatalyst, chemical, leader, conjunction, product, solution",Nano,0.446,Chemicals,0.437,Hardware,0.418,Materials,0.412,Procurement,0.404
+4900,Aptatek-Biosciences,"biomarker, disease, diagnosis",Genomics,0.287,Life Sciences,0.286,Longevity,0.284,Healthcare,0.253,BioTech,0.223
+938,AppExtras,"brand, publisher, recommendation",Creator Economy,0.43,Media,0.367,Sharing Economy,0.35,AdTech,0.344,Entertainment,0.322
+23712,Admazely,"platform, webshop, commerce, professional, company",Retail,0.61,Platforms,0.585,E-commerce,0.578,Creator Economy,0.568,Sharing Economy,0.518
+13195,Cardion,"stem, engineering, gene, cell",BioTech,0.646,Longevity,0.592,Life Sciences,0.562,Genomics,0.527,Semiconductors,0.466
+154,Arthur,"industry, productivity, enterprise, partner, company",Future of Work,0.605,Productivity,0.531,Procurement,0.531,Sales & CRM,0.529,Manufacturing,0.529
+171,Artimi,"speed, wireless, electronic, printer, adaptor, connectivity, controller",Hardware,0.592,IoT,0.55,Network Infrastructure,0.507,Connected Life,0.496,Telecoms,0.494
+401,Ascend,"customer, automate, purpose, distribution, carrier, distributor, commission",Procurement,0.666,Logistics,0.619,Physical Storage,0.618,Sales & CRM,0.614,E-commerce,0.607
+21662,Adnavem,"owner, solution, company, trade, market, supplier, pricing",Procurement,0.693,Sales & CRM,0.565,Logistics,0.555,Physical Storage,0.549,Supply Chains,0.545
+22133,adQuota,"campaign, production, experience, advertising, display, advertisement, application",AdTech,0.651,MarTech,0.596,Entertainment,0.593,Media,0.592,Sales & CRM,0.522
+22706,Adra-Software,"market, accounting, finance",Professional Services,0.591,Sales & CRM,0.546,FinTech,0.538,RegTech,0.49,DeFi,0.485
+22664,ADS-TEC-Energy,"level, solution, vehicle, datum, system, storage, conversion, product, service, access",Hardware,0.584,Industrial IoT,0.529,Industrial Tech,0.527,Cloud Infrastructure,0.521,Procurement,0.514
+23661,Advalight,"removal, rejuvenation, procedure, treatment, lesion",Healthcare,0.261,Death Tech,0.19,Longevity,0.176,Entertainment,0.175,Happiness & Wellbeing,0.157
+22435,AdvanDx,"infection, pathogen, hospital",Healthcare,0.443,Gut Microbiome,0.328,Health Tech,0.237,MedTech,0.214,Life Sciences,0.196
+850,Peppy,"fertility, menopause, pregnancy",FemTech,0.545,SexTech,0.347,FamilyTech,0.315,Nutrition,0.279,Longevity,0.279
+23619,AeroGuest,"hospitality, interface, industry, commerce",Travel,0.609,Fashion,0.551,Physical Storage,0.54,Beauty,0.534,Retail,0.533
+491,Evolven-Software,"outage, stability, software, monitoring",Security,0.405,Cybersecurity,0.39,Connected Life,0.381,Industrial Tech,0.38,Edge Computing,0.379
+24700,Affibody,"image, capture, range, detection, diagnostic, robust, imaging, target",Security,0.518,Robotics,0.488,Autonomous Driving,0.485,Computer Vision,0.47,Industrial Tech,0.451
+536,Backbone,"console, pc, backbone, launch, controller",Gaming,0.302,Hardware,0.294,Network Infrastructure,0.245,Robotics,0.245,Metaverse,0.22
+15821,Opus-Safety,"audits, staff, train, management",Human Resources,0.543,Productivity,0.453,Sales & CRM,0.422,Security,0.411,Professional Services,0.394
+24952,Afresh,"business, order, wholesaler, item, company, margin, retailer, profitability, demand, supply, freshness, constraint, store, grocery, produce",Physical Storage,0.707,Procurement,0.706,Logistics,0.699,Supply Chains,0.681,Sales & CRM,0.648
+22992,Agency9,"visualisation, map",Location Services,0.337,Business Intelligence,0.261,AR/MR/VR,0.24,Autonomous Driving,0.234,Analytics,0.225
+5252,LabGenius,"platform, robotic, edge, machine, engine, company",Robotics,0.627,Industrial IoT,0.583,Automation,0.567,Autonomous Driving,0.565,Manufacturing,0.549
+186,Factual,"team, datum, people, world, data",Productivity,0.376,Data Infrastructure,0.373,Future of Work,0.366,Business Intelligence,0.364,Data Management,0.359
+1660,Banneya-London,"customer, demand, designer, craftsmanship, journey, jewellery",Procurement,0.634,Fashion,0.606,E-commerce,0.604,Beauty,0.593,Sales & CRM,0.587
+10921,Magnax,"flux, e, value, market",Procurement,0.341,Sales & CRM,0.341,DeFi,0.314,Crypto,0.314,FinTech,0.304
+24523,Agente-Imovel-Inteligencia-de-Busca,"broker, owner, price, financing, seller, sell, market",Procurement,0.588,Sales & CRM,0.569,Professional Services,0.483,DeFi,0.46,Physical Storage,0.444
+621,Base4,"analysis, edge, value, portfolio, art",Design,0.506,Business Intelligence,0.478,Creator Economy,0.453,Analytics,0.449,Computer Vision,0.446
+21597,Agilefant,"question, web, plan, scale, user, assignment, approach, gilefant, model, accuracy, study, method, source, project, todo, research, activity, term",Productivity,0.566,Business Intelligence,0.564,Search,0.564,Sales & CRM,0.55,Analytics,0.533
+24050,Agile-Therapeutics,"specialty, woman, product, development, company",Beauty,0.598,Professional Services,0.588,Sales & CRM,0.493,Procurement,0.489,Retail,0.472
+25080,Agoprene,"furniture, fiber, foam, materialtech",Materials,0.578,3D Printing,0.551,Design,0.439,Fashion,0.437,Manufacturing,0.435
+23858,agreement24-avtal24,"platform, document, version, web, technology, database, automation, cloud, software, application",Cloud Infrastructure,0.697,Platforms,0.669,Data Infrastructure,0.654,Data Storage,0.633,Cloud Computing,0.627
+320,Foodily,"calorie, ingredient, chef, food, recipe, pie, refining",Nutrition,0.576,Food & Beverage,0.562,Logistics,0.429,Manufacturing,0.425,Gut Microbiome,0.425
+174,Funding-Circle,"funding, lending, investor, finance",FinTech,0.619,DeFi,0.597,Economic Empowerment,0.555,RegTech,0.458,Payments,0.443
+288,Beam-Impact,"mission, app, tech, nonprofit, community",Social Impact,0.573,Platforms,0.549,Sharing Economy,0.538,Creator Economy,0.527,Social Networks,0.5
+494,Beauty-Pie,"accessory, buyer, beauty, supplier, product, candle, body, fragrance, factory, care, quality",Beauty,0.622,Fashion,0.584,E-commerce,0.5,Procurement,0.479,Manufacturing,0.461
+103,GenSight-Biologics,"therapy, degeneration, disease, condition, gene, patient, treatment",Healthcare,0.548,Longevity,0.508,BioTech,0.378,Life Sciences,0.359,Psychedelics,0.337
+24463,Agrieye,"farm, plant, fertilizer, soil, land, farmer, crop, drone",AgTech,0.638,Defense,0.565,Industrial Tech,0.551,Energy Generation,0.536,Biodiversity,0.516
+21673,Agrikaab,"agriculture, agrifood, farmer",AgTech,0.577,Food & Beverage,0.515,Energy Generation,0.433,Industrial Tech,0.426,Biodiversity,0.423
+22490,Agro-Intelligence,"platform, knowledge, distributor, advantage, industry, solution, company, founder, standard, machine, product, trend, producer, goal, ceo, market",Sales & CRM,0.604,Procurement,0.599,Creator Economy,0.584,MarTech,0.58,Retail,0.58
+13201,Talea,"worry, life, stress, guilt, goal, care, quality",Happiness & Wellbeing,0.611,SexTech,0.581,FamilyTech,0.46,Disinformation,0.435,FemTech,0.402
+211,HouseTrip,"office, wife, team, website, book, husband, list",Creator Economy,0.419,Death Tech,0.402,Travel,0.395,Sales & CRM,0.379,Future of Work,0.379
+23729,Ahandyhand,"platform, skill, code, solution, engine, time, category, point, result, help, meeting, qualification, assistance, service, home, task, market, description, job, idea",Platforms,0.577,Productivity,0.571,Search,0.547,Industrial IoT,0.538,API-First,0.534
+415,Big-Health,"therapeutic, medicine, sleep, disorder, health",Psychedelics,0.571,Healthcare,0.559,Happiness & Wellbeing,0.549,Sport & Wellness,0.438,Life Sciences,0.426
+226,BioXell,"autoimmunity, disease",Gut Microbiome,0.169,Healthcare,0.15,Nutrition,0.146,Longevity,0.133,Psychedelics,0.119
+109,Hutch,"team, racing, head, group, fun, nature, time, office, play, datum, experience, player, game, meet, place, service, community",Esports,0.525,Gaming,0.497,Sharing Economy,0.465,Travel,0.436,Space Tech,0.432
+1256,Predina-Tech,"street, weather, intersection, location",Location Services,0.543,Mobility,0.457,Transportation,0.431,Infrastructure Tech,0.427,Autonomous Driving,0.347
+12,BitPay,"relationship, wallet, payment, gateway, transaction, sign, paymet, processing, integration",Payments,0.696,Procurement,0.536,Sales & CRM,0.524,API-First,0.508,FinTech,0.475
+23074,Ahum,"psychology, therapy, psychologist, director, therapist",Healthcare,0.429,Professional Services,0.423,Happiness & Wellbeing,0.399,Psychedelics,0.37,Sport & Wellness,0.353
+1826,BlockFrauds,"touchpoint, collection, datum, insight, software, learn, data, blockfraud",Business Intelligence,0.495,Big Data,0.462,API-First,0.457,Analytics,0.454,Video/Audio,0.441
+22401,AiBA,toxicity,Psychedelics,0.264,Healthcare,0.216,Longevity,0.213,Entertainment,0.212,Disinformation,0.201
+25040,Aibel,"completion, maintenance, decommission",Circular Economy,0.398,Manufacturing,0.368,Data Centers,0.337,Procurement,0.335,Productivity,0.322
+1693,Blokur,"platform, creator, mission, management, company, internet",Creator Economy,0.706,Platforms,0.657,Sharing Economy,0.591,Social Networks,0.548,Design,0.544
+6163,BONESUPPORT,"bone, fracture, osteoporosis",Nutrition,0.331,Sport & Wellness,0.307,FemTech,0.285,Healthcare,0.283,Longevity,0.258
+107,Blue-Bottle-Coffee,"roaster, coffee, cafe",Food & Beverage,0.321,Energy Efficiency,0.252,Beauty,0.252,Travel,0.245,Sharing Economy,0.244
+84,bonify,"customer, tool, vcs, recommendation, situation, datum, credit, company",Sales & CRM,0.671,Procurement,0.617,Professional Services,0.564,Physical Storage,0.545,E-commerce,0.537
+287,incident.io,"communication, solution, war, discussion, customer, user, incident",Communications,0.478,Social Networks,0.474,Sales & CRM,0.439,Procurement,0.426,Security,0.42
+24445,Aibidia,"focus, datum, shift, entry, management, transfer",Productivity,0.458,Human Resources,0.423,Sales & CRM,0.418,Future of Work,0.382,Industrial IoT,0.381
+25277,Aico,"request, system, process, automation, manual",Automation,0.5,Industrial Tech,0.486,Industrial IoT,0.474,Robotics,0.463,API-First,0.461
+59,BrightHire,"recruiter, team, candidate, role, recruiting",Human Resources,0.506,Sales & CRM,0.42,Professional Services,0.387,Procurement,0.355,Productivity,0.335
+4656,Brainomix,"doctor, patient, biomarker, physicians, treatment",Healthcare,0.621,Life Sciences,0.488,Longevity,0.463,Health Tech,0.446,MedTech,0.414
+6,People.ai,"pipeline, campaign, opportunity, customer, feedback, drive, marketing, information, success, model, roi, service, marketer, revenue, enterprise, performance",Sales & CRM,0.826,MarTech,0.655,Procurement,0.57,AdTech,0.557,Professional Services,0.55
+21858,Aid-One,"victim, situation, aid, emergency",Security,0.423,Healthcare,0.38,Social Impact,0.327,InfoSec,0.274,Death Tech,0.273
+325,LaserComm,"network, communication, carrier, line, telephone, dispersion, service, field, voice",Telecoms,0.742,Communications,0.729,5G Networks,0.625,Mobile,0.581,Hardware,0.579
+25545,AI-Medical-Technology,"tool, dermalyser",Manufacturing,0.184,Industrial IoT,0.166,Business Intelligence,0.165,API-First,0.149,Automation,0.136
+25468,AirForestry,"forestry, forest",Biodiversity,0.418,Carbon Removal,0.386,Carbon Capture,0.336,Energy Generation,0.318,Autonomous Driving,0.309
+8416,CrowdJustice,"page, pledge, action, community",Social Impact,0.386,Social Networks,0.334,Sharing Economy,0.322,Death Tech,0.3,Web3,0.283
+23902,Airkit,"brand, asset, ship, customer, operation, datum, user, experience, optimize, voice, component, data",Hardware,0.614,Sales & CRM,0.612,Procurement,0.596,Telecoms,0.572,Industrial IoT,0.551
+6661,BullionVault,"platform, business, build, industry, history, company, startup, technology, start, client, software, development",Design,0.627,Platforms,0.622,Procurement,0.61,Mobile,0.61,FinTech,0.599
+518,Kaggle,"aviation, scientist, problem, machine, result, technology, information, science, application, data",Space Tech,0.579,Industrial Tech,0.55,Industrial IoT,0.54,Autonomous Driving,0.539,MedTech,0.525
+22911,Airolit,"drone, airolit, research, technology",Defense,0.452,AgTech,0.42,Robotics,0.391,Autonomous Driving,0.376,Carbon Capture,0.373
+2098,Gnergy,"efficiency, energy, emission, occupancy, cost",Climate Tech/CleanTech,0.611,Energy Efficiency,0.591,Energy Storage,0.564,Carbon Removal,0.532,GreenTech,0.532
+24136,Airstone,"latency, network, datacenter",Edge Computing,0.561,5G Networks,0.47,Data Storage,0.421,Cloud Infrastructure,0.385,Telecoms,0.368
+550,JuiceBox-Games,"team, character, heroes, inspiration, mission",Space Tech,0.364,Productivity,0.357,Entertainment,0.343,Design,0.339,Future of Work,0.333
+1306,Capitall,"brand, money, fintech, financial, investment, wealth, income",FinTech,0.651,Fashion,0.587,Payments,0.587,DeFi,0.586,Design,0.564
+22581,Airtame,"signage, screen, device, wall",Communications,0.398,Mobile,0.35,Social Networks,0.345,Security,0.339,Location Services,0.338
+23325,Airzyme,"biocatalyst, enzyme",Life Sciences,0.266,BioTech,0.259,Chemicals,0.218,Nano,0.19,Genomics,0.183
+21737,Aito-Technologies,"customer, understand, relationship, context, leader, business, network, management, service",Sales & CRM,0.692,Communications,0.561,Procurement,0.56,Telecoms,0.54,MarTech,0.532
+475,King.com,"appeal, world, time, value, player, game, language, entertainment, games",Gaming,0.555,Entertainment,0.541,Esports,0.496,Design,0.443,Metaverse,0.441
+13500,vr-on,"cloud, enterprise, industry, application, reality, technology",Cloud Infrastructure,0.72,Data Centers,0.685,Cloud Computing,0.681,Data Storage,0.652,Edge Computing,0.638
+21718,Aivero,"machine, automation, service, robotic, human",Robotics,0.791,Automation,0.714,Industrial Tech,0.706,Industrial IoT,0.634,Future of Work,0.632
+520,"Centrify-(now-Delinea,-Inc.)","access, identity, security, approach, perimeter, power, defend",Cybersecurity,0.66,Security,0.6,InfoSec,0.558,Defense,0.547,Network Infrastructure,0.458
+222,Certess,"tool, team, company, combination, product, chip, quality, engineer, respin, way",Manufacturing,0.67,Procurement,0.583,3D Printing,0.57,Industrial IoT,0.54,Semiconductors,0.528
+23399,Akebia-Therapeutics,"ischemia, hypertriglyceridemia, anemia",Nutrition,0.271,Healthcare,0.251,Gut Microbiome,0.24,FemTech,0.214,Longevity,0.21
+40,Chord,"business, entrepreneur, management, product, governance, commerce, service",Professional Services,0.682,Sales & CRM,0.614,Food & Beverage,0.614,Procurement,0.597,Retail,0.593
+24155,Akkurate,"team, solution, self, bunch, battery",Productivity,0.371,Electrification,0.301,Hardware,0.282,Energy Storage,0.275,Security,0.27
+25327,Aktivbo,"platform, company, customer, operation, aktivbo, improvement, support",Sales & CRM,0.504,Procurement,0.499,Platforms,0.476,Retail,0.465,Physical Storage,0.464
+21763,Albacross,"web, platform, tool, generation, account, albacross, target, organization",Platforms,0.523,Productivity,0.521,API-First,0.507,Creator Economy,0.498,Sales & CRM,0.48
+24298,Alba-Therapeutics,"autoimmunity, compound, biopharmaceutical, pharmaceutical",Life Sciences,0.387,BioTech,0.372,Longevity,0.34,Nutrition,0.33,Healthcare,0.324
+131,Citymapper,"cities, city, choice, address, citymapper",Location Services,0.538,Infrastructure Tech,0.441,Transportation,0.43,Mobility,0.422,Travel,0.392
+22810,Alertix,"tool, commercialize, discovery, tk, method, growth, research",AdTech,0.477,3D Printing,0.477,Business Intelligence,0.46,Industrial IoT,0.459,BioTech,0.424
+3583,Clarity-AI,"government, company, organization, office, management, analytic, sustainability",Energy Efficiency,0.639,Climate Tech/CleanTech,0.617,GreenTech,0.598,Biodiversity,0.578,Fashion,0.566
+331,CipherCloud,"protection, encryption, privacy, compliance, security, risk, prevention",Cybersecurity,0.747,InfoSec,0.734,Security,0.672,Payments,0.577,Defense,0.561
+4629,Pollen---Social-Platform,"platform, publish, place, microblog",Social Networks,0.655,Creator Economy,0.571,Media,0.559,Sharing Economy,0.501,Esports,0.482
+24979,AlexisHR,"business, hr, datum, employee, management",Human Resources,0.604,Professional Services,0.548,Sales & CRM,0.504,Productivity,0.488,Physical Storage,0.438
+23543,Algiecel,"microalgae, fermentation, biomass, biogas, photobioreactor",Gut Microbiome,0.508,Energy Generation,0.412,Hardware,0.4,Materials,0.39,GreenTech,0.369
+2996,GoSquared,"platform, customer, business, marketing, company, chat",Social Networks,0.627,Communications,0.596,Platforms,0.593,MarTech,0.59,Sharing Economy,0.584
+22534,Alight,"purchase, business, agreement, enterprise, company",Procurement,0.726,Sales & CRM,0.552,Physical Storage,0.517,E-commerce,0.501,Retail,0.499
+23439,Aligos-Therapeutics,"pipeline, strategy, company, experience, expertise, nash, leader, development",Sales & CRM,0.675,Professional Services,0.555,Procurement,0.537,Productivity,0.536,RegTech,0.482
+17766,Kepler-Energy,"return, chain, turbine, access, velocity, unit, licence, scale, rotor, measurement, globe, instrumentation, power, supply, strength, resource, energy, phase",Energy Storage,0.581,Hardware,0.567,Energy Distribution,0.543,Industrial Tech,0.54,Electrification,0.507
+414,Coalition,"tool, threat, attack, cyber, security, cybersecurity",InfoSec,0.731,Cybersecurity,0.721,Defense,0.657,Security,0.592,Industrial Tech,0.541
+23193,Aline---Learn-Better,"knowledge, skill, professional, education, culture, angel, learner, validation, course",EdTech,0.516,Professional Services,0.493,Sport & Wellness,0.467,FamilyTech,0.455,Sales & CRM,0.446
+116,Clinkle,"wallet, payment, transaction",Payments,0.548,FinTech,0.327,Crypto,0.298,E-commerce,0.277,Procurement,0.26
+23511,Alios-BioPharma,"platform, agent, engineering, activator, viruse, product, interferon, technology, variety, activation",Semiconductors,0.602,Hardware,0.592,Industrial IoT,0.509,Manufacturing,0.507,Nano,0.507
+517,Codecademy,"student, learner, skill, codecademy",Developer Tools,0.502,Computer Vision,0.449,EdTech,0.447,Robotics,0.413,Design,0.41
+23759,Alkalon,"gum, nicotine, smoke, smoking",Happiness & Wellbeing,0.348,Psychedelics,0.335,FemTech,0.325,SexTech,0.316,Longevity,0.313
+146,Collibra,"platform, business, datum, transformation, data, collaborate, company",Data Management,0.581,Data Infrastructure,0.58,Platforms,0.573,Sales & CRM,0.557,Cloud Infrastructure,0.556
+354,Confluent,"pipeline, stream, source",Sales & CRM,0.29,Video/Audio,0.268,Carbon Capture,0.243,Cloud Ops,0.243,Generative AI,0.235
+23292,All-Aboard,"planet, carbon, footprint, emission",Carbon Capture,0.622,Carbon Removal,0.612,GreenTech,0.524,Climate Tech/CleanTech,0.517,Circular Economy,0.473
+25636,All-Ears,"telemarketing, association, organization, job, people, company",Sales & CRM,0.603,MarTech,0.581,Professional Services,0.533,InsurTech,0.507,Telecoms,0.499
+6926,GrandNanny,"training, school, childcare",FamilyTech,0.595,Sport & Wellness,0.472,Professional Services,0.422,Beauty,0.373,EdTech,0.353
+344,Cowboy,"rider, bike, peddle, saddle",Mobility,0.328,Transportation,0.303,Electrification,0.25,Robotics,0.245,Circular Economy,0.233
+22388,Alligator-Bioscience,"pipeline, platform, iia, candidate, development, project, library, company",Sales & CRM,0.549,Industrial IoT,0.512,Platforms,0.504,RegTech,0.503,Productivity,0.494
+316,Criteo,"growth, scale, datum, roi, ingenuity, performance",Productivity,0.458,Business Intelligence,0.395,Future of Work,0.381,Sales & CRM,0.369,3D Printing,0.367
+134,Crowdpac,"platform, participation, support, change, use",Platforms,0.538,Social Networks,0.531,Esports,0.485,Sharing Economy,0.482,Creator Economy,0.476
+23427,AlloCure,"bone, injury, marrow, transplant, cell, kidney",Healthcare,0.418,Longevity,0.369,MedTech,0.329,Gut Microbiome,0.298,Transportation,0.295
+24773,ALPA-Kids,"nature, company, culture, learn, learning, researcher, content, example",Media,0.563,Entertainment,0.547,Design,0.547,Biodiversity,0.544,Creator Economy,0.533
+24807,Alpakka-Media,"animation, games, dvd, tv, cd",Video/Audio,0.547,Entertainment,0.481,AR/MR/VR,0.465,Gaming,0.453,Metaverse,0.452
+25699,Alphagreen-Group,"brand, distribution, asset, marketplace, product, brands, demand, consumer, acquisition, sale",Procurement,0.71,Sales & CRM,0.643,E-commerce,0.619,Fashion,0.599,Entertainment,0.565
+22085,Alpha-Paw,"planet, cause, mission, product, life, problem",Space Tech,0.515,Energy Generation,0.375,Data Centers,0.363,Carbon Removal,0.355,Future of Work,0.349
+21942,AlphaSense,"business, customer, market, institution, professional, enterprise, company",Sales & CRM,0.68,Professional Services,0.634,Procurement,0.609,Physical Storage,0.589,Retail,0.579
+57,Culture-Amp,"type, business, culture, hand, experience, opportunity, enterprise, technology",Fashion,0.561,Design,0.557,Sales & CRM,0.543,Future of Work,0.543,Mobile,0.538
+27,Cutover,"platform, communication, visualization, infrastructure, datum, event, analyze, flow, data, performance",Business Intelligence,0.642,Data Infrastructure,0.581,Cloud Infrastructure,0.571,Industrial IoT,0.565,Analytics,0.563
+24641,Alphaville,"business, construction, communication, industry, carbon, management, hotel",Travel,0.645,GreenTech,0.63,Climate Tech/CleanTech,0.63,PropTech,0.608,Food & Beverage,0.599
+22651,Alt,"store, sell, asset, card",E-commerce,0.436,Payments,0.431,Physical Storage,0.421,Procurement,0.418,Sales & CRM,0.394
+449,Deepnote,"project, team, datum, asset, time",Productivity,0.536,Future of Work,0.368,Design,0.306,Space Tech,0.302,Industrial IoT,0.3
+2658,Skin-+-Me,"cream, guidance, skin",Beauty,0.305,Healthcare,0.281,Security,0.228,Nutrition,0.192,API-First,0.185
+114,Datadog,"platform, server, downtime, database, monitor, cloud, datadog, application",Cloud Infrastructure,0.636,Data Infrastructure,0.624,Big Data,0.604,Edge Computing,0.6,Cloud Computing,0.595
+526,Digiquant,"business, operation, support, system, service, solution, bill",Procurement,0.582,Industrial Tech,0.548,Sales & CRM,0.535,Physical Storage,0.514,Payments,0.51
+23082,Altered,"upgrade, adaptor, education, socket, installation, liter, area, globe, retro, tech, increase, equipment",Hardware,0.573,Industrial IoT,0.513,Telecoms,0.499,Electrification,0.495,Industrial Tech,0.483
+231,DoubleDutch,"datum, meeting, event, information, integration, activity, conference, association, page, expos",Productivity,0.464,Business Intelligence,0.448,Entertainment,0.443,Space Tech,0.436,Esports,0.417
+24285,Altimmune,"vaccine, intranasal, adenovirus",BioTech,0.199,Cybersecurity,0.149,Healthcare,0.138,Life Sciences,0.129,Defense,0.117
+22675,Aluwave,"design, system, lighting, technology",Industrial Tech,0.501,Manufacturing,0.471,Hardware,0.444,3D Printing,0.435,Automotive,0.425
+381,Dimdim,"web, share, webcam, download, software, code, source, chat",Video/Audio,0.675,Communications,0.564,Social Networks,0.534,Connected Life,0.507,Cybersecurity,0.501
+24253,Alvar-Pet,"packaging, supplier, chain, recipe, ingredient",Procurement,0.586,Logistics,0.577,Supply Chains,0.499,Physical Storage,0.491,Food & Beverage,0.469
+24421,Alvin,"control, team, cost, plug, challenge, people, company, co, privacy, datum, connection, saas",Procurement,0.586,Productivity,0.551,Sharing Economy,0.55,Sales & CRM,0.541,Communications,0.528
+23005,Amferia,"infection, bacteria, healthcare, wound",Gut Microbiome,0.489,Healthcare,0.469,MedTech,0.378,Longevity,0.343,Health Tech,0.339
+347,Dubsmash,"movie, animation, videotape, clip, video, song, section, audio",Video/Audio,0.741,Entertainment,0.542,Media,0.459,Search,0.457,Computer Vision,0.437
+3625,Block-Renovation,"material, design, labor, construction, experience, process, architect, renovation, work, contractor",Manufacturing,0.63,Design,0.556,3D Printing,0.521,Industrial Tech,0.51,Procurement,0.506
+25083,Ampa-Medical,"device, bag, usage, time",Connected Life,0.375,Hardware,0.361,IoT,0.348,Edge Computing,0.342,Mobile,0.339
+423,eero,"eeros, eero, nook",Creator Economy,0.249,Sharing Economy,0.22,Crypto,0.187,Communications,0.185,Web3,0.182
+13949,Zype,"channel, infrastructure, tv, video",Telecoms,0.656,Communications,0.623,Video/Audio,0.619,Media,0.577,Entertainment,0.571
+21743,AnaCatum,"network, analog, sensor, provider, integration, signal",Telecoms,0.561,IoT,0.532,Network Infrastructure,0.52,5G Networks,0.513,Industrial IoT,0.512
+7,Alkemics,"speed, platform, relationship, order, challenge, world, time, datum, product, experience, omnichannel, manufacturer, supply, process, face, error, way",Procurement,0.545,Hardware,0.545,Industrial IoT,0.505,Sales & CRM,0.488,Productivity,0.488
+8084,Gryphon-Group-Holdings,"platform, system, subject, interface, infrastructure, capital, technology, intermediary, launch, insurtech, adviser, core",Hardware,0.577,Industrial IoT,0.566,FinTech,0.551,Design,0.538,Platforms,0.527
+123,Egalet,"opioid, tablet, drug, pharmaceutical",Healthcare,0.436,Psychedelics,0.427,Life Sciences,0.369,Neuro,0.351,Longevity,0.317
+23502,AnaptysBio,"disease, antibody, protein, antibodie",Gut Microbiome,0.372,Longevity,0.345,Healthcare,0.313,BioTech,0.295,Life Sciences,0.273
+24894,Anatomic-Studios,"design, personality, fashion, experience, style, quality",Design,0.57,Fashion,0.567,Beauty,0.536,SexTech,0.453,E-commerce,0.45
+24942,Anergis,"vaccine, dust, pollen",Carbon Removal,0.215,Gut Microbiome,0.205,Carbon Capture,0.205,Connected Life,0.202,Healthcare,0.195
+25385,Animail,"pet, fish, toy, good, door, animal, bird, dog, e, reptile",Space Tech,0.37,Defense,0.368,Biodiversity,0.368,Hardware,0.364,SexTech,0.338
+6066,Elucidate,"risk, rating",InfoSec,0.267,Disinformation,0.261,Cybersecurity,0.252,Security,0.217,SexTech,0.214
+3949,Magma-Global,"accelerate, pipe, flowline",3D Printing,0.263,Sales & CRM,0.237,Automation,0.23,Payments,0.217,Robotics,0.207
+16930,Datatecnics,"system, customer, digitise, infrastructure, datum, ground, datatecnic, hardware, transform, client, delivery",Hardware,0.611,Industrial IoT,0.6,Cloud Infrastructure,0.577,Data Infrastructure,0.572,Telecoms,0.57
+5367,Love-Home-Swap,"destination, holiday, travel",Travel,0.642,Transportation,0.461,Mobility,0.39,Sharing Economy,0.347,Entertainment,0.341
+233,Enfore,"business, tool, collection, world, use, solution, access, company, service, goal, field, level, efficiency, enterprise, playing",Productivity,0.632,Sales & CRM,0.6,Procurement,0.597,Physical Storage,0.58,Platforms,0.545
+22456,Anocca,"vaccination, immunology, immunotherapeutic, immunity",Gut Microbiome,0.45,Longevity,0.39,BioTech,0.371,FemTech,0.35,InfoSec,0.342
+10196,Outdoorsy,"peer, industry, opportunity, marketplace, complexity, experience, choice, market",Sharing Economy,0.689,Procurement,0.59,Sales & CRM,0.585,E-commerce,0.584,Platforms,0.581
+11,Everpix,"image, brand, share, photograph, picture, life, user, photo",Creator Economy,0.531,Social Networks,0.526,Media,0.508,Sharing Economy,0.487,Design,0.469
+24405,Antas,"company, customer, support, supply, sector, service, partner, structure, market, management",Procurement,0.716,Sales & CRM,0.697,Physical Storage,0.655,Logistics,0.617,Professional Services,0.617
+23359,Antourage,"antourage, tool, creator, mission, job, experience, world, company",Creator Economy,0.544,Design,0.503,Productivity,0.494,Future of Work,0.491,Sales & CRM,0.481
+425,Expel,"alert, detection, compromise, attack, operation, security, ransomware, cryptojacke, investigation, step, threat",Cybersecurity,0.784,InfoSec,0.751,Security,0.572,Defense,0.546,Network Infrastructure,0.461
+87,Experiment,"platform, crowdfunding, category, service, computer, community",Platforms,0.647,Sharing Economy,0.637,Creator Economy,0.607,Crypto,0.58,DeFi,0.569
+10216,Prozo,"freight, business, company, warehousing, enterprise, fulfillment",Logistics,0.847,Physical Storage,0.792,Supply Chains,0.786,Procurement,0.656,Retail,0.615
+23874,AnyDesk,"help, usage, month, scenario, user, collaboration, world, access, hall",Productivity,0.512,Location Services,0.435,API-First,0.428,Sharing Economy,0.426,Social Networks,0.404
+13,Built-Technologies,"risk, compliance, experience",RegTech,0.434,Security,0.427,Cybersecurity,0.407,InsurTech,0.395,InfoSec,0.356
+13950,clipkit,"publisher, clipkit, library, content, website",Creator Economy,0.525,Media,0.465,Video/Audio,0.458,Platforms,0.396,Social Networks,0.394
+281,Fireblocks,"broker, exchange, store, otcs",Procurement,0.457,Physical Storage,0.451,Retail,0.42,E-commerce,0.401,Logistics,0.397
+4648,Omega-Diagnostics,"reaction, distribution, distributor, production, company, food, product, marketing, analysis, country, consumer, research, development, subsidiary",Procurement,0.641,Food & Beverage,0.639,Sales & CRM,0.631,Logistics,0.595,Supply Chains,0.587
+22597,Appfarm,"web, platform, tool, application, app, user, launch, cloud",Platforms,0.575,API-First,0.56,Cloud Ops,0.556,Cloud Computing,0.544,Cloud Infrastructure,0.509
+14,Flipboard,"news, magazine, medium, article",Media,0.708,Entertainment,0.466,Creator Economy,0.443,Disinformation,0.414,MarTech,0.411
+485,Flutter-Entertainment,"gaming, multiples, world, sport, flutter, game, area, entertainment, party, country",Esports,0.66,Gaming,0.653,Metaverse,0.539,Mobile,0.497,Entertainment,0.489
+19565,Anú-Dairy,"agriculture, farming, welfare, farmer, soil",AgTech,0.621,Biodiversity,0.524,Industrial Tech,0.5,Energy Generation,0.499,Social Impact,0.497
+21783,Appium-Technologies,"platform, business, head, deployment, opportunity, solution, company, office, standard, product, vendor, model, service, consumer, market, environment, component, application, enterprise",Platforms,0.628,Sales & CRM,0.596,Hardware,0.59,Procurement,0.588,Cloud Ops,0.583
+165,Front,"customer, business, relationship, team, hub, visit, system, time",Sales & CRM,0.622,Productivity,0.562,Sharing Economy,0.545,Communications,0.504,Procurement,0.501
+405,Frengo,"phone, website, update, stream, service, user, people, game, community",Social Networks,0.646,Esports,0.606,Communications,0.57,Sharing Economy,0.555,Video/Audio,0.548
+23278,AppJobs.com,"worker, workers, work, job",Future of Work,0.47,Industrial Tech,0.42,Productivity,0.372,Human Resources,0.363,Industrial IoT,0.348
+9048,Melio,"business, customer, office, fintech, company, time",Sales & CRM,0.659,Professional Services,0.59,FinTech,0.588,Procurement,0.563,Payments,0.562
+22267,Applied-Petroleum-Technology,"staff, industry, oil, experience, service, production, company, quality",Manufacturing,0.619,Procurement,0.588,Professional Services,0.562,Supply Chains,0.559,Logistics,0.558
+52,Funxional-Therapeutics,"disease, pain, disorder, inhibitor, diabetes, treatment, prevention, stroke",Healthcare,0.515,Longevity,0.394,Happiness & Wellbeing,0.391,Psychedelics,0.39,Nutrition,0.369
+549,Genmab,"therapeutic, cancer, antibody, treatment",BioTech,0.367,Psychedelics,0.352,Life Sciences,0.351,Longevity,0.337,Healthcare,0.315
+25712,Apptimate,"datum, mashup, point, way, thing",Entertainment,0.308,Space Tech,0.295,Productivity,0.285,Sharing Economy,0.273,Video/Audio,0.261
+23468,Aquafortus,"salinity, inland, desalination, wastewater",OceanTech,0.527,Carbon Removal,0.464,Energy Generation,0.411,GreenTech,0.408,Biodiversity,0.395
+22486,AquaGreen,"sludge, biochar, wastewater, agriculture, plant, phosphorus, fertilizer",GreenTech,0.507,Energy Generation,0.504,AgTech,0.46,Gut Microbiome,0.456,Materials,0.452
+387,Gojimo,"student, child, teacher, university",EdTech,0.367,FamilyTech,0.364,Healthcare,0.359,Social Impact,0.261,Professional Services,0.255
+299,Good-Eggs,"feed, food, staple, addition, wine, beer, grocer, meal, grocery, occasion",Food & Beverage,0.418,Nutrition,0.413,SexTech,0.401,Sport & Wellness,0.377,Gut Microbiome,0.374
+6980,Xention,"bladder, disease, pain, drug, treatment",Healthcare,0.356,Psychedelics,0.351,Longevity,0.245,Happiness & Wellbeing,0.227,Gut Microbiome,0.218
+22870,Aqua-Robur-Technologies,"pipeline, network, order, industry, mass, power, supply, water, leakage, level, state",Infrastructure Tech,0.612,Energy Distribution,0.606,Industrial Tech,0.584,Industrial IoT,0.55,Data Centers,0.547
+22825,Aqwary,"diving, diver, dive",OceanTech,0.391,Esports,0.267,Autonomous Driving,0.252,Travel,0.251,Gaming,0.243
+1501,Qogita,"brand, business, company, organization, category, retailer, trade, product",Procurement,0.703,Fashion,0.645,Sales & CRM,0.613,E-commerce,0.597,Logistics,0.585
+25300,Arantech,"brand, customer, operator, device, provider, service, premier",Sharing Economy,0.526,Telecoms,0.517,Sales & CRM,0.505,Communications,0.504,Procurement,0.498
+6443,HolidayFox,"discover, book, suggestion, kid",Generative AI,0.314,Future of Work,0.268,Space Tech,0.256,Search,0.25,Nano,0.248
+334,Hipcamp,"accommodation, tent, campsite, camping",Travel,0.517,Sharing Economy,0.348,Esports,0.303,Location Services,0.297,GreenTech,0.273
+6934,Intellisense,"system, customer, installation, product, email, support, service, website, training",Procurement,0.575,Industrial Tech,0.564,Hardware,0.546,Industrial IoT,0.536,Cloud Infrastructure,0.519
+23869,Arcam,"powder, cleaner, trolley, vacuum, aerospace",Space Tech,0.494,Manufacturing,0.435,Supply Chains,0.42,Materials,0.407,Transportation,0.407
+24159,ArcDia,"analysis, sample, result, test, laboratory",Business Intelligence,0.385,Sales & CRM,0.377,Procurement,0.356,Healthcare,0.341,Productivity,0.316
+23421,Arcellx,"therapy, immunotherapy, clinic, patient, treatment, medicine",Healthcare,0.569,Longevity,0.398,BioTech,0.389,Life Sciences,0.368,Psychedelics,0.326
+23749,Archii,"document, server, presentation, machine, technology, language, processing, colleague, computer",Hardware,0.533,Creator Economy,0.526,Cloud Infrastructure,0.521,Communications,0.514,Future of Work,0.504
+23403,Archimedes-Pharma,"treat, relief, morphine, pain, patient",Healthcare,0.513,Happiness & Wellbeing,0.361,Psychedelics,0.341,MedTech,0.321,Health Tech,0.291
+4156,Hubs,"metal, machine, network, custom, service, access",Sharing Economy,0.506,Industrial IoT,0.505,Industrial Tech,0.492,Cybersecurity,0.484,Network Infrastructure,0.483
+1253,HowCloud,"student, teacher, classroom",EdTech,0.36,Healthcare,0.351,Neuro,0.281,Communications,0.276,Productivity,0.275
+10310,Fabrum,"design, research, construction, detail, purpose, facility, development, manufacturing, technology",Manufacturing,0.619,Industrial Tech,0.564,3D Printing,0.509,Supply Chains,0.505,Logistics,0.488
+4979,Insurdata,"insurance, reinsurance, risk, pricing, portfolio",InsurTech,0.556,Professional Services,0.396,Sales & CRM,0.382,RegTech,0.376,Procurement,0.356
+21545,Arctic-Robotics,"drone, sensor, solution",Robotics,0.377,Defense,0.32,AgTech,0.32,IoT,0.318,Automation,0.315
+14922,Chipmetrics,"line, business, film, product, test, application",Sales & CRM,0.624,Procurement,0.563,AdTech,0.54,Industrial IoT,0.51,MarTech,0.494
+25173,Arctic-Security,"abusesa, abuse, threat",Cybersecurity,0.365,Extremism,0.355,Security,0.336,InfoSec,0.326,Disinformation,0.239
+22473,Area9-Lyceum,"group, collaboration, centers, technology, migration, science, partner, activity",Future of Work,0.551,Sharing Economy,0.52,Mobility,0.495,Social Networks,0.48,Gaming,0.474
+207,Italic,"consumer, manufacturer, brand, customer",Procurement,0.516,Sales & CRM,0.495,Sharing Economy,0.453,Beauty,0.45,MarTech,0.433
+208,iZettle,"banking, payment, chip, checkout, funding",Payments,0.671,FinTech,0.622,DeFi,0.54,Crypto,0.462,Economic Empowerment,0.449
+24296,Ariceum-Therapeutics,"antagonist, receptor, neuroendocrine, somatostatin",Psychedelics,0.258,Neuro,0.242,Web3,0.218,Procurement,0.214,API-First,0.178
+25249,ARKK-Copenhagen,"brand, founder, launch",Creator Economy,0.363,Design,0.274,Esports,0.274,Entertainment,0.27,Sharing Economy,0.268
+19495,Ciphergrid,"use, access, ownership, datum, way",Cybersecurity,0.319,Data Management,0.307,Sharing Economy,0.302,Data Centers,0.276,Data Infrastructure,0.276
+24594,Arnergy,"business, operation, market, mission, product, client, service, use",Sales & CRM,0.64,Procurement,0.617,Physical Storage,0.574,Platforms,0.571,Sharing Economy,0.561
+531,KarmaCheck,"verification, check, software",Payments,0.337,Cybersecurity,0.329,Automation,0.278,Developer Tools,0.266,Security,0.266
+13196,OroraTech,"nanosatellite, constellation, temperature",Nano,0.288,Space Tech,0.205,BioTech,0.187,Location Services,0.173,Semiconductors,0.158
+6779,Dock,"infrastructure, technology, scalability, dock, innovation",Cloud Ops,0.584,Cloud Computing,0.54,Cloud Infrastructure,0.518,Data Centers,0.486,Infrastructure Tech,0.48
+503,Kimotion-Technologies,"transistor, circuit, kimotion, analog",Semiconductors,0.38,Hardware,0.307,Quantum Computing,0.302,Neuro,0.26,AdTech,0.225
+25487,Artificial-Solutions,"platform, business, specialist, developer, channel, deployment, time, device, technology, ability, sector, touch, website, application",Mobile,0.652,Platforms,0.612,Communications,0.604,Hardware,0.601,Telecoms,0.585
+24968,Arundo-Analytics,"stex, cost, accelerator, machine, program, model, cloud, software",Cloud Infrastructure,0.547,API-First,0.525,Data Storage,0.497,Big Data,0.496,Cloud Computing,0.491
+184,Kojo,"procurement, professional, vendor, contractor, construction, warehouse",Procurement,0.701,Physical Storage,0.65,Supply Chains,0.642,Logistics,0.631,Manufacturing,0.574
+260,Lookout,"control, purpose, security, safeguard",Security,0.623,Cybersecurity,0.556,Defense,0.434,InfoSec,0.433,Industrial Tech,0.372
+23785,Asante-Solutions,insulin,Nutrition,0.223,Healthcare,0.175,Longevity,0.153,Life Sciences,0.116,Psychedelics,0.112
+24783,Ascade,"chain, operator, operation, maintenance, support, operators, supply, automation, service, implementation, training",Logistics,0.645,Manufacturing,0.633,Supply Chains,0.62,Industrial IoT,0.615,Industrial Tech,0.605
+1927,MasterClass,"writing, subject, masterclass",Design,0.288,Productivity,0.275,LegalTech,0.274,EdTech,0.274,Neuro,0.273
+3051,RazorSecure,"truck, car, network, bus, plane",Transportation,0.656,Mobility,0.572,Automotive,0.564,Telecoms,0.537,Autonomous Driving,0.512
+22613,AskCody,"collaboration, firm, people, organization, company, office, productivity, employee, scheduling, workplace, booking, headquarters, management",Productivity,0.634,Sales & CRM,0.571,Future of Work,0.563,Human Resources,0.556,Professional Services,0.548
+216,Lehigh-Technologies,"tire, range, benefit, cost, good, customer, replace, tailor, service, consumer, s",Procurement,0.548,E-commerce,0.52,Sales & CRM,0.485,Fashion,0.483,Logistics,0.468
+24999,Asolvi,"functionality, solution, customer, experience, provider, contract, service, issue, scalability, task, need, mission",Procurement,0.622,Platforms,0.584,Sales & CRM,0.576,Cloud Infrastructure,0.563,E-commerce,0.549
+4055,Locate-Bio,"control, chronic, pain, product, drug, treatment, infection, company",Healthcare,0.636,Procurement,0.538,Beauty,0.51,MedTech,0.5,Sport & Wellness,0.462
+6832,Locus-Robotics,"consumer, retailer, warehouse, order, commerce, fulfillment",Logistics,0.746,Physical Storage,0.731,Supply Chains,0.665,Procurement,0.661,E-commerce,0.66
+130,LOVEFiLM,"member, members, player, support, subscription, basis, ray",Creator Economy,0.376,Sharing Economy,0.348,Communications,0.325,Esports,0.324,Video/Audio,0.318
+25294,Asqella,"camera, sensor, video",Video/Audio,0.443,Robotics,0.412,Connected Life,0.4,Computer Vision,0.397,IoT,0.397
+22745,Asthmatuner,"asthma, spirometer",Healthcare,0.323,Sport & Wellness,0.207,Psychedelics,0.195,Health Tech,0.185,MedTech,0.185
+10382,Styla.com,"content, design, fashion",Design,0.612,Fashion,0.606,Creator Economy,0.53,Entertainment,0.507,Media,0.502
+13197,EcoG,"value, monetizing, revenue",DeFi,0.383,Sharing Economy,0.376,Creator Economy,0.373,Platforms,0.365,Crypto,0.364
+121,Mediasurface,"business, company, marketing, manage, management, enterprise, subsidiary",Professional Services,0.61,Sales & CRM,0.585,Procurement,0.573,Physical Storage,0.57,Food & Beverage,0.557
+22207,Astralis,"team, sport, angel, world, player",Esports,0.465,Gaming,0.339,Entertainment,0.321,Sport & Wellness,0.32,Travel,0.315
+23948,Atium,"metal, chemical, water",Materials,0.531,Hardware,0.392,Crypto,0.386,Nano,0.384,Chemicals,0.368
+10401,OTHERWORLD,"pod, team, centre, people, celebrity, nomination",Esports,0.447,Entertainment,0.427,Media,0.396,Creator Economy,0.382,Sharing Economy,0.355
+3614,SODA,"platform, legitimacy, marketplace",Platforms,0.603,Sharing Economy,0.509,Creator Economy,0.415,Web3,0.385,Cloud Computing,0.379
+24100,Atomica-Corp,"solution, internet, therapy, time, problem, customer, itar, diagnostic, sensor, help, experience, approach, partner, development",Healthcare,0.618,MedTech,0.545,Industrial IoT,0.53,Sales & CRM,0.522,IoT,0.505
+9752,Coomtech,"efficiency, combustion, energy, emission",Climate Tech/CleanTech,0.554,Energy Storage,0.534,Carbon Removal,0.534,Energy Efficiency,0.509,Carbon Capture,0.501
+6708,Recommind,"search, categorization, information, source",Search,0.625,Location Services,0.471,Media,0.426,Analytics,0.406,Business Intelligence,0.401
+322,Menu-Next-Door,"food, chef, meal",Food & Beverage,0.534,Nutrition,0.413,Sport & Wellness,0.408,Travel,0.364,Happiness & Wellbeing,0.34
+488,Metapack,"order, retailer, warehouse, delivery, management, enterprise",Physical Storage,0.757,Logistics,0.751,Supply Chains,0.724,Procurement,0.671,Retail,0.666
+71,Nasty-Gal,"platform, store, accessory, woman, clothing, shoe, school",Fashion,0.55,Beauty,0.519,E-commerce,0.443,Sharing Economy,0.429,Design,0.403
+527,Nauto,"collision, road, vehicle, driver, drive",Autonomous Driving,0.494,Transportation,0.464,Mobility,0.435,Automotive,0.423,Security,0.388
+24117,Atrenta,"electronic, semiconductor, chip, engineer",Semiconductors,0.671,Deep Tech,0.552,Hardware,0.53,Quantum Computing,0.447,InsurTech,0.437
+5724,Nexeon,"lithium, ion, silicon, carbon",Energy Storage,0.454,Materials,0.449,Semiconductors,0.441,Hardware,0.441,Nano,0.385
+32,Nexthink,"automation, leader, workplace, employee, management, enterprise, company",Future of Work,0.672,Industrial IoT,0.643,Robotics,0.639,Automation,0.609,Industrial Tech,0.594
+466,Mimecast,"cost, user, email, subscription, way",Sharing Economy,0.437,Creator Economy,0.433,Platforms,0.411,Procurement,0.404,E-commerce,0.389
+21,Wandera,"console, network, access, internet, cyber, security, connection, offer, cloud, way",Cybersecurity,0.638,Cloud Infrastructure,0.602,Network Infrastructure,0.599,Data Centers,0.599,Telecoms,0.579
+22966,Auddly,"platform, publisher, collaboration, workflow, hub, project, need, management",Productivity,0.605,Creator Economy,0.602,Platforms,0.549,Sharing Economy,0.506,API-First,0.491
+24811,Augumenta,"hand, interaction, gesture",AR/MR/VR,0.383,Communications,0.374,Neuro,0.341,Hardware,0.34,Robotics,0.324
+24836,aumio,"exercise, concentration, yoga, meditation",Happiness & Wellbeing,0.65,Psychedelics,0.369,Sport & Wellness,0.335,Energy Generation,0.267,Nutrition,0.24
+350,Mind-NRG,"treat, disease, disorder, schizophrenia",Psychedelics,0.6,Happiness & Wellbeing,0.41,Healthcare,0.392,Life Sciences,0.304,Longevity,0.272
+24176,Aura-Financial,"loan, borrower, credit",FinTech,0.49,DeFi,0.48,Payments,0.456,Economic Empowerment,0.406,Procurement,0.36
+24013,Aurealis-Pharma,"business, model, research, cro, institution, strategy, collaboration, company",Sales & CRM,0.646,Procurement,0.633,Professional Services,0.63,Productivity,0.58,MarTech,0.552
+13304,Inseptra-Systems,"packet, network, traffic, scale, networks",Network Infrastructure,0.58,Telecoms,0.552,5G Networks,0.537,Communications,0.471,Edge Computing,0.462
+9796,Aurelia-Turbines,"government, protection, team, strategy, world, company, reliability, compnt, program, product, expertise, technology, body, authority, class, right, application",Industrial Tech,0.632,Procurement,0.617,Defense,0.614,Manufacturing,0.592,Security,0.588
+2746,Burst-Insights,"influencer, consumer, brand, demand",Sharing Economy,0.495,Sales & CRM,0.492,Creator Economy,0.481,MarTech,0.452,Procurement,0.432
+7413,Healthcare-and-Services-Technology,"team, solution, difference, leader, end, cloud",Cloud Ops,0.565,Cloud Computing,0.519,Productivity,0.501,Data Storage,0.478,Data Centers,0.469
+10442,Dfns,"infra, platform, frictionless, business, asset, developer, peace, company, office, regulation, commerce, enquiry, vulnerabilitie, manage, app, cloud, custody, city, class, mission, delivery, client, battle, site, waitlist, freedom, serenity",DeFi,0.571,Web3,0.567,Defense,0.563,Creator Economy,0.561,LegalTech,0.558
+419,Molecular-Partners,"therapeutic, medicine, disease, protein",Life Sciences,0.51,BioTech,0.502,Longevity,0.446,Healthcare,0.423,Psychedelics,0.392
+24261,Aurora-Propulsion-Technologies,"mass, planet, satellite, mission, orbit",Space Tech,0.635,Location Services,0.375,Hardware,0.371,Cloud Ops,0.37,Defense,0.319
+10446,Paladin,"decentralization, governance",Web3,0.502,Blockchain,0.497,DeFi,0.457,Crypto,0.422,Economic Empowerment,0.33
+25269,Automic,"automate, automation, task",Automation,0.573,Robotics,0.56,Industrial IoT,0.497,Manufacturing,0.47,Industrial Tech,0.456
+266,Moleskine,"print, collection, distribute, office, product, stationery, demand, department, store, home, book, sale",Procurement,0.575,Physical Storage,0.55,Sales & CRM,0.519,Logistics,0.516,E-commerce,0.493
+5851,Reward-Finance-Group,"situation, box, client, help, approach",Procurement,0.332,Sales & CRM,0.327,Physical Storage,0.297,Productivity,0.296,API-First,0.281
+2240,Rightcharge,"charge, rightcharge, charger",Electrification,0.337,Energy Storage,0.309,Automotive,0.298,Procurement,0.256,Energy Distribution,0.246
+22124,Autotech-Ventures,"business, industry, firm, company, corporation, capital, manufacturer, corporations, capitalization, fundraising, venture, dealership, market, investor, logistic",Sales & CRM,0.628,Professional Services,0.627,Procurement,0.586,FinTech,0.581,RegTech,0.566
+23508,Availity,"prescribing, medication, company, office, patient, appointment, laboratory, drug, delivery, pharmacy, physician",Healthcare,0.66,Life Sciences,0.484,MedTech,0.482,Procurement,0.474,Sales & CRM,0.447
+21938,Aves-Netsec,"attack, security, attacker, cybersecurity",InfoSec,0.787,Cybersecurity,0.766,Defense,0.606,Security,0.566,Network Infrastructure,0.525
+10699,Helios-Towers-Africa,"telecom, tower, number, mobile",Telecoms,0.641,Communications,0.604,5G Networks,0.511,Mobile,0.506,Network Infrastructure,0.43
+4239,Fergus,"user, fergus, profit, notification",Sales & CRM,0.266,Creator Economy,0.234,Procurement,0.227,Social Networks,0.225,Sharing Economy,0.204
+303,Sanlo,"access, product, service, company",Procurement,0.544,Sharing Economy,0.54,Sales & CRM,0.484,Platforms,0.481,Physical Storage,0.468
+23,TweetDeck,"view, desktop, client, device, user, service",Communications,0.426,Telecoms,0.402,Platforms,0.396,Sharing Economy,0.393,Cloud Infrastructure,0.384
+23206,AxCrypt,"history, internet, complexity, technology, information, tech",FinTech,0.556,5G Networks,0.552,Hardware,0.548,Telecoms,0.544,Cloud Infrastructure,0.54
+23087,Axiomatics,"cloud, infrastructure, enterprise, solution",Cloud Computing,0.707,Cloud Ops,0.684,Data Centers,0.641,Data Storage,0.64,Cloud Infrastructure,0.632
+24925,Babble,"remove, focus, product, friend, communication, problem, time",Productivity,0.479,Communications,0.397,Sales & CRM,0.387,Neuro,0.386,Healthcare,0.374
+24892,Bambuser,"broadcasting, platform, video, website, software, segment",Video/Audio,0.719,Media,0.619,Communications,0.606,Esports,0.592,Entertainment,0.569
+25565,Bamomas,"customer, battery, service, approach, solution",Sales & CRM,0.428,Energy Storage,0.4,Sharing Economy,0.388,Procurement,0.388,Electrification,0.383
+25,The-Climate-Corporation-(Bayer-Crop-Science),"farming, farmer, saas",AgTech,0.454,Cloud Ops,0.379,Social Impact,0.371,DeFi,0.351,Food & Beverage,0.348
+21932,Bandwidth-and-Cloud-Services-Group,"premier, haul, provider, service, cloud",Cloud Computing,0.541,Cloud Ops,0.539,Data Storage,0.529,Cloud Infrastructure,0.526,Sharing Economy,0.502
+2748,Seeker-Industries,"tool, collar, product, user, ecommerce, monitor, offering, website, software",Procurement,0.553,Industrial IoT,0.549,Platforms,0.533,Sales & CRM,0.513,MarTech,0.502
+3479,SenseTime,"industry, strategy, world, company, customer, office, infrastructure, productivity, society, chip, technology, interconnection, generation, future, institutions, partner, growth, research, businesse, market, software, application, development, innovation",Manufacturing,0.653,Mobile,0.643,Fashion,0.62,Industrial Tech,0.613,Industrial IoT,0.608
+5223,ofo,"flexibility, traveler, bike, distance, trip, commuter, destination, transportation, country, ride",Transportation,0.629,Mobility,0.571,Travel,0.517,Location Services,0.478,Mobile,0.439
+35,onefinestay,"accommodation, hospitality",Travel,0.648,Sharing Economy,0.367,Entertainment,0.292,Professional Services,0.275,E-commerce,0.269
+228,Optimizely,"platform, brand, tool, equip, experience, mission",Platforms,0.554,Procurement,0.499,Design,0.489,Sharing Economy,0.483,Productivity,0.461
+25396,BASIX-Sub-K-iTransactions,"sub, vision, bridge, access, solution, point, recruiting, distance, card, end, touch, basis, walk, areas, connectivity, segment, mobile, training",Communications,0.569,Location Services,0.533,Telecoms,0.523,Robotics,0.503,IoT,0.491
+2449,Ocyan,"banking, business, insurance, market, transaction",Payments,0.612,FinTech,0.603,Sales & CRM,0.57,Procurement,0.534,DeFi,0.521
+25423,Bayn-Europe,"food, sugar, calorie, beverage, recipe, ingredient",Nutrition,0.586,Gut Microbiome,0.513,Food & Beverage,0.497,Sport & Wellness,0.395,FemTech,0.372
+23489,BBI-Group,"success, performance, quality",Productivity,0.381,Entertainment,0.38,Sales & CRM,0.357,Human Resources,0.354,Manufacturing,0.3
+34,Tekion,"dealer, oem, dealership",Procurement,0.398,Automotive,0.341,Manufacturing,0.33,E-commerce,0.312,Logistics,0.304
+24390,BBS-Automation,"partner, customer, employee, provider, chip, solution",Procurement,0.541,Sharing Economy,0.503,Payments,0.493,Platforms,0.482,Sales & CRM,0.473
+2193,Genexa,"medicine, business, product, aisle, people, company",Beauty,0.588,Sales & CRM,0.56,Healthcare,0.553,Procurement,0.542,Professional Services,0.519
+24009,BCaster,"content, video, user",Video/Audio,0.466,Creator Economy,0.454,Social Networks,0.439,Entertainment,0.389,Media,0.361
+21318,BCB-Medical,"quality, support, treatment, health, care",Happiness & Wellbeing,0.51,Sport & Wellness,0.5,Healthcare,0.496,FamilyTech,0.449,SexTech,0.446
+24252,BC-Platforms,"platform, company, case, support, m, manage, jurisdiction, service, healthcare, market, law",LegalTech,0.613,Professional Services,0.56,Platforms,0.553,FinTech,0.546,RegTech,0.539
+23307,Beatly,"platform, brand, ad, customer",Platforms,0.589,Sharing Economy,0.561,AdTech,0.52,Creator Economy,0.502,MarTech,0.491
+22335,Beat.no,"playlist, music, track, label, record, service, cabel",Video/Audio,0.555,Entertainment,0.456,Sales & CRM,0.392,Media,0.389,Procurement,0.388
+91,Patreon,"patreon, membership, support, trademark, fund",Creator Economy,0.502,DeFi,0.442,Sharing Economy,0.424,Web3,0.416,Payments,0.411
+24216,Beddit,"detail, sheet, solution, company, device, technology, method, consumer, ballistocardiography, micro",MedTech,0.451,Healthcare,0.437,Hardware,0.402,Semiconductors,0.377,Procurement,0.349
+24763,BeED,"education, progress, learn",FamilyTech,0.412,Economic Empowerment,0.369,Social Impact,0.349,SexTech,0.349,Entertainment,0.332
+24722,Beenova-AI,"corporate, basis, productivity, employee",Human Resources,0.534,Productivity,0.485,Future of Work,0.452,Sales & CRM,0.397,Professional Services,0.361
+36,Netvibes,"datum, netvibe",Telecoms,0.224,Data Centers,0.207,Communications,0.193,Space Tech,0.18,Sharing Economy,0.177
+4083,GitGuardian,"credential, detection, cybersecurity, startup, code",Cybersecurity,0.665,InfoSec,0.595,RegTech,0.438,Security,0.43,Defense,0.413
+150,Starburst,"cost, investment, datum, value, analytic, data",Business Intelligence,0.508,Analytics,0.476,Energy Storage,0.419,Data Infrastructure,0.414,Data Management,0.404
+462,Peoplevox,"order, barcode, price, warehouse, management, inventory",Procurement,0.733,Logistics,0.723,Physical Storage,0.72,Supply Chains,0.694,Retail,0.593
+25615,Be-My-Eyes,"eye, vision, press, quest, product, connection, technology, suite, app, button, video",Video/Audio,0.584,Communications,0.534,Mobile,0.498,Hardware,0.497,Connected Life,0.486
+10512,Upfront-Chromatography,"bioreactor, biotherapeutic, biomolecule",Life Sciences,0.415,BioTech,0.414,Nano,0.387,Hardware,0.357,Longevity,0.352
+39,Homebell,"business, company, customer, craftsman, service, partner, enterprise",Procurement,0.651,Sales & CRM,0.634,Physical Storage,0.613,Logistics,0.582,Retail,0.574
+4343,Glycoscoredx,"prostate, disease, cancer, diagnosis, blood",Healthcare,0.407,Health Tech,0.356,MedTech,0.327,Life Sciences,0.324,FemTech,0.316
+24914,BESE,"content, news",Media,0.57,Social Networks,0.442,Entertainment,0.431,Disinformation,0.397,Extremism,0.395
+22407,Besedo,"scammer, deliver, fraud, user, tailor",Procurement,0.422,E-commerce,0.41,Payments,0.369,Logistics,0.355,Physical Storage,0.347
+24531,BestDoctor,"number, people, solution, customer, insurance, product, user, player, record, service, partner, client",Sales & CRM,0.602,Procurement,0.566,Sharing Economy,0.547,Platforms,0.489,Communications,0.471
+5177,Stuff-That-Works,"roadmap, research, insight, survey",Productivity,0.424,API-First,0.378,Industrial IoT,0.375,Business Intelligence,0.358,Future of Work,0.355
+106,Pets-Deli,"brand, business, pet, chain, company, customer, product, deli, partner, store, offering, market, revenue",Procurement,0.673,Sales & CRM,0.651,Retail,0.603,Physical Storage,0.599,Fashion,0.597
+5613,Surprise.com,"celebrate, accomplishment, milestone, purpose, goal",Productivity,0.445,Entertainment,0.416,SexTech,0.383,Happiness & Wellbeing,0.379,Esports,0.332
+25066,Better-Wealth,"money, deposit, account, fund, investor, investment",FinTech,0.572,DeFi,0.545,Payments,0.505,Crypto,0.496,Travel,0.401
+2030,DrDoctor,"doctor, patient, appointment, information, hospital, healthcare, care",Healthcare,0.744,Health Tech,0.591,MedTech,0.562,Travel,0.469,FemTech,0.449
+23131,Big-Akwa,"fish, aquaculture, fishfarm",OceanTech,0.506,Food & Beverage,0.358,Biodiversity,0.331,AgTech,0.312,Energy Generation,0.31
+23306,Billecta,"invoice, payment, money, payee, account",Payments,0.592,Procurement,0.522,Sales & CRM,0.496,E-commerce,0.466,FinTech,0.464
+1731,Tandem,"banking, bank",FinTech,0.545,Payments,0.511,DeFi,0.441,Crypto,0.367,RegTech,0.336
+25680,BioBag-International,"caddie, liner, bag, sack, waste",Circular Economy,0.301,3D Printing,0.272,Supply Chains,0.269,Logistics,0.266,Materials,0.256
+41,NationBuilder,"leader, role, chairman",Productivity,0.278,Sales & CRM,0.25,Human Resources,0.247,Procurement,0.246,Professional Services,0.246
+22727,Biofrigas-AB,"plant, industry, production, biogas, agriculture, company, technology",AgTech,0.701,Manufacturing,0.677,Food & Beverage,0.674,GreenTech,0.657,Industrial Tech,0.653
+43,auxmoney,"consumer, risk, model, cost, credit",Sales & CRM,0.513,Payments,0.493,Procurement,0.461,FinTech,0.446,E-commerce,0.423
+24072,Biolex-Therapeutics,"treat, antibodie, biologic",Healthcare,0.386,Longevity,0.352,Psychedelics,0.326,Life Sciences,0.295,BioTech,0.29
+22524,Biomason,"tile, cement, concrete, masonry, clay",Materials,0.442,Space Tech,0.337,Energy Generation,0.333,PropTech,0.326,3D Printing,0.317
+24855,Biom'Up,"collagen, orthopaedic, biomaterial, bone, tissue",Materials,0.5,Longevity,0.442,MedTech,0.395,Gut Microbiome,0.367,Healthcare,0.356
+10705,Supira-Medical,"incubator, facility, environment, path",Energy Efficiency,0.299,Physical Storage,0.286,Industrial IoT,0.274,Sales & CRM,0.269,Circular Economy,0.248
+177,Pure-Storage,"server, desktop, storage, database, virtualization, cloud, analytic, application",Cloud Infrastructure,0.772,Data Centers,0.726,Data Storage,0.692,Cloud Computing,0.685,Data Infrastructure,0.674
+22827,Bioservo-Technologies,"muscle, result, product, device, technology",MedTech,0.45,Hardware,0.448,Healthcare,0.397,Manufacturing,0.372,3D Printing,0.354
+1817,Wicrypt,"money, datum, megabyte, data",Data Infrastructure,0.493,Big Data,0.437,Data Management,0.423,Analytics,0.404,Data Centers,0.397
+1456,Thread,"stylist, styling, clothe",Fashion,0.444,Beauty,0.403,Design,0.305,Materials,0.279,3D Printing,0.271
+45,Cockroach-Labs,"database, cockroachdb",Data Infrastructure,0.313,Data Management,0.309,Big Data,0.243,Analytics,0.237,Data Storage,0.225
+24394,Biovian,"facility, shop, development, process, manufacturing, production, contract",Procurement,0.701,Manufacturing,0.685,Physical Storage,0.643,Logistics,0.631,Supply Chains,0.606
+512,Qt-Software,"platform, requirement, electronic, system, operating, office, desktop, device, user, maintenance, support, service, entertainment, consumer, client",Hardware,0.671,Platforms,0.618,Cloud Infrastructure,0.614,Mobile,0.596,Telecoms,0.582
+25560,Biowater-Technology,"design, technology, generation, project, treatment, engineer",Manufacturing,0.63,Industrial Tech,0.54,3D Printing,0.538,Healthcare,0.506,Industrial IoT,0.502
+21896,Bipi,"consumer, car, ownership, book, user, access, quality",Sharing Economy,0.556,Procurement,0.497,Sales & CRM,0.487,Platforms,0.462,Payments,0.457
+25657,BitLog,"operation, chain, pillar, logistic",Logistics,0.442,Physical Storage,0.436,Procurement,0.393,Supply Chains,0.369,Sales & CRM,0.357
+385,Reap,"platform, tool, office, product, software",Platforms,0.626,Productivity,0.516,API-First,0.516,Industrial IoT,0.475,Developer Tools,0.47
+540,RevenueCat,"platform, business, subscription, build, product, app, user",Platforms,0.674,Creator Economy,0.587,Sharing Economy,0.561,Mobile,0.511,Procurement,0.511
+22258,Bitreactive,"sensor, meter, integration, logistic",Industrial IoT,0.411,IoT,0.406,Industrial Tech,0.355,Connected Life,0.351,Robotics,0.329
+24615,Bitrise,"automation, integration, workflow, step, process",Automation,0.581,Industrial IoT,0.508,Robotics,0.461,API-First,0.457,Manufacturing,0.454
+46,ERPLY,"range, card, booking, store, market, warehouse, shop, inventory",Procurement,0.676,Physical Storage,0.671,Logistics,0.644,Supply Chains,0.619,E-commerce,0.585
+1571,MOO.COM,"print, photo, design, content, image, country",Media,0.541,Design,0.47,Location Services,0.465,Creator Economy,0.436,Mobile,0.424
+25453,BizBot,shareholde,Sharing Economy,0.273,Blockchain,0.176,Procurement,0.164,DeFi,0.159,Economic Empowerment,0.159
+23645,Blazar-Capital,"brand, entrepreneur, angel, ceos, leadership, builder, expertise, partner, company",Design,0.59,Professional Services,0.584,Sales & CRM,0.58,MarTech,0.561,Creator Economy,0.556
+22571,BlueCall,"empowerment, wellness, self",Happiness & Wellbeing,0.575,Social Impact,0.475,Sport & Wellness,0.402,SexTech,0.362,FemTech,0.335
+22780,Bluetest,"network, system, throughput, systems, antennas, chamber",Telecoms,0.523,Network Infrastructure,0.489,5G Networks,0.477,Hardware,0.461,IoT,0.442
+22113,Blyk,"blyk, phone, text, message, engagement, format, mobile",Communications,0.575,Social Networks,0.509,Video/Audio,0.467,Mobile,0.444,Telecoms,0.442
+218,RPX-Corporation,"promise, member, provider, approach, service, client, portfolio, pcs",Sales & CRM,0.47,Procurement,0.457,Sharing Economy,0.443,Cloud Infrastructure,0.427,Platforms,0.425
+23711,bmetric,"brand, cost, customer, share, insurance, flagship, lion, consumer, sale",Sales & CRM,0.589,Procurement,0.572,E-commerce,0.533,Fashion,0.501,Beauty,0.499
+6112,Upptalk,"group, video, user, friend, contact",Social Networks,0.441,Creator Economy,0.374,Communications,0.369,Video/Audio,0.358,Esports,0.328
+24317,bMobilized,"business, team, advantage, network, opportunity, company, pioneer, time, customer, provider, retention, services, service, state, market, foundation, agency",Sales & CRM,0.618,Professional Services,0.587,Procurement,0.581,Physical Storage,0.538,Sharing Economy,0.537
+23788,Boatflex,"platform, peer, cost, network, ownership, members, price, create, mission",Sharing Economy,0.73,Creator Economy,0.618,Platforms,0.609,Web3,0.563,Procurement,0.544
+21904,Boatsetter,"boat, marine, vessel, captain, water",OceanTech,0.476,Space Tech,0.38,Transportation,0.35,Cloud Ops,0.345,Defense,0.31
+25648,BoFood,"bofood, soy, flavour, food, dairy, taint, dessert, taste, health",Gut Microbiome,0.56,Nutrition,0.56,Food & Beverage,0.506,Procurement,0.402,Sport & Wellness,0.384
+1624,HotelRunner,"business, accommodation, promotion, distribution, desk, center, travel, contracting, commission, operation, manager, booking, service, engagement, acquisition, division, management, agency",Travel,0.709,Procurement,0.645,Physical Storage,0.642,Sales & CRM,0.615,Logistics,0.613
+24516,Bokadirekt,"reservation, booking",Travel,0.394,Procurement,0.274,Sharing Economy,0.242,Sales & CRM,0.22,Esports,0.187
+22913,Boka-konferens,"office, conference, book, space, room, booking",Travel,0.549,Sharing Economy,0.444,Sales & CRM,0.437,Procurement,0.408,Physical Storage,0.405
+22354,Bolånegruppen,"loan, mortgage, bank, interest",FinTech,0.52,DeFi,0.499,Payments,0.497,Economic Empowerment,0.392,Crypto,0.381
+22926,Bomill-AB,"airport, agent, distributor, industry, company, organization, office, town, technology, sector, market, kernel",Supply Chains,0.586,Procurement,0.574,Physical Storage,0.564,Industrial IoT,0.556,Manufacturing,0.542
+21987,Bookboon,"website, book, subject, textbook",Procurement,0.356,Location Services,0.342,Fashion,0.337,OceanTech,0.331,EdTech,0.326
+1509,VOI-Technology,"transportation, scooter, mobility, commute",Transportation,0.652,Mobility,0.601,Automotive,0.473,Autonomous Driving,0.459,Electrification,0.455
+7802,Believer-Meats,"biologist, bioengineers, biotechnology",Life Sciences,0.735,BioTech,0.729,Deep Tech,0.577,Longevity,0.57,Genomics,0.514
+22246,Boostcom,"owner, centre, industry, world, company, customer, office, product, loyalty, advertising, position, venture, market, location",Sales & CRM,0.627,Procurement,0.604,Travel,0.6,E-commerce,0.572,Physical Storage,0.552
+25103,BOOST-Pharma,"mesenchymal, bone",Healthcare,0.201,Neuro,0.185,MedTech,0.162,Materials,0.156,Space Tech,0.123
+21700,BOOST-Thyroid,"disease, patient, health, healthcare",Healthcare,0.686,Health Tech,0.539,MedTech,0.528,FemTech,0.494,Happiness & Wellbeing,0.446
+23060,Bower,"brand, packaging, package, plastic, recycle, recycling, bag",Materials,0.533,Procurement,0.465,Fashion,0.46,Physical Storage,0.451,Circular Economy,0.434
+22366,Boxgard,"safekeepe, order, opportunity, world, company, customer, self, boxgard, leader, headache, service, goal, partner, home, job",Sales & CRM,0.562,Procurement,0.501,Beauty,0.493,Physical Storage,0.483,Travel,0.48
+22985,Branäsgruppen,"cost, boost, time, resort, ski, slope, charge",Procurement,0.442,Transportation,0.438,Mobility,0.424,Travel,0.415,Energy Storage,0.414
+21633,BrandBastion,"brand, advertiser, choice, premium",AdTech,0.515,MarTech,0.443,Sharing Economy,0.44,Fashion,0.44,Media,0.439
+21909,BrandHouse-Holding,"consumer, suite, brand, business, retailer, sme, market, product, shop",E-commerce,0.658,Fashion,0.634,Retail,0.629,Sales & CRM,0.629,Procurement,0.624
+22156,Brayfoil-Technologies,"pilot, turbine, bird, force, wing, flight, wind",Space Tech,0.442,Hardware,0.418,Robotics,0.376,Defense,0.374,Security,0.364
+23059,Aim-Sweden,"design, flexibility, printing, structure, application",3D Printing,0.572,Manufacturing,0.37,API-First,0.369,Physical Storage,0.356,Semiconductors,0.35
+24184,Bread,"merchant, company, retailer, consumer, sale",Procurement,0.639,E-commerce,0.606,Logistics,0.58,Retail,0.568,Physical Storage,0.564
+5413,Eatron-Technologies,"business, industry, oem, vehicle, supplier",Procurement,0.646,Manufacturing,0.599,Automotive,0.598,Logistics,0.586,Physical Storage,0.581
+22037,Bricknode,"platform, office, interface, operation, experience, security, capability, core, act, labelling, software",Platforms,0.637,Hardware,0.563,Cloud Infrastructure,0.553,Productivity,0.55,API-First,0.545
+15611,Molab,"patient, drug, chemistry, people, toxicity",Healthcare,0.537,Psychedelics,0.441,Life Sciences,0.398,Longevity,0.393,MedTech,0.369
+483,NGINX,"application, code, project, solution, technology",Productivity,0.582,Industrial Tech,0.531,Mobile,0.529,Industrial IoT,0.506,API-First,0.503
+482,Sezmi-Corporation,"platform, company, internet, infrastructure, technology, demand, programming, strength, service, executive, management",Mobile,0.621,FinTech,0.61,Platforms,0.608,Cloud Infrastructure,0.607,Telecoms,0.592
+21880,Budbee,"customer, information, delivery, shop, queue, service, chatting, logistic",Sales & CRM,0.627,E-commerce,0.594,Communications,0.558,Procurement,0.558,MarTech,0.53
+22459,Buddy-Healthcare,"journey, attention, questionnaire, period, information, visibility, coordination, recovery, task",Productivity,0.474,Neuro,0.432,Happiness & Wellbeing,0.424,Travel,0.404,Security,0.404
+9367,Lofty,"apartment, city, furniture, rent, storage, space, neighboring",Sharing Economy,0.532,Location Services,0.471,PropTech,0.438,Telecoms,0.426,Mobility,0.423
+6577,Novacta-Biosystems,"business, team, knowledge, model, effort, engineering, service",Productivity,0.632,Procurement,0.585,Industrial Tech,0.584,Manufacturing,0.581,Sales & CRM,0.569
+23267,BuildX,"company, sector, contractor, construction",Procurement,0.553,Manufacturing,0.547,Industrial IoT,0.485,Physical Storage,0.478,Supply Chains,0.468
+15395,twidox,"document, articles, text, archive, paper, enable, dissertation",Media,0.477,LegalTech,0.417,Search,0.391,Longevity,0.385,Creator Economy,0.383
+3941,One-Media-IP-Group,"content, outlet, exploitation, distribution, product, advertising, word, game, company",Creator Economy,0.658,Media,0.624,Entertainment,0.616,MarTech,0.593,Sharing Economy,0.575
+431,OpTier,"business, enterprise, customer, market, application, transaction, provider, production, cloud",Cloud Infrastructure,0.677,Sales & CRM,0.654,Cloud Ops,0.652,Data Storage,0.633,Cloud Computing,0.627
+23239,Bumbee-Labs,"phone, system, network, dashboard, number, collection, company, time, customer, model, method, prediction, level, approval, signal, account, data",Business Intelligence,0.643,Sales & CRM,0.626,Analytics,0.615,IoT,0.589,Telecoms,0.579
+23842,Burt-Corporation,"industry, company, attention, product, technology, advertising, growth, marketer, analyst",Sales & CRM,0.687,Professional Services,0.676,MarTech,0.667,Media,0.621,Mobile,0.591
+5732,Oxagen,"arthritis, psoriasis, disease, bowel, drug, treatment",Gut Microbiome,0.342,Healthcare,0.3,Nutrition,0.285,Psychedelics,0.272,Longevity,0.253
+10414,Image-Metrics,"control, patent, laptop, scientist, company, tablet, element, self, year, device, technology, smartphone, sdks, consumer, camera, computer",Hardware,0.653,MedTech,0.636,Mobile,0.616,Semiconductors,0.608,Connected Life,0.577
+21754,BYON8,"team, industry, developer, capitalist, company, co, supporter, office, aim, members, demand, partner, venture, university",Creator Economy,0.58,Esports,0.553,Sharing Economy,0.552,Procurement,0.514,Professional Services,0.513
+25133,Bytbil.com,"outlet, customer, dealer, mission, service, marketplace",Procurement,0.581,E-commerce,0.575,Sales & CRM,0.552,Beauty,0.533,Platforms,0.519
+7120,Impact-Biomedicines,"myelofibrosis, polycythemia",Healthcare,0.179,Longevity,0.11,Psychedelics,0.102,Nutrition,0.098,Health Tech,0.087
+25504,ByteActive,"cost, chain, bit, people, customer, datum, partner, level, de",Procurement,0.606,Sharing Economy,0.568,Sales & CRM,0.55,Physical Storage,0.502,Telecoms,0.49
+22077,Cabana,"peace, desk, plan, sleep, pit, bed, element, storage, space, experience, bathroom, amenity, van, mind, room, hotel, book",Travel,0.457,Sharing Economy,0.418,SexTech,0.404,Physical Storage,0.391,Data Centers,0.389
+24543,Cabforce,"hire, mission, agony, door",Human Resources,0.318,Productivity,0.274,Space Tech,0.271,Cloud Ops,0.247,Travel,0.242
+24428,Cachet,"platform, economy, marketplace",Platforms,0.68,Sharing Economy,0.58,Creator Economy,0.498,E-commerce,0.483,FinTech,0.466
+24560,Cajo-Technologies,"material, product, software, process, production, marking, solution",Manufacturing,0.612,Materials,0.565,Procurement,0.561,3D Printing,0.554,Hardware,0.552
+24948,CALA,"customer, purchase, addition, post, product, experience, service, partner, class, mission, way, fulfillment, logistic",Sales & CRM,0.694,Procurement,0.669,E-commerce,0.636,Logistics,0.6,Physical Storage,0.597
+23889,CallDesk,"platform, customer, client, enterprise, service, crm",Platforms,0.623,Sales & CRM,0.585,MarTech,0.567,Sharing Economy,0.555,Cloud Computing,0.517
+696,Phorm,"office, personalization, advertising, provider, service, solution, company",MarTech,0.614,Mobile,0.609,Sales & CRM,0.603,Platforms,0.599,AdTech,0.592
+10571,Impression-Technologies,"customer, partner, support, need, transform, facility, house, service",Procurement,0.578,Sales & CRM,0.57,Physical Storage,0.513,Sharing Economy,0.503,Industrial Tech,0.487
+9958,Index-Stock-Imagery,"artist, photograph, illustration, source, image",Creator Economy,0.498,Design,0.49,Media,0.45,Entertainment,0.428,Computer Vision,0.387
+22016,Calmark-Sweden-AB,"lactate, enzyme",Gut Microbiome,0.247,Nutrition,0.192,Life Sciences,0.173,Procurement,0.172,Sales & CRM,0.17
+24065,Cambio+-Healthcare-Systems,"solutions, support, life, goal, care",Happiness & Wellbeing,0.462,Healthcare,0.407,Social Impact,0.382,SexTech,0.377,FamilyTech,0.352
+4845,automaited,"workflow, software, process, automation",Automation,0.642,Productivity,0.511,Robotics,0.502,Industrial IoT,0.493,Manufacturing,0.475
+25592,Campadre,"member, campaign, staff, club",Social Impact,0.302,Sharing Economy,0.289,Sales & CRM,0.273,Creator Economy,0.26,Travel,0.256
+12047,Marondo-Capital,"partnership, material, healthcare, market, industry, investment, experience, marketing, company",Procurement,0.667,Professional Services,0.666,Sales & CRM,0.634,Beauty,0.584,E-commerce,0.571
+8775,Industrial-Origami,"sub, network, license, company, customer, simplifie, product, contract, service, partner",Procurement,0.678,Sales & CRM,0.567,Sharing Economy,0.558,Telecoms,0.543,Physical Storage,0.535
+23929,Canary,"impact, grant, access, ability, research, formation, influence, way, policy",Economic Empowerment,0.524,Productivity,0.484,Defense,0.478,Biodiversity,0.466,Social Impact,0.46
+198,Rakuten-Americas,"store, retailer, buy, pickup, location, inventory",Procurement,0.685,Logistics,0.665,Physical Storage,0.654,Supply Chains,0.621,E-commerce,0.599
+594,InfoGear-Technology,asic,Esports,0.22,Defense,0.217,Communications,0.215,Robotics,0.191,Hardware,0.182
+78,Rebtel,"communication, problem, banking, disruption, technology, money, transfer",FinTech,0.6,Payments,0.597,Mobile,0.5,Telecoms,0.486,DeFi,0.484
+418,Respond.com,"consumer, business, market, marketplace",E-commerce,0.638,Sales & CRM,0.603,Platforms,0.593,MarTech,0.593,Procurement,0.587
+23996,Canatu,"electronic, network, heater, kind, design, interface, sensor, device, switch, touch, film, innovation",Semiconductors,0.666,Hardware,0.654,MedTech,0.576,Connected Home,0.558,Connected Life,0.554
+25410,Candidator-AB,"levels, customer, relationship, term, telephony, service, solution",Sales & CRM,0.581,Communications,0.565,Telecoms,0.532,Sharing Economy,0.506,Procurement,0.501
+13991,Marvel-Fusion,"energy, power, environment, reactor, fusion",Energy Generation,0.645,GreenTech,0.563,Energy Efficiency,0.516,Climate Tech/CleanTech,0.503,Energy Distribution,0.5
+372,Shopmonkey,"sheet, question, company, customer, inspection, user, appointment, person, email, repair, shop, management",Procurement,0.574,Sales & CRM,0.556,Physical Storage,0.48,Logistics,0.463,Supply Chains,0.454
+22574,Capcito,"business, invoice, bank, capital, accounting, provider, application",Professional Services,0.702,Sales & CRM,0.664,FinTech,0.606,Physical Storage,0.599,Procurement,0.59
+21844,Capeesh,"industry, job, mother, department, company",Sales & CRM,0.577,Beauty,0.552,Manufacturing,0.546,Physical Storage,0.537,Procurement,0.536
+496,RetentionForce,"review, repeat, collection, work, use, solution, customer, plan, feedback, loyalty, feature, state, client",Procurement,0.546,Sales & CRM,0.541,Sharing Economy,0.497,Platforms,0.489,E-commerce,0.461
+173,RightScale,"solution, access, unit, customer, usage, line, service, cloud, delivery, application",Cloud Infrastructure,0.622,Cloud Ops,0.618,Cloud Computing,0.612,Platforms,0.605,Data Centers,0.597
+120,Robinhood,"cryptocurrencies, robinhood, brokerage, etfs, cryptocurrency",Crypto,0.666,Blockchain,0.633,DeFi,0.632,Web3,0.585,FinTech,0.453
+21993,Capitainer,"technology, comfort, healthcare, patient, blood",MedTech,0.62,Healthcare,0.61,Health Tech,0.56,Beauty,0.49,Sport & Wellness,0.481
+1492,muse.ai,"upload, audience, audio, video",Video/Audio,0.667,Entertainment,0.515,Communications,0.485,Media,0.463,Creator Economy,0.458
+22095,CAPNIA,"disease, acute, migraine, condition, symptom, treatment",Healthcare,0.39,Psychedelics,0.255,Happiness & Wellbeing,0.238,Neuro,0.213,Travel,0.21
+82,Secret-Escapes,"holiday, room, booking, hotel, luxury, hotels",Travel,0.77,Sharing Economy,0.457,Physical Storage,0.438,E-commerce,0.432,Procurement,0.423
+188,SecureWave,"control, system, network, solution, provider, monitor, endpoint, service, software, application",Hardware,0.619,IoT,0.618,Security,0.6,Industrial Tech,0.595,Connected Life,0.585
+456,SESO,"labor, worker, workers, opportunity, agriculture, marketplace, farm, employer, employment, shortage, service, management, training, workforce",Future of Work,0.549,Human Resources,0.521,Food & Beverage,0.512,Procurement,0.491,Industrial Tech,0.488
+7905,InforSense,"platform, insight, asset, document, communication, solution, good, datum, specimen, addition, product, patient, risk, throughput, information, cohort, researcher, generation, edition, credit, source, consumer, research, core, environment, intelligence, data, explore, identification",Analytics,0.566,Sales & CRM,0.536,Business Intelligence,0.535,Search,0.511,Health Tech,0.496
+23573,Capturi,"recognition, speech, language, class, conversation",Communications,0.544,Neuro,0.481,Video/Audio,0.481,Computer Vision,0.474,Search,0.443
+5051,Skuad,"hr, admin, payroll, employment",Human Resources,0.665,Professional Services,0.482,Future of Work,0.447,Productivity,0.428,Industrial IoT,0.426
+24125,Carbo-Culture,"material, soil, biomaterial, carbon, biocarbon",Materials,0.625,Carbon Capture,0.513,Chemicals,0.502,Carbon Removal,0.488,GreenTech,0.487
+24501,Carbonwave,"seaweed, sequestration, pollution, climate, ecosystem, economy",Carbon Removal,0.59,Biodiversity,0.563,OceanTech,0.552,Climate Tech/CleanTech,0.508,Energy Generation,0.479
+24343,CardioMech,"surgeon, surgery, regurgitation, placement, valve, prolapse, heart",Healthcare,0.477,MedTech,0.426,Sport & Wellness,0.41,Death Tech,0.384,Health Tech,0.376
+4022,Shuropody,"footcare, footwear, foot",Beauty,0.456,Fashion,0.433,Sport & Wellness,0.348,Healthcare,0.34,Procurement,0.315
+25324,Cardior-Pharmaceuticals,"therapeutic, prevention, inhibitor, disease, death, treatment, injury",Healthcare,0.55,Longevity,0.466,Life Sciences,0.409,Psychedelics,0.406,BioTech,0.395
+15430,matched.io,"career, team, hire, job, developer, company",Future of Work,0.583,Human Resources,0.581,Productivity,0.575,Professional Services,0.548,Sales & CRM,0.529
+215,Silverfin,"accountant, accounting",Professional Services,0.463,Sales & CRM,0.396,Physical Storage,0.37,FinTech,0.328,LegalTech,0.327
+94,SourceLabs,"support, subscription, set, upgrade, maintenance, provider, service, community",Sharing Economy,0.484,Security,0.463,Platforms,0.453,Telecoms,0.451,Cloud Ops,0.441
+7279,InLive-Interactive,"interaction, partnership, technology, television, content",Entertainment,0.64,Social Networks,0.62,Media,0.589,Creator Economy,0.586,Esports,0.557
+407,Squarespace,"platform, build, design, touchpoint, presence, suite, country",Platforms,0.541,Sharing Economy,0.516,Creator Economy,0.516,Communications,0.507,Social Networks,0.485
+30,Standard-Treasury,"banking, bank, transaction, transfer",Payments,0.582,FinTech,0.477,DeFi,0.378,Crypto,0.377,Procurement,0.343
+53,Stardoll,"brand, collection, design, approach, accessory, audience, likeness, variety, site",Design,0.576,Creator Economy,0.574,Entertainment,0.571,Fashion,0.549,Sharing Economy,0.519
+13632,MaRVis-Medical,"procedure, benefit, intervention, treatment",Healthcare,0.509,Happiness & Wellbeing,0.345,Security,0.306,Psychedelics,0.283,MedTech,0.275
+3017,Quit-Genius,"addiction, alcohol, nicotine, device, medication, health",Happiness & Wellbeing,0.458,Psychedelics,0.442,Healthcare,0.437,SexTech,0.426,Sport & Wellness,0.398
+23705,Cardlay,"benefit, expense, currency, integrate, payment, transaction, accounting, account",Payments,0.649,Procurement,0.54,FinTech,0.531,E-commerce,0.503,DeFi,0.48
+104,StorSimple,"protection, storage, solution",Data Centers,0.404,Cybersecurity,0.399,Security,0.382,Data Storage,0.367,Cloud Infrastructure,0.356
+6751,Sunfire,"electricity, fuel, gas, heat, generator, energy, e, oil, oxide",Electrification,0.665,Energy Generation,0.655,Energy Distribution,0.623,Energy Storage,0.589,Hardware,0.563
+22427,CareChain,"network, infrastructure, technology, ecosystem, deploy, automation, establishment",Cloud Ops,0.665,Industrial Tech,0.644,Infrastructure Tech,0.642,Industrial IoT,0.638,Automotive,0.638
+3448,Tessera-Therapeutics,"efficacy, therapy, disease, health, clinician, medicine",Healthcare,0.632,Life Sciences,0.471,Longevity,0.449,Psychedelics,0.446,BioTech,0.435
+433,Temporal-Technologies,"software, application, user, computer, technology",Mobile,0.61,Industrial Tech,0.602,Hardware,0.587,IoT,0.562,Productivity,0.558
+2865,Symetrica,"system, security, identification, detection",Cybersecurity,0.517,Security,0.516,InfoSec,0.452,Industrial Tech,0.405,Defense,0.372
+22393,CAREMAKER,"organization, memorial, fundraise, fundraiser, event, ceo, charity",Social Impact,0.609,Death Tech,0.531,Esports,0.441,Entertainment,0.434,Media,0.433
+23281,Care-to-Translate,"provider, tool, sector, effort, cost, migration, communication, professional, service, problem",Telecoms,0.55,Procurement,0.534,Sharing Economy,0.52,5G Networks,0.482,Communications,0.48
+22908,CargoBeacon,"timestamp, support, datum, order, device, event",Hardware,0.335,Security,0.319,Productivity,0.294,Video/Audio,0.286,Connected Life,0.284
+64,topi,"platform, business, access, customer, insurance, m, refinance, subscription, click, management",Sales & CRM,0.628,Procurement,0.583,Platforms,0.562,E-commerce,0.552,InsurTech,0.549
+22197,Carmel-Pharma,"manufacture, system, people, product, device, quality, drug, pharmacy, life",Procurement,0.588,Manufacturing,0.566,MedTech,0.562,Healthcare,0.546,Fashion,0.534
+25494,Caromba,"consumer, price, market, shop",E-commerce,0.554,Sales & CRM,0.552,Procurement,0.545,MarTech,0.498,Fashion,0.482
+98,Trustpilot,"review, share, feedback",Sharing Economy,0.335,Social Networks,0.324,SexTech,0.261,Procurement,0.241,Creator Economy,0.212
+95,Soluto,"protection, insight, action, alert, problem, time, remedy, support, report, save, service, issue, premier, frustration",Security,0.6,Cybersecurity,0.525,InfoSec,0.477,Productivity,0.444,Healthcare,0.442
+13198,Resourcify,"recycler, recycle, waste",Circular Economy,0.595,GreenTech,0.455,Climate Tech/CleanTech,0.427,Materials,0.408,Electrification,0.359
+4607,Innovify,"business, entrepreneur, company, organization, infrastructure, expertise, fund, innovation, headquarters, niche, market, development, management, potential",Professional Services,0.613,Design,0.561,Sales & CRM,0.544,Travel,0.543,PropTech,0.527
+20963,Cascadian-Therapeutics,"tucatinib, addition, kadcyla, tyrosine, novel, antibodie",Psychedelics,0.364,Life Sciences,0.294,Longevity,0.268,BioTech,0.256,Gut Microbiome,0.251
+3364,Unbxd,"platform, conversion, company, machine, datum, product, result, user, volume, e, sale",Sales & CRM,0.564,Procurement,0.549,Platforms,0.528,Hardware,0.504,Creator Economy,0.49
+22243,Catchatrade,"professional, seafood, community, company",Food & Beverage,0.507,Professional Services,0.473,Beauty,0.472,OceanTech,0.443,Physical Storage,0.442
+23607,Catglobe,"work, access, product, resource, service, partner, client",Sharing Economy,0.56,Procurement,0.551,Platforms,0.532,API-First,0.511,Sales & CRM,0.493
+23665,Catinet,"particle, carpet, dust, spin, pack, clean",Materials,0.353,Space Tech,0.336,Hardware,0.315,Connected Life,0.275,Circular Economy,0.272
+5125,VERSATILE,"capture, crane, hook",Security,0.279,Carbon Capture,0.244,Robotics,0.216,Carbon Removal,0.206,Industrial Tech,0.204
+100,VirtualLogix,"consult, operating, office, training, program, virtualization, software, application, multimedia, eclipse",Video/Audio,0.553,Developer Tools,0.55,API-First,0.505,Productivity,0.497,AR/MR/VR,0.474
+24448,Causalus,"reaction, document, action, process, transparency, expenditure, software",Productivity,0.465,Procurement,0.457,Sales & CRM,0.418,Video/Audio,0.415,Hardware,0.389
+58,Spendesk,"brands, team, member, leader, community, time",Sharing Economy,0.448,Esports,0.429,Entertainment,0.389,Sales & CRM,0.386,Creator Economy,0.385
+24328,Cavai,"cookie, product, experience, help, company",Beauty,0.474,Procurement,0.453,E-commerce,0.417,Sales & CRM,0.413,Platforms,0.393
+24262,Cavitar,"illumination, brightness, lighting, component, diode",Hardware,0.39,Security,0.278,Energy Distribution,0.278,Semiconductors,0.274,Electrification,0.266
+6829,WatchMeGrow,"camera, videos, video, user",Video/Audio,0.514,Communications,0.413,Creator Economy,0.396,Social Networks,0.393,Computer Vision,0.38
+3885,Uform,"chain, shop, portfolio, companies, company",Procurement,0.634,Retail,0.633,Sales & CRM,0.611,Logistics,0.605,Physical Storage,0.594
+3781,XCD-HR,"hr, business, team, visionary, talent, firm, work",Human Resources,0.617,Professional Services,0.61,Sales & CRM,0.487,Future of Work,0.472,Productivity,0.465
+6968,YakCloud,"telephone, phone, voicemail, number",Communications,0.476,Telecoms,0.463,Location Services,0.446,Mobile,0.44,Connected Life,0.416
+24084,Cayenne-Medical,"shoulder, hamstring, sport, knee, tissue, cruciate, ligament",Sport & Wellness,0.483,Gut Microbiome,0.375,Longevity,0.357,MedTech,0.35,Healthcare,0.347
+24041,CBTec-Oy,"student, educator, coach, trainer, education, teacher, classroom, college, board",Sport & Wellness,0.486,EdTech,0.48,Professional Services,0.452,FamilyTech,0.408,Healthcare,0.398
+23567,CCURE,"ward, filling, vial, pharmaceutical, injection, ampoule, syrinx, syringe",Healthcare,0.418,Procurement,0.334,MedTech,0.313,Beauty,0.312,Sales & CRM,0.302
+23218,CE-Check,"certification, requirement, reliability, test, testing, scalability, subscription, performance",Procurement,0.506,Cloud Infrastructure,0.483,Sales & CRM,0.479,Payments,0.465,Business Intelligence,0.46
+24856,Celladon,"enzyme, cycling, muscle, calcium, therapie, heart",Nutrition,0.489,Sport & Wellness,0.442,Gut Microbiome,0.435,Longevity,0.404,Materials,0.364
+89,Supersolid,"character, team, feature, veterans, game",Gaming,0.483,Esports,0.431,Future of Work,0.363,Design,0.333,Space Tech,0.328
+203,Bird,"platform, city, community",Sharing Economy,0.549,Social Networks,0.508,Platforms,0.464,Creator Economy,0.43,Esports,0.416
+25609,Centiglobe,"exchange, payment, blockchain, transaction",Payments,0.605,Crypto,0.543,Web3,0.493,DeFi,0.468,Blockchain,0.458
+13199,voiio,"benefit, welfare, core, health",Sport & Wellness,0.496,Social Impact,0.488,FemTech,0.467,FamilyTech,0.464,Economic Empowerment,0.456
+23772,Cercare-Medical,"effect, stroke, mismatch",Neuro,0.191,Disinformation,0.141,Future of Work,0.121,Healthcare,0.108,AR/MR/VR,0.106
+47,Upserve,"work, company, restaurateur, employee, guest, staff, assistant, workforce",Travel,0.512,Beauty,0.502,Future of Work,0.502,Human Resources,0.492,Sales & CRM,0.473
+23563,Cerebriu,"solution, company, quality, process, efficiency, decision, finding, acquisition",Procurement,0.686,Manufacturing,0.615,Physical Storage,0.571,Productivity,0.55,Sales & CRM,0.542
+24106,Ceregene,"disease, disorder, treatment, sclerosis",Healthcare,0.455,Psychedelics,0.38,Happiness & Wellbeing,0.297,Longevity,0.293,MedTech,0.262
+23778,Certainly,"business, salesperson, specialist, company, customer",Professional Services,0.639,Sales & CRM,0.608,Beauty,0.52,Procurement,0.492,E-commerce,0.48
+8545,Nykaa,"content, platform, brand, customer, video, product, delivery, service, helpline",Sharing Economy,0.605,Creator Economy,0.601,Media,0.596,E-commerce,0.585,Entertainment,0.577
+22602,CERTEGO,"protection, installation, security, presence, ensure",Cybersecurity,0.612,Security,0.607,InfoSec,0.461,Network Infrastructure,0.366,Defense,0.363
+25199,Cervi,"refrigeration, energy, ventilation, air",Energy Efficiency,0.42,Energy Storage,0.396,Energy Distribution,0.392,Carbon Capture,0.364,Carbon Removal,0.338
+20798,Denwa-Communications,"brand, business, operate, company, customer, telephone, downtime, staff, service, client, house, data, sale",Sales & CRM,0.67,Procurement,0.639,Mobile,0.622,E-commerce,0.607,Telecoms,0.6
+3987,SDL-Group,"surveying, service, management, expertise, agency",Professional Services,0.578,Procurement,0.503,Sales & CRM,0.5,Industrial IoT,0.491,Manufacturing,0.466
+10115,Intercytex-Group,"platform, company, program, product, technology, trial, commercialization, biotechnology, cell, research, development, stage",BioTech,0.697,Life Sciences,0.671,Longevity,0.584,Nano,0.54,Semiconductors,0.518
+24315,CFEngine,"compliance, availability, security, provision, resource, application",Cybersecurity,0.554,Security,0.508,Platforms,0.493,API-First,0.491,Payments,0.489
+23236,Cgrain,"milling, farm, grain, farmer, seed, cereal",AgTech,0.41,Food & Beverage,0.407,Logistics,0.37,Manufacturing,0.366,Nutrition,0.364
+124,Etsy,"tool, clothing, item, category, product, accessory, smartphone, application",Fashion,0.575,Hardware,0.557,Connected Life,0.528,Mobile,0.525,IoT,0.507
+51,Zendesk,"platform, customer, empower, product, software, service, use",Platforms,0.674,Sharing Economy,0.617,Cloud Infrastructure,0.559,Creator Economy,0.545,Cloud Computing,0.542
+22531,CGTrader,"platform, printing, architecture, design, animation, complexity, experience, model, designer, content, enable, custom",Design,0.671,3D Printing,0.597,Platforms,0.571,Creator Economy,0.542,Hardware,0.515
+24281,ChemoCentryx,"therapeutic, chemokine, disease, cancer, chemo, medication",Life Sciences,0.586,Longevity,0.547,BioTech,0.538,Healthcare,0.514,Psychedelics,0.461
+23797,Cherryz,"accessory, product, item, tech, company, marketplace",Procurement,0.586,Beauty,0.539,Fashion,0.537,E-commerce,0.526,Hardware,0.521
+24472,CHOOOSE,climate,Carbon Removal,0.421,Biodiversity,0.384,Carbon Capture,0.372,Energy Generation,0.301,GreenTech,0.296
+432,7TM-Pharma,"asthma, focus, bowel, inflammatory",Gut Microbiome,0.362,Healthcare,0.267,Location Services,0.252,Nutrition,0.241,Happiness & Wellbeing,0.238
+23408,Chr.-Hansen,"ingredient, supplement, probiotic, confectionery, pharmaceutical",Gut Microbiome,0.663,Nutrition,0.609,Life Sciences,0.469,BioTech,0.436,Food & Beverage,0.434
+20,Acutus-Medical,"chaos, pattern, heart",Neuro,0.313,Crypto,0.246,Death Tech,0.238,InfoSec,0.218,Happiness & Wellbeing,0.214
+29,Adyen,"payment, merchant, settlement, sale",Procurement,0.589,Payments,0.531,E-commerce,0.474,Logistics,0.434,Physical Storage,0.405
+83,Alan,"healthcare, insurance, health",Sport & Wellness,0.616,FemTech,0.595,FamilyTech,0.515,MedTech,0.504,Health Tech,0.501
+505,AlertMe,"platform, mass, device, devices, app, appliance",Hardware,0.57,IoT,0.493,Connected Life,0.488,Connected Home,0.482,Mobile,0.466
+24674,Ciegus,"information, day, safety, health, service, patient, care",Healthcare,0.664,MedTech,0.572,Security,0.569,Health Tech,0.562,FemTech,0.551
+21953,Cimon-Medical,"ultrasound, operator, transducer, tissue, beam",MedTech,0.432,Healthcare,0.423,Industrial IoT,0.367,Hardware,0.345,Health Tech,0.344
+105,Anine-Bing,"flagship, downtown, director, headquarters, store, boutique",Beauty,0.52,Retail,0.509,E-commerce,0.48,Fashion,0.477,Professional Services,0.461
+292,ApplyBoard,"platform, team, search, journey, work, diversity, company, partnership, office, simplifie, recruitment, downtown, partner, headquarters, country",Sharing Economy,0.577,Professional Services,0.56,Travel,0.556,Creator Economy,0.542,Media,0.533
+62,ArtBinder,"presentation, gallery",Entertainment,0.309,Creator Economy,0.259,Media,0.247,Design,0.246,AdTech,0.217
+61,AttackIQ,"adversary, attack, operator, security, validation",Cybersecurity,0.577,InfoSec,0.479,Security,0.426,Defense,0.388,Network Infrastructure,0.36
+23687,Cint,"respondent, insight, cint, survey, consumer",Social Networks,0.424,MarTech,0.413,Sales & CRM,0.404,Platforms,0.399,Sharing Economy,0.393
+24066,ClairMail,"platform, enrollment, channel, web, customer, carrier, device, provider, technology, service, capability, institution, application, mobile",Communications,0.671,Telecoms,0.642,Mobile,0.628,Hardware,0.573,5G Networks,0.564
+73,Beam-Express,"wavelength, spectrometry",Network Infrastructure,0.238,Business Intelligence,0.198,Telecoms,0.196,Data Infrastructure,0.186,Cloud Infrastructure,0.16
+9028,Invenia,"platform, grid, system, use, transmission, frequency, recognition, machine, datum, model, recommendation, pattern, market, data",Hardware,0.608,Telecoms,0.606,IoT,0.597,Industrial IoT,0.582,Business Intelligence,0.561
+23476,Clario,"evidence, expertise, trial, expert",LegalTech,0.354,Genomics,0.287,RegTech,0.277,Professional Services,0.276,Human Resources,0.273
+23840,Clavister,"ticker, business, order, asset, company, stock, exchange, symbol, portfolio, enterprise",Procurement,0.516,Sales & CRM,0.507,Crypto,0.489,Physical Storage,0.486,DeFi,0.482
+24511,ClevAir,"energy, consumption, emission",Energy Efficiency,0.55,Energy Storage,0.542,Climate Tech/CleanTech,0.52,Energy Distribution,0.499,Electrification,0.474
+42,Big-Switch-Networks,"world, datum, visibility, country, cloud, environment, community",Data Centers,0.541,Data Storage,0.492,Telecoms,0.486,Sharing Economy,0.482,Location Services,0.477
+273,Viagogo,"commission, marketplace, purchase, price, buyer, charge, user, craigslist, competitor, service, seller, reseller, look, site, trust",E-commerce,0.698,Procurement,0.692,Sales & CRM,0.592,Sharing Economy,0.587,Platforms,0.564
+149,Bloom-&-Wild,"bouquet, gift, flower, delivery",Procurement,0.298,Death Tech,0.295,Beauty,0.295,SexTech,0.287,Healthcare,0.252
+23918,Clever-Compliance,"certification, business, compliance, advisor, management",Professional Services,0.693,RegTech,0.615,LegalTech,0.569,Physical Storage,0.465,Sales & CRM,0.455
+6713,Next-Performance,"time, message, ad, remove, datum, marketing, think, advertising, client, idea",Sales & CRM,0.562,MarTech,0.559,AdTech,0.554,Media,0.527,Entertainment,0.488
+24551,Clinical-Research-Services-Turku,"specialist, industry, thank, customer, expertise, contract, consultant, client",Professional Services,0.589,Procurement,0.579,Sales & CRM,0.542,Beauty,0.491,Retail,0.445
+22848,Clipsource,"press, instance, time, screen, datum, date, room, entertainment, content, clip, video, film, trailer, medium, way, contact",Video/Audio,0.655,Media,0.584,Entertainment,0.582,Communications,0.501,Location Services,0.475
+24961,Clockwork-Logistics-Systems,"integration, interface, instrumentation",API-First,0.456,Industrial IoT,0.344,Business Intelligence,0.338,Data Infrastructure,0.338,Platforms,0.299
+22080,CloudApp,"platform, share, team, business, translation",Sharing Economy,0.518,Creator Economy,0.469,Social Networks,0.434,Communications,0.433,Platforms,0.431
+323,cargo.one,"airline, freight, business, cargo, air, channel",Supply Chains,0.683,Logistics,0.653,Transportation,0.613,Procurement,0.563,Physical Storage,0.548
+156,Ciao,"consumer, shopping, retailer, market",E-commerce,0.625,Procurement,0.583,Sales & CRM,0.581,Fashion,0.537,Beauty,0.529
+22725,CloudMe,"encryption, use, folder, storage, drive, file, sync, content, need, data, mobile",Cloud Infrastructure,0.587,Cybersecurity,0.573,Payments,0.566,Telecoms,0.558,Data Centers,0.556
+499,Clipboard,"tool, haul, clip, mission, goal",Space Tech,0.415,Productivity,0.388,Logistics,0.343,Manufacturing,0.328,Procurement,0.315
+329,Wealthfront,"company, product, software, client, app, professional",Procurement,0.57,Professional Services,0.567,Platforms,0.555,Sales & CRM,0.544,Creator Economy,0.523
+24231,Clutch,"racket, coach, mission, fan, bunch, world, player, sport",Esports,0.502,Space Tech,0.407,Gaming,0.39,Entertainment,0.373,Sport & Wellness,0.319
+6472,Dataiku,"business, team, opportunity, company, customer, machine, datum, learn, expert, practice, management, enterprise, roadblock",Sales & CRM,0.624,Professional Services,0.61,Productivity,0.559,LegalTech,0.558,Future of Work,0.536
+412,Zesty,"catering, dietitians, dinner, restaurant, nutrition, breakfast, meal, cuisine, caterer",Food & Beverage,0.701,Nutrition,0.514,Sport & Wellness,0.511,Professional Services,0.454,Beauty,0.447
+416,Zuora,"cash, billing, subscription, revenue",Sales & CRM,0.488,Platforms,0.471,Payments,0.461,Procurement,0.454,Sharing Economy,0.453
+22819,Codemill,"company, employee, consultancy, consultant, partner",Professional Services,0.654,Sales & CRM,0.501,Procurement,0.496,LegalTech,0.432,Productivity,0.426
+22760,Coderr,"platform, tool, code, world, malfunctioning, product, quality, service, cloud, efficiency, application",Platforms,0.651,Cloud Infrastructure,0.649,Cloud Computing,0.623,Data Centers,0.614,Data Storage,0.585
+3738,Exscientia,"repository, company, discovery, time, design, datum, result, test, approach, information, researcher, hand, endeavor, project, hunter, practice, development",Productivity,0.576,Procurement,0.512,Sales & CRM,0.482,Space Tech,0.471,Business Intelligence,0.469
+7640,Invisible-Worlds,"business, enterprise, infrastructure, exchange, interoperability, management, company",Retail,0.641,Physical Storage,0.607,Procurement,0.595,Logistics,0.585,Supply Chains,0.584
+8980,IPV,"news, sport, broadcast, provider, series, content",Media,0.739,Esports,0.666,Entertainment,0.604,Video/Audio,0.558,Social Networks,0.534
+10625,Bettr,"platform, team, people, co, product, human, angel, veteran, core, youth, community",Sharing Economy,0.524,Creator Economy,0.52,Social Impact,0.504,Esports,0.501,Platforms,0.478
+23886,CodeSandbox,"platform, share, m, ideation, product, launch, source, project",Creator Economy,0.512,Productivity,0.482,Platforms,0.471,Sharing Economy,0.468,Social Networks,0.463
+23590,CodeSealer,"firewall, security",Cybersecurity,0.632,Security,0.421,InfoSec,0.415,Network Infrastructure,0.411,Defense,0.31
+15976,Destiny-Changers-Education-Group,"education, program, teacher, learner, study, school, tutor, teaching, teach, lecturer",EdTech,0.61,Professional Services,0.518,FamilyTech,0.488,Media,0.452,Sport & Wellness,0.45
+9509,IRT-Surveys,"plan, focus, loss, software, image, service",Productivity,0.537,Video/Audio,0.503,Computer Vision,0.5,Communications,0.485,Robotics,0.482
+9072,IXI-Mobile,"instant, server, solution, operator, device, provider, support, launch, service, party, games, voice, application, data",Communications,0.623,Telecoms,0.591,Cloud Infrastructure,0.586,Platforms,0.549,IoT,0.542
+217,Futurelytics,"action, leverage, approach, mining, behavior, e, step",Productivity,0.482,Sales & CRM,0.477,Procurement,0.465,Business Intelligence,0.417,AdTech,0.395
+22138,Colego,"requirement, detail, search, function, work, category, generation, process, service, auto, task, term, application",Productivity,0.581,Search,0.55,Sales & CRM,0.543,API-First,0.536,Industrial IoT,0.535
+22423,Colivia,"personnel, sector, staff, shortage, staffing, job",Human Resources,0.569,Sales & CRM,0.526,Future of Work,0.515,Physical Storage,0.488,Professional Services,0.479
+21594,CollectiveCrunch,"forestry, carbon, forest",Carbon Removal,0.602,Carbon Capture,0.586,Biodiversity,0.55,GreenTech,0.486,Climate Tech/CleanTech,0.48
+25225,Collective-Minds-Radiology,radiology,Healthcare,0.389,Health Tech,0.292,MedTech,0.283,Death Tech,0.163,Psychedelics,0.154
+23008,Coloreel,"embroidery, knitting, sewing, weaving, textile",Fashion,0.526,Materials,0.472,3D Printing,0.444,Manufacturing,0.441,Design,0.411
+8414,Dexory,"dispatch, unlock, collection, access, track, dexory, warehouse, measure",Security,0.512,Logistics,0.511,Supply Chains,0.504,Physical Storage,0.501,Procurement,0.472
+7093,Tabled,"legaltechology, document",LegalTech,0.502,Healthcare,0.307,Longevity,0.27,Procurement,0.26,RegTech,0.243
+23895,Colossi-Games,"gameplay, games, audience, experience, genre, game",Gaming,0.656,Entertainment,0.588,Esports,0.582,Metaverse,0.532,Social Networks,0.513
+7101,Rivus-Pharmaceuticals,"cardio, metabolic",Nutrition,0.323,Sport & Wellness,0.316,Happiness & Wellbeing,0.267,Longevity,0.243,Healthcare,0.236
+22806,Comai-AB,"impairment, communication, cognition",Neuro,0.466,Healthcare,0.344,Happiness & Wellbeing,0.337,FamilyTech,0.321,Communications,0.297
+10009,Joint-Academy,"therapist, surgery, patient, treatment",Healthcare,0.576,Happiness & Wellbeing,0.374,Psychedelics,0.345,Sport & Wellness,0.32,MedTech,0.308
+24627,Commerce-Guys,"expert, knowledge, creator, industry, expertise",Creator Economy,0.48,Future of Work,0.448,Industrial Tech,0.444,Industrial IoT,0.428,Robotics,0.427
+24194,Commsignia,"stack, line, system, implementation, security",Cybersecurity,0.498,InfoSec,0.393,API-First,0.379,Network Infrastructure,0.368,Security,0.358
+22251,CompBuoy,"underwater, water, pressure, buoyancy, buoy, density",OceanTech,0.487,Space Tech,0.301,Infrastructure Tech,0.297,Location Services,0.296,InfoSec,0.295
+24200,Comptek-Solutions,"electronic, oxidation, material, semiconductor, laser, passivation, device, technology, optoelectronic, power, quantum, phase, detector",Nano,0.631,Semiconductors,0.62,Hardware,0.615,Quantum Computing,0.586,Deep Tech,0.494
+24083,Conductor,"platform, traffic, topic, creation, technology, seo, content, phase, guide",MarTech,0.631,Search,0.617,Social Networks,0.576,Creator Economy,0.575,Media,0.569
+49,Aurora,"passenger, vehicle, truck",Transportation,0.45,Automotive,0.343,Mobility,0.328,Autonomous Driving,0.326,Security,0.302
+22108,Conformiq,"level, tool, model, software",Productivity,0.437,API-First,0.418,Manufacturing,0.406,3D Printing,0.389,Developer Tools,0.37
+21960,Conoptica,"metal, tool, control, system, access, sensor, personnel, support, service",Industrial Tech,0.69,Hardware,0.601,Manufacturing,0.599,Security,0.578,Industrial IoT,0.564
+5745,Amarin,"lipid, triglyceride, dyslipidemia",Nutrition,0.252,Gut Microbiome,0.198,Food & Beverage,0.176,Longevity,0.166,Healthcare,0.166
+14243,Avesta-Technologies,"time, internet, availability, infrastructure, user, technology, information, resource, software, performance",Cloud Infrastructure,0.642,5G Networks,0.626,Telecoms,0.61,Edge Computing,0.604,Productivity,0.588
+50,STEM,"system, code, music, game, app, kit, step, way",Video/Audio,0.483,Developer Tools,0.442,Platforms,0.424,Hardware,0.421,API-First,0.409
+25318,Convion,"fuel, power, efficiency, energy, oxide",Energy Storage,0.592,Energy Generation,0.525,Electrification,0.512,Climate Tech/CleanTech,0.493,GreenTech,0.486
+23838,Coresonic,"wireless, semiconductor, silicon, baseband",Semiconductors,0.499,Hardware,0.437,Network Infrastructure,0.406,Telecoms,0.39,Quantum Computing,0.386
+2266,Killing-Kittens,"woman, girl, gentleman, couple",SexTech,0.346,FemTech,0.216,Communications,0.207,Sharing Economy,0.178,Sales & CRM,0.16
+1970,Aparito,"process, video, assessment, trial",FamilyTech,0.364,Productivity,0.36,Video/Audio,0.358,Healthcare,0.357,Entertainment,0.35
+55,Kry,"healthcare, patient, health",Healthcare,0.659,Health Tech,0.555,MedTech,0.522,FemTech,0.504,Sport & Wellness,0.503
+23670,Cornershop,"grocery, delivery, injection, transaction",Logistics,0.423,Procurement,0.401,Physical Storage,0.4,Payments,0.398,Supply Chains,0.382
+22512,CorPower-Ocean,"ton, wave, wind",Network Infrastructure,0.274,Telecoms,0.256,5G Networks,0.249,Communications,0.246,Space Tech,0.245
+2056,Delve,"lifestyle, climate, choice, people",Biodiversity,0.491,SexTech,0.437,Happiness & Wellbeing,0.395,Carbon Removal,0.379,FemTech,0.375
+23432,Corwave,"speed, wireless, size, system, disc, heart, rotor, incorporation, wave, power, energy, consumption, lvad",Hardware,0.607,Energy Storage,0.549,Connected Life,0.493,Industrial Tech,0.491,Energy Distribution,0.489
+22262,CrayoNano,"component, water, purification, solution",Materials,0.353,Hardware,0.315,Manufacturing,0.228,Procurement,0.228,Industrial Tech,0.225
+21550,Creabilis,"disorder, skin, psoriasis, dermatology",Healthcare,0.367,Beauty,0.304,Psychedelics,0.296,Longevity,0.289,Life Sciences,0.264
+6268,Volume,"merchant, payment, transaction, card, checkout, password, volume, fee",Payments,0.684,Procurement,0.613,E-commerce,0.585,Sales & CRM,0.521,Logistics,0.485
+24483,Crop2Cash,"bank, fund, capital, financing",FinTech,0.524,DeFi,0.493,Payments,0.423,Economic Empowerment,0.398,Crypto,0.351
+24576,CrossBoundary,"electricity, renewable, fence, diesel, energy",Energy Generation,0.71,Electrification,0.668,Energy Distribution,0.661,GreenTech,0.656,Energy Efficiency,0.649
+7886,Kiryana-Services,"customer, qr, merchant",Procurement,0.426,E-commerce,0.402,Sales & CRM,0.4,Physical Storage,0.35,Retail,0.344
+7309,Observe-Technologies,"farm, aquaculture, farmer",AgTech,0.467,OceanTech,0.437,Food & Beverage,0.388,Cloud Ops,0.359,Biodiversity,0.355
+24342,Cryogenetics,"fish, aquaculture",OceanTech,0.494,Food & Beverage,0.305,Biodiversity,0.3,Cloud Ops,0.291,Energy Generation,0.282
+23248,Cuptronic,"operation, technology, deposition, pattern, method, process, definition, chemical, development",Manufacturing,0.548,3D Printing,0.494,Semiconductors,0.49,Chemicals,0.482,Nano,0.463
+7319,Jarvi-Games,"aspire, device, mobile",Communications,0.406,Hardware,0.367,Mobile,0.363,Telecoms,0.355,Edge Computing,0.342
+4814,Sqore,"hire, company, ad, interview, candidate, job",Sales & CRM,0.554,Human Resources,0.554,Procurement,0.507,Media,0.498,Professional Services,0.493
+7329,Beryllium,beryllium,Materials,0.214,Nano,0.18,Crypto,0.138,Blockchain,0.111,Circular Economy,0.095
+24150,CurifyLabs,"team, group, patient, formulation, outcome, compounding, drug, treatment, goal, medicine, pharmacy",Healthcare,0.56,Life Sciences,0.462,Procurement,0.437,Sales & CRM,0.422,Longevity,0.416
+25483,Curity,"authorization, identity, security, authentication",Cybersecurity,0.485,InfoSec,0.346,Security,0.345,Web3,0.344,Payments,0.325
+10499,Netmania,"journey, standard, churn, experience",Sales & CRM,0.478,Travel,0.385,Procurement,0.37,E-commerce,0.368,Sharing Economy,0.345
+25371,Curl,"platform, version, server, web, machine, desktop, client",Cloud Infrastructure,0.568,Cloud Computing,0.485,Platforms,0.477,Hardware,0.464,Data Centers,0.451
+6550,Integrated-Diagnostics,"pipeline, view, plan, leverage, game, mission, concept, marker",Sales & CRM,0.507,Space Tech,0.503,Productivity,0.49,Procurement,0.462,Design,0.434
+7375,HealthAtom,"healthcare, patient, service, solution",Healthcare,0.617,MedTech,0.457,Health Tech,0.449,Platforms,0.374,Cloud Computing,0.35
+13767,fruux,"carddav, calendar",Travel,0.192,Payments,0.144,Crypto,0.136,Death Tech,0.129,FemTech,0.101
+66,Science-Exchange,"compliance, security",Cybersecurity,0.545,Security,0.532,InfoSec,0.428,Payments,0.396,RegTech,0.393
+7400,Trik,"drone, plan, management, trik, change, maintenance, advance",Defense,0.555,Security,0.531,Robotics,0.506,Industrial Tech,0.497,Cloud Ops,0.491
+7842,Delivery-Club,"city, restaurant, market, application, service, company",Food & Beverage,0.606,Sales & CRM,0.584,E-commerce,0.569,Physical Storage,0.567,Procurement,0.565
+7419,SCM-World,"research, practitioner, industry, performance, community",Professional Services,0.449,Sharing Economy,0.449,Productivity,0.427,Esports,0.411,Future of Work,0.406
+7462,Caraway-Therapeutics,"disease, mitophagy, impairment, treatment",Longevity,0.276,Healthcare,0.258,Psychedelics,0.247,Gut Microbiome,0.228,Happiness & Wellbeing,0.213
+7454,Nitrase-Therapeutics,"disease, class, drug",Healthcare,0.452,Psychedelics,0.406,Longevity,0.339,Life Sciences,0.328,Gut Microbiome,0.282
+67,Skyport-Systems,"hardware, virtualization, software",Cloud Infrastructure,0.607,Data Centers,0.523,Cloud Computing,0.521,Hardware,0.459,AR/MR/VR,0.455
+8453,Knock-Knock,"team, maker, specialist, industry, developer, ship, studio, user, contributor, folk, failure, store",Creator Economy,0.625,Sharing Economy,0.535,Developer Tools,0.516,Physical Storage,0.515,Design,0.506
+24222,Custimy.io,"platform, validate, business, digitalization, team, tool, campaign, acronym, purpose, media, journey, communication, newsletter, company, customer, complexity, product, analyse, marketing, retention, place, service, resource, analytic, mission, software, development, innovation",Sales & CRM,0.6,MarTech,0.597,Media,0.562,Platforms,0.56,Creator Economy,0.536
+68,Scale-AI,"team, company, robotic, machine, self, model, drone",Robotics,0.667,Defense,0.563,Autonomous Driving,0.552,Automation,0.543,Industrial Tech,0.536
+15612,Logistikbude,"web, type, load, carrier",Telecoms,0.417,Communications,0.392,Network Infrastructure,0.391,AdTech,0.333,Web3,0.322
+70,Humu,"manager, machine, company",Industrial IoT,0.431,Productivity,0.4,Physical Storage,0.391,Manufacturing,0.383,Sales & CRM,0.352
+24018,Cyberlightning-Ltd.,"network, internet, traffic, infrastructure, device, provider, area, vendor, service",Telecoms,0.77,5G Networks,0.709,Network Infrastructure,0.67,IoT,0.665,Mobile,0.663
+24857,Cydan,"relationship, identify, datum, record, drug, process, orphan, de, path",Sales & CRM,0.457,Neuro,0.366,Procurement,0.355,Healthcare,0.35,Longevity,0.342
+24336,Cyviz,"visualization, performance",Business Intelligence,0.331,Productivity,0.287,Analytics,0.273,API-First,0.257,Cloud Infrastructure,0.244
+25411,Dafo-Brand,"system, world, solution, customer, line, fire, rescue",Industrial Tech,0.507,Security,0.477,Sales & CRM,0.458,Productivity,0.447,Industrial IoT,0.438
+13743,Authentic-Vision,"brand, patent, company",Procurement,0.398,Fashion,0.354,3D Printing,0.336,Manufacturing,0.323,Retail,0.322
+13202,Open-Bionics,"limb, arm",Healthcare,0.311,Hardware,0.206,MedTech,0.203,Robotics,0.2,Space Tech,0.193
+7584,FeeLYX,"partnering, business, investor, credit, lender",DeFi,0.556,FinTech,0.552,Procurement,0.544,Professional Services,0.518,Sales & CRM,0.5
+3599,Hexagon-Bio,"molecule, generation, science, biology, fungal, engineer, inspiration, biotech",Life Sciences,0.769,BioTech,0.74,Chemicals,0.632,Longevity,0.572,Nano,0.57
+22791,DanAds,"brand, publisher, ad, advertiser, label, advertising, transparency",Media,0.633,AdTech,0.629,Creator Economy,0.561,MarTech,0.534,Entertainment,0.522
+22584,Data-Gumbo,"platform, cash, customer, combination, operation, payment, transaction, contract, vendor, level, ledger, apis, supplier, mission, client",Platforms,0.671,Procurement,0.642,Payments,0.612,Crypto,0.583,Sales & CRM,0.558
+7616,TechMet,"metal, interest, asset",Crypto,0.417,DeFi,0.406,FinTech,0.392,Materials,0.367,Blockchain,0.342
+15244,Valence-Security,"speed, chain, share, remediation, standard, datum, user, misconfiguration, identity, supply",Procurement,0.612,Physical Storage,0.518,Sales & CRM,0.517,Logistics,0.501,Sharing Economy,0.486
+7656,Lavastorm,"business, preparation, solution, approach, governance, process, automation, application, enterprise",Industrial IoT,0.615,LegalTech,0.607,Automation,0.593,RegTech,0.591,InsurTech,0.589
+23589,Dawn-Health,"specialist, therapy, science, intervention, healthcare, life, health",Healthcare,0.62,Sport & Wellness,0.593,Happiness & Wellbeing,0.547,Longevity,0.504,Life Sciences,0.503
+24562,Dazzboard,"photo, videos, video, pictures, upload",Video/Audio,0.609,Media,0.499,Social Networks,0.465,Communications,0.461,Creator Economy,0.45
+25625,DB-Pro,"offer, datum, optimization, software, environment, project, planning",Productivity,0.585,Procurement,0.558,Business Intelligence,0.517,Sales & CRM,0.481,Industrial IoT,0.474
+23851,DbVis-Software,"platform, tool, function, discount, customer, interface, product, word, database, feature, service, need, software",Platforms,0.639,Sales & CRM,0.568,API-First,0.555,Search,0.534,Procurement,0.53
+737,Digital-Asset,"business, developer, company, organization, insurance, provider, service, silos, ledger",Physical Storage,0.62,Procurement,0.597,FinTech,0.596,Professional Services,0.594,Retail,0.58
+17282,Micaton-Ergonomics,"partner, manufacture, job, quality, product, self, innovation, country, company",Procurement,0.631,Manufacturing,0.622,Fashion,0.591,Retail,0.557,Physical Storage,0.539
+24844,DBV-Technologies,"allergy, immunotherapy, pediatrician, patient, skin, treatment",Healthcare,0.403,Gut Microbiome,0.273,FamilyTech,0.269,Longevity,0.268,Life Sciences,0.253
+7698,Rotageek,"schedule, scheduling, demand, client",Procurement,0.433,Productivity,0.431,Sales & CRM,0.414,API-First,0.356,Logistics,0.338
+21666,DealDash,"brand, distribution, wholesaler, quality, shopper, brands, suppliers, supplier, warehouse, inventory",Logistics,0.735,Physical Storage,0.723,Procurement,0.712,Supply Chains,0.702,Retail,0.683
+25226,Debricked,"vulnerability, security, risk",Cybersecurity,0.585,InfoSec,0.546,Security,0.382,Data Centers,0.349,Defense,0.345
+21315,Denator,"fluid, scientist, tissue",Healthcare,0.32,Longevity,0.296,MedTech,0.28,Materials,0.278,Life Sciences,0.261
+7721,Spades,"checkout, dine, restaurant",Travel,0.369,Food & Beverage,0.362,E-commerce,0.345,Physical Storage,0.309,Sharing Economy,0.308
+25314,De-Novo-Foodlabs,"business, industry, collaboration, world, company, product, provider, model, audience, population, forefront, innovation, field, consumer, partnering, healthcare, research, development, biotech, sustainability",Life Sciences,0.689,BioTech,0.656,Fashion,0.613,MedTech,0.602,Food & Beverage,0.597

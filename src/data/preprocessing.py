@@ -9,6 +9,8 @@ class TextProcessing:
         self.nlp = spacy.load("en_core_web_sm")
         self.startups = pd.DataFrame([])
         self.industries = pd.DataFrame([])
+        self.startup_bool = startup
+        self.industry_bool = industry
         if startup:
             self.startups = df.copy()
         elif industry:
@@ -134,6 +136,13 @@ class TextProcessing:
             new_keys = ' '.join(keywords)
             df.at[index, 'keywords'] = new_keys
         return df
+
+    def do_the_money_dance(self):
+        self.remove_non_english_tokens()
+        self.remove_noisy_tokens()
+        self.lemma()
+        startups = self.length_range(self.startups, length_range=(15, 150))
+        return startups
 
 
 

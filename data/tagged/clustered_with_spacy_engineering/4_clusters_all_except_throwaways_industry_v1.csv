@@ -1,0 +1,31 @@
+id,name,cb_description,industry1,score1,industry2,score2,industry3,score3,industry4,score4,industry5,score5
+0,InterResolve,"insurer, injury, insurance, legal, inefficient, accident, claim",InsurTech,0.593,Sport & Wellness,0.483,Transportation,0.474,FamilyTech,0.469,Mobility,0.468
+1,GladCloud,"platform, brand, asset, network, customisation, solution, design, customer, infrastructure, datum, product, marketing, analysis, stakeholder, learning, specifically, service, cosmetic, delivery",Design,0.658,Fashion,0.648,Sales & CRM,0.63,Procurement,0.628,MarTech,0.626
+2,13th-Lab,"ball, platform, tool, mapping, vision, sensor, device, technology, ios, mobile, vehicle, autonomous, camera, mission, potential, application, localization, computer",Autonomous Driving,0.712,Robotics,0.678,IoT,0.62,Automotive,0.61,Location Services,0.604
+3,Hilson-Moran,"building, engineer, project, management, consultancy, sustainability",Energy Efficiency,0.627,Professional Services,0.575,GreenTech,0.561,Climate Tech/CleanTech,0.557,Energy Generation,0.498
+4,1928-Diagnostics,"dna, antibiotic, infection, diagnostic, outbreak",Gut Microbiome,0.569,Life Sciences,0.468,Genomics,0.447,Longevity,0.444,Healthcare,0.443
+5,1939-Games,"gaming, fun, work, focus, game, games",Gaming,0.675,Esports,0.536,Metaverse,0.526,SexTech,0.519,Sport & Wellness,0.487
+6,2021.AI,"business, headquarter, organization, employee, oversight, governance, apply, responsible, capability, grow, development, management",Professional Services,0.641,Sales & CRM,0.57,Physical Storage,0.561,Productivity,0.561,Food & Beverage,0.56
+7,20nine,"brand, industry, marketing, originality, ride",Fashion,0.523,Entertainment,0.503,Design,0.503,MarTech,0.496,Sharing Economy,0.482
+8,21GRAMS,"postal, document, print, saving, unique, postage, mailing",Media,0.455,Location Services,0.417,Payments,0.401,Procurement,0.385,Transportation,0.38
+9,Geltor,"cultivate, company, product, fermentation, designer, start, create, combine, consumer, protein",Procurement,0.543,Food & Beverage,0.54,BioTech,0.527,Life Sciences,0.526,Manufacturing,0.517
+10,Cloud-Sustainability,"platform, consultancy, create, cloud, base, term, software",Platforms,0.599,Cloud Computing,0.552,Professional Services,0.551,API-First,0.546,Cloud Ops,0.539
+11,IOCOM,"collaboration, communication, videoconference",Communications,0.604,Video/Audio,0.483,Social Networks,0.48,Esports,0.4,Entertainment,0.391
+12,21st.BIO,"transition, bioproduction, production, company, manufacturing, demand, bioindustrial, market, innovation, yield",Manufacturing,0.582,Life Sciences,0.545,Food & Beverage,0.542,BioTech,0.538,GreenTech,0.536
+13,iSIZE-Technologies,"network, neural, recognition, deep, encoder, bitrate, ai, data",Computer Vision,0.696,Robotics,0.626,Video/Audio,0.602,Generative AI,0.597,IoT,0.578
+14,NPS,polymer,Materials,0.427,3D Printing,0.347,Chemicals,0.341,Nano,0.248,Web3,0.228
+15,Iterable,"platform, design, customer, experience, marketing, create, love, marketer",Platforms,0.663,Design,0.661,MarTech,0.641,Creator Economy,0.636,Sharing Economy,0.6
+16,Cyrus-Audio,"detail, engineering, innovative, design, achieve, audio, equipment",Manufacturing,0.601,3D Printing,0.542,Entertainment,0.54,Industrial Tech,0.529,Video/Audio,0.525
+17,24SevenOffice,"integrate, web, ajax, file, project, service, webex, module, application, customize",API-First,0.574,Platforms,0.45,Industrial IoT,0.416,Automation,0.4,IoT,0.384
+18,2D-fab-AB,"graphite, graphene",Materials,0.256,Nano,0.233,Web3,0.202,3D Printing,0.193,Semiconductors,0.188
+19,Utmost,"workday, company, legacy, vendor, base, management, enterprise, workforce",Future of Work,0.58,Productivity,0.548,Human Resources,0.541,Procurement,0.53,Sales & CRM,0.528
+20,Jiffy.ai,"platform, capture, automate, system, integrate, robot, achieve, algorithm, cognitive, productively, unstructured, automation, processing, process, ai, task, detect, software",Robotics,0.813,Automation,0.776,Autonomous Driving,0.644,Industrial IoT,0.637,Industrial Tech,0.604
+21,eleXsys-Energy,"cleantech, innovative, company, technology",GreenTech,0.558,Climate Tech/CleanTech,0.516,Manufacturing,0.492,Deep Tech,0.489,Automotive,0.483
+22,Gemfire,"optical, conductor, technology, atmosphere, type, telecom, component, aerospace",Hardware,0.633,Space Tech,0.611,Network Infrastructure,0.572,Manufacturing,0.553,Semiconductors,0.544
+23,Jobandtalent,"labor, hire, worker, company, office, employment, staff, unemployment, service, growth, jobandtalent",Future of Work,0.527,Human Resources,0.517,Sales & CRM,0.483,Procurement,0.476,Mobile,0.469
+24,360-Logistics,"business, owner, automate, operator, autostore, employee, service, store, concentrate, growth, market, supplier, warehouse, logistic",Physical Storage,0.716,Logistics,0.64,Sales & CRM,0.637,Procurement,0.629,Supply Chains,0.625
+25,3rd-Eye-Studios,"movie, group, industry, work, company, game, technology, tv, atmospheric",Entertainment,0.666,Space Tech,0.617,Media,0.555,Mobile,0.517,Gaming,0.516
+26,Joost,"tool, etc, channel, embed, screen, experience, widget, forum, content, example, directly, data, chat, catalog, iptv, technology, skype, browser, video, image, livestation, enhance, internet, datum, desktop, interactive, hardware, display, allow, type, stream, platform, intersperse, server, require, program, programming, television, tv, download, software",Video/Audio,0.653,Social Networks,0.57,Communications,0.561,Hardware,0.547,Creator Economy,0.53
+27,NAVENTIK-GmbH,"system, relevant, solution, sensor, diverse, develop, security, pathinfder, autonomous, position, software, execute",Robotics,0.605,Automation,0.583,Industrial Tech,0.571,Industrial IoT,0.565,IoT,0.562
+28,3Shape,"digital, art, scanning, software, intra, laboratory",Manufacturing,0.48,3D Printing,0.473,Industrial IoT,0.47,Semiconductors,0.469,Health Tech,0.449
+29,3TEMP-AB,"investment, people, coffee, receive, year, drip, player, end, commercial, include, brewer, sell, market, filter, worth",Sales & CRM,0.587,Procurement,0.523,Entertainment,0.48,Mobile,0.445,MarTech,0.445

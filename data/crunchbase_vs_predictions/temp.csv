@@ -1,0 +1,442 @@
+name,market,industry1_v2,industry2_v2,industry3_v2
+1stdibs, E-Commerce ,E-commerce,Fashion,Sales & CRM
+24Symbols, Software ,Mobile,EdTech,Telecoms
+365Scores, Sports ,Esports,Entertainment,Communications
+7digital, Music ,Media,Telecoms,Data Infrastructure
+Abcodia, Biotechnology ,Genomics,Life Sciences,RegTech
+Ablynx, Biotechnology ,Life Sciences,Nano,Deep Tech
+AbsolutData, Analytics ,Automation,Industrial IoT,Business Intelligence
+AccuVein, Hardware + Software ,MedTech,Health Tech,Healthcare
+Acousticeye, Clean Technology ,MedTech,OceanTech,Hardware
+Actionality, Advertising ,AdTech,Sales & CRM,Mobile
+Activiomics, Biotechnology ,Life Sciences,Genomics,MedTech
+Adallom, Security ,InfoSec,Cybersecurity,Cloud Ops
+Adiana, Biotechnology ,MedTech,Healthcare,FemTech
+Adikteev, Advertising Platforms ,MarTech,Creator Economy,Sales & CRM
+Adjug, Internet ,AdTech,MarTech,Sales & CRM
+Adyen, E-Commerce ,Sales & CRM,E-commerce,Telecoms
+Agilyx, Clean Technology ,Circular Economy,Carbon Capture,Chemicals
+AGNITiO, Software ,Sales & CRM,DeFi,RegTech
+Algolia, Search ,Sales & CRM,Mobile,Communications
+Allylix, Agriculture ,Food & Beverage,Beauty,Circular Economy
+Altacor, Biotechnology ,Healthcare,Beauty,Fashion
+Amarin, Biotechnology ,Healthcare,Analytics,Health Tech
+AmbioPharm, Pharmaceuticals ,Life Sciences,Healthcare,Health Tech
+Ambrx, Biotechnology ,Life Sciences,Genomics,Health Tech
+Amplience, E-Commerce ,Sales & CRM,Sharing Economy,Business Intelligence
+Amplimmune, Medical ,Life Sciences,Nutrition,Genomics
+Anaphore, Biotechnology ,Life Sciences,Genomics,MedTech
+Andela, Software ,Future of Work,DeFi,Procurement
+Antenova, Hardware + Software ,5G Networks,Telecoms,Mobile
+Apertio, Mobile ,Network Infrastructure,Telecoms,Web3
+Apica, Enterprise Software ,Data Infrastructure,Cloud Ops,Cloud Computing
+AppGyver, Mobile Software Tools ,Developer Tools,Sales & CRM,DeFi
+AppInstitute, Mobile ,Sales & CRM,Sharing Economy,Mobile
+Applifier, Games ,Social Networks,Mobile,Sharing Economy
+AppsFlyer, Mobile ,Sales & CRM,MarTech,Creator Economy
+Aqdot,,GreenTech,Circular Economy,Climate & Clean Tech
+ARKeX, Consulting ,Business Intelligence,OceanTech,Biodiversity
+ArtBinder, Software ,AdTech,Creator Economy,Design
+Arthena, Art ,DeFi,InsurTech,FinTech
+Artimi, Semiconductors ,Hardware,FamilyTech,Semiconductors
+Asana, Collaboration ,Productivity,Future of Work,Sales & CRM
+Asetek, Computers ,Data Centers,GreenTech,Circular Economy
+Athos, Fitness ,Sport & Wellness,Esports,Productivity
+Auctionata, Auctions ,DeFi,AdTech,Procurement
+Autobutler, Professional Services ,Automotive,Sales & CRM,Logistics
+Aveillant, Consulting ,Sales & CRM,FinTech,Business Intelligence
+Avuba, Finance ,DeFi,Payments,FinTech
+Axilica, Software ,Semiconductors,Design,Hardware
+Azuro, Semiconductors ,Hardware,Semiconductors,Manufacturing
+Bango, Mobile ,Payments,E-commerce,Mobile
+basno, Curated Web ,Security,Creator Economy,Sales & CRM
+be2, Match-Making ,Sales & CRM,Entertainment,Esports
+Beisen, Consulting ,Human Resources,Business Intelligence,Sales & CRM
+Believe.in, Charity ,DeFi,Creator Economy,Crypto
+BeMyEye, Shopping ,Sales & CRM,Business Intelligence,Health Tech
+Bench, Finance ,FinTech,DeFi,Sales & CRM
+Berg, Software ,Cloud Ops,Cloud Computing,Cloud Infrastructure
+Bettymovil, Games ,Creator Economy,Sharing Economy,MedTech
+Billetto, Ticketing ,Entertainment,Social Networks,Communications
+BillGuard, IT and Cybersecurity ,Sales & CRM,DeFi,FinTech
+BioCatch, Biotechnology ,Sales & CRM,Cybersecurity,DeFi
+Biocontrol, Biotechnology ,Gut Microbiome,Nutrition,Robotics
+Biofisica, Biotechnology ,MedTech,Healthcare,Health Tech
+Biofortuna, Biotechnology ,Genomics,Business Intelligence,MedTech
+BiolineRx, Biotechnology ,Life Sciences,DeFi,MedTech
+BioProtect, Medical Devices ,MedTech,Circular Economy,Health Tech
+Birdback, Enterprise Software ,E-commerce,Payments,Sales & CRM
+Bitly, Curated Web ,Creator Economy,MarTech,AdTech
+BitPay, Bitcoin ,Payments,API-First,DeFi
+Bityota, Analytics ,Sales & CRM,Physical Storage,Supply Chains
+blinkbox, Games ,Entertainment,Video/Audio,Communications
+Blottr, Content ,Media,Creator Economy,Social Networks
+Blueleaf, Finance ,Sales & CRM,Physical Storage,Sharing Economy
+Bluesmart,,Connected Home,Connected Life,Sales & CRM
+Boomlagoon, Games ,Gaming,Future of Work,Mobile
+Brainomix, Medical Devices ,Health Tech,MedTech,Computer Vision
+BrewDog, Hospitality ,Circular Economy,Creator Economy,Energy Storage
+BUX, Stock Exchanges ,DeFi,FinTech,Economic Empowerment
+C2FO, Finance ,Procurement,Sales & CRM,Supply Chains
+Calastone, Finance ,DeFi,Sharing Economy,FinTech
+Captify, Advertising ,Sales & CRM,Search,Business Intelligence
+CardioFocus, Biotechnology ,Deep Tech,MedTech,Automation
+Carebase,,Healthcare,Happiness & Wellbeing,Sales & CRM
+Carwow, Automotive ,Sales & CRM,Procurement,Automotive
+Casabu, E-Commerce ,FamilyTech,Circular Economy,Retail
+Catawiki, Internet ,Sales & CRM,E-commerce,Procurement
+Celaton, Software ,Productivity,Sales & CRM,Automation
+Cennox, Finance ,Sales & CRM,Circular Economy,Telecoms
+CensorNet, Enterprise Software ,Cloud Computing,Cloud Ops,Edge Computing
+Chamelic, Biotechnology ,Climate & Clean Tech,GreenTech,Energy Efficiency
+Chartbeat, Real Time ,Creator Economy,Business Intelligence,Data Management
+Chiasma, Biotechnology ,Beauty,Nutrition,Life Sciences
+CinemaNow, Games ,Entertainment,Video/Audio,Network Infrastructure
+CipherCloud, Cloud Security ,InfoSec,Cybersecurity,Cloud Ops
+CityFibre, Telecommunications ,Network Infrastructure,Telecoms,Data Centers
+Citylabs, Curated Web ,Physical Storage,Data Centers,Circular Economy
+Clinkle, Payments ,Circular Economy,E-commerce,Sharing Economy
+Cloakroom, Fashion ,Fashion,Sharing Economy,Retail
+Cloud.com, Cloud Management ,Cloud Ops,Cloud Computing,Data Infrastructure
+Cmune, Games ,Gaming,Mobile,Metaverse
+Codacy, B2B ,Developer Tools,Business Intelligence,Productivity
+Codecademy, Education ,EdTech,Future of Work,Design
+Codementor, Developer Tools ,Developer Tools,Productivity,Creator Economy
+Coinbase, Personal Finance ,Payments,E-commerce,DeFi
+Collibra, SaaS ,Business Intelligence,Data Management,DeFi
+CoMentis, Biotechnology ,Longevity,Life Sciences,Healthcare
+Confluent, Technology ,Big Data,Data Infrastructure,Communications
+Conversocial, Customer Support Tools ,Sales & CRM,Creator Economy,Sharing Economy
+Coupang, E-Commerce ,Sales & CRM,E-commerce,Retail
+Criteo, Advertising ,Sales & CRM,Sharing Economy,Circular Economy
+Crossfader, Digital Media ,Creator Economy,Entertainment,Generative AI
+Crowdpac, Big Data ,DeFi,Economic Empowerment,Creator Economy
+Cue, Curated Web ,Social Networks,Communications,Creator Economy
+CultureLabel, Design ,Creator Economy,Fashion,Sales & CRM
+Cyanogen, Software ,Developer Tools,Creator Economy,Business Intelligence
+Cybereason, IT and Cybersecurity ,Cybersecurity,Security,InfoSec
+Cytox, Biotechnology ,Life Sciences,Longevity,Healthcare
+Dajie, Curated Web ,Communications,Sales & CRM,Social Networks
+Databricks, Analytics ,Business Intelligence,Data Management,Sales & CRM
+Datadog, Software ,Cloud Ops,Data Management,Data Infrastructure
+Datahug, Analytics ,Sales & CRM,Business Intelligence,Productivity
+DaWanda, Social Network Media ,E-commerce,Fashion,Sharing Economy
+Daylife, Publishing ,Creator Economy,MarTech,Media
+Deliveroo, Food Processing ,Food & Beverage,E-commerce,Physical Storage
+Depop, Mobile ,Fashion,Retail,E-commerce
+Deporvillage, E-Commerce ,Retail,Esports,Fashion
+Dibbz, Monetization ,Creator Economy,Gaming,Social Networks
+Dimdim, Curated Web ,Communications,Network Infrastructure,AR/MR/VR
+DiObex, Biotechnology ,Life Sciences,Nutrition,Healthcare
+DNage, Biotechnology ,DeFi,Creator Economy,Circular Economy
+Dopplr, Private Social Networking ,Social Networks,Sharing Economy,Future of Work
+Drivy, Online Rental ,Transportation,Sales & CRM,Autonomous Driving
+DroneDeploy, Drones ,Cloud Computing,Cloud Ops,Sales & CRM
+Dropbox, Cloud Data Services ,Web3,Data Storage,Future of Work
+E-LeatherGroup, Textiles ,Procurement,Fashion,Materials
+EasyProperty, Rental Housing ,Sharing Economy,DeFi,PropTech
+EeBria, E-Commerce ,Creator Economy,Entertainment,Food & Beverage
+Egalet, Health Care ,Healthcare,Health Tech,RegTech
+Ekinops, Hardware + Software ,Network Infrastructure,Telecoms,5G Networks
+emoquo, Education ,Happiness & Wellbeing,InfoSec,Human Resources
+Enablon, Software ,RegTech,Supply Chains,Telecoms
+Entelos, Biotechnology ,Life Sciences,Health Tech,Analytics
+EpiBone, Medical ,MedTech,Healthcare,Life Sciences
+Epiphyte, Banking ,DeFi,FinTech,LegalTech
+ERCOM, Security ,Telecoms,Network Infrastructure,5G Networks
+eTherapeutics, Biotechnology ,Life Sciences,Genomics,Analytics
+eToro, Finance ,DeFi,Sharing Economy,InsurTech
+Etsy, Peer-to-Peer ,E-commerce,Fashion,Sales & CRM
+Evernote, Software ,Sharing Economy,Future of Work,Sales & CRM
+Everpix, Photography ,Web3,Physical Storage,Data Storage
+Evodental, Biotechnology ,Health Tech,MedTech,Healthcare
+Evolva, Biotechnology ,Life Sciences,Circular Economy,Chemicals
+eWise, E-Commerce ,DeFi,Procurement,Payments
+Exosect, Biotechnology ,Food & Beverage,Nutrition,Circular Economy
+Experiment, Technology ,Health Tech,Gaming,Social Networks
+F2G, Biotechnology ,Life Sciences,Genomics,Deep Tech
+Factual, Databases ,Data Centers,Physical Storage,Sales & CRM
+Familiar, Photography ,FamilyTech,Social Networks,Connected Home
+Fanatics, E-Commerce ,Creator Economy,Retail,Esports
+Fashiolista, Fashion ,Fashion,Creator Economy,Beauty
+Figma,,Productivity,Developer Tools,Design
+FilesX, Software ,Data Storage,Data Management,Physical Storage
+Filmzu, Video on Demand ,Creator Economy,AdTech,Entertainment
+FinanceAcar, Finance ,FinTech,Sales & CRM,InsurTech
+Fleksy, Mobile ,Communications,Productivity,Mobile
+Flipboard, News ,Creator Economy,Social Networks,Media
+Flirtomatic, Networking ,Social Networks,Communications,Payments
+Flowline, Clean Technology ,Circular Economy,Transportation,Infrastructure Tech
+Fluency, Digital Media ,EdTech,Sales & CRM,MarTech
+Fluttr, Events ,Social Networks,Communications,Entertainment
+FOBO, Hardware + Software ,AdTech,E-commerce,Sales & CRM
+Fon, Mobile ,Data Infrastructure,Network Infrastructure,Telecoms
+Food52, Cooking ,Creator Economy,Sharing Economy,Social Networks
+ForceManager, Productivity Software ,Sales & CRM,Business Intelligence,Productivity
+FormaFina, Lifestyle ,Sharing Economy,E-commerce,AdTech
+Fountain, Software ,Sales & CRM,Human Resources,Productivity
+Frengo, Social Media ,Gaming,Mobile,Social Networks
+Front, Apps ,Communications,Sales & CRM,Future of Work
+Frontback, Curated Web ,Social Networks,Communications,Creator Economy
+Funderbeam, Big Data Analytics ,DeFi,FinTech,InsurTech
+Futurelytics, Enterprise Software ,Business Intelligence,Sales & CRM,Data Management
+Fyndiq, E-Commerce ,E-commerce,Retail,Sales & CRM
+G-volution, Clean Technology ,Carbon Capture,Energy Storage,Automotive
+gamesGRABR, Games ,Gaming,Social Networks,Mobile
+Garlik, Internet ,Cybersecurity,InfoSec,Sales & CRM
+GateMe, Events ,Entertainment,Travel,Creator Economy
+Geckoboard, Web Development ,Sharing Economy,Business Intelligence,Entertainment
+Gelesis, Biotechnology ,Nutrition,MedTech,Beauty
+Gemfire,,Network Infrastructure,Hardware,Sales & CRM
+Gengo, Crowdsourcing ,Future of Work,Communications,DeFi
+Genmab, Biotechnology ,Life Sciences,Deep Tech,Genomics
+Genomics,,Genomics,Life Sciences,Health Tech
+GeoSentric, Mobile ,Mobile,Sharing Economy,DeFi
+GetApp, Cloud Computing ,Business Intelligence,Sales & CRM,Procurement
+Gidsy, E-Commerce ,Sharing Economy,Travel,Creator Economy
+GigDropper, Mobile ,Mobile,Entertainment,Communications
+Givey, Mobile ,Economic Empowerment,Death Tech,DeFi
+GlycoVaxyn, Biotechnology ,Life Sciences,MedTech,Healthcare
+Gnodal, Web Hosting ,Data Centers,Network Infrastructure,Data Infrastructure
+GoCardless, E-Commerce ,Payments,Procurement,DeFi
+Gojimo, Education ,EdTech,Economic Empowerment,Creator Economy
+GoSquared, Real Time ,Communications,Sales & CRM,MarTech
+Grabyo, Television ,Video/Audio,Entertainment,Communications
+Graduway, Career Management ,Social Networks,Economic Empowerment,Happiness & Wellbeing
+Groupalia, Price Comparison ,E-commerce,Sales & CRM,AdTech
+Gymbox, Fitness ,Sport & Wellness,Circular Economy,Sharing Economy
+Gynesonics, Health Care ,FemTech,Beauty,Health Tech
+Health2Works, Software ,Healthcare,Health Tech,Sales & CRM
+Heetch, Apps ,Sharing Economy,Transportation,Mobility
+Helpling, Consumers ,E-commerce,Payments,Sharing Economy
+Helveta, Software ,Circular Economy,Supply Chains,Sales & CRM
+Heysan, Messaging ,Social Networks,Creator Economy,Mobile
+HitMeUp, Real Time ,Sales & CRM,E-commerce,AdTech
+Hobzy, E-Commerce ,Creator Economy,Social Networks,Future of Work
+Holidu, Vacation Rentals ,Travel,Sharing Economy,PropTech
+Hooptap, Mobile ,Creator Economy,MarTech,Mobile
+Hortonworks, Search ,Business Intelligence,Cloud Ops,DeFi
+HouseTrip, Technology ,Travel,Sharing Economy,PropTech
+Huckletree, Shared Services ,Future of Work,Sharing Economy,Creator Economy
+Huddle, Collaboration ,Sharing Economy,Future of Work,Physical Storage
+Impinj, Electronics ,Connected Life,Infrastructure Tech,Health Tech
+In2Games, Games ,Gaming,Sales & CRM,Design
+incrediblue, Internet ,Sharing Economy,Travel,Sales & CRM
+InCrowd, Analytics ,Health Tech,Healthcare,LegalTech
+Inetec,,Physical Storage,Circular Economy,Supply Chains
+Infinia, Clean Technology ,Energy Generation,DeFi,Energy Distribution
+Infogram, Graphics ,Business Intelligence,Design,Productivity
+Inivata, Biotechnology ,Genomics,Life Sciences,MedTech
+Inneractive, Advertising ,AdTech,Creator Economy,Media
+InnerWorkings, Outsourcing ,Supply Chains,Sales & CRM,Physical Storage
+Inoapps,,DeFi,Sales & CRM,Telecoms
+Insly,,InsurTech,Cloud Computing,Cloud Ops
+Instabridge, Mobile ,Social Networks,Sharing Economy,Mobile
+Instacart, Groceries ,E-commerce,Sales & CRM,Logistics
+IntelePeer, Unifed Communications ,Data Infrastructure,Cloud Ops,Cloud Computing
+Intellisense, Telecommunications ,Sales & CRM,Telecoms,Communications
+InterResolve,,InsurTech,LegalTech,Automation
+Interse, Software ,LegalTech,Sales & CRM,Business Intelligence
+IOCOM, Software ,Communications,Future of Work,Productivity
+Itaconix, Clean Technology ,Climate & Clean Tech,Circular Economy,Materials
+Iterable, Marketing Automation ,Sales & CRM,MarTech,Retail
+iwoca, Finance ,Travel,Sharing Economy,Physical Storage
+iZettle, Mobile Payments ,FinTech,Sharing Economy,DeFi
+Jawbone, Consumer Electronics ,Mobile,MedTech,Communications
+Jinn, Mobile ,E-commerce,Sales & CRM,Logistics
+Jobbatical, Marketplaces ,Automation,Future of Work,Productivity
+Jolicloud, Web Tools ,Cloud Infrastructure,Edge Computing,Cloud Computing
+Jott, Messaging ,Communications,Sales & CRM,MarTech
+Jukedeck, Entertainment ,Generative AI,Automation,Video/Audio
+Jukely, Concerts ,Social Networks,Creator Economy,Entertainment
+Justworks, Human Resources ,Sales & CRM,Productivity,Business Intelligence
+KabeExploration, Consulting ,Procurement,Circular Economy,RegTech
+Kaggle, Analytics ,Business Intelligence,Hardware,Industrial IoT
+Kallik, Design ,Beauty,Creator Economy,Health Tech
+Keelvar, E-Commerce ,Procurement,Supply Chains,Circular Economy
+Kineta, Biotechnology ,Life Sciences,Healthcare,Nutrition
+Kirusa, Public Relations ,Telecoms,Physical Storage,Data Centers
+Knewton, Education ,EdTech,Design,Future of Work
+Knowable, Product Design ,Creator Economy,Productivity,Hardware
+Kublax, Startups ,FinTech,DeFi,Payments
+Kukunu, Startups ,Travel,Sharing Economy,Entertainment
+KupiVIP, Shopping ,Fashion,Retail,E-commerce
+Kymab, Biotechnology ,Life Sciences,MedTech,Health Tech
+LaunchKey, Cyber Security ,Payments,Security,InfoSec
+Layer, Messaging ,Productivity,Business Intelligence,Procurement
+LendInvest, Commercial Real Estate ,FinTech,DeFi,Economic Empowerment
+Liazon, Health and Insurance ,E-commerce,Sales & CRM,Health Tech
+Lieferheld, Restaurants ,E-commerce,Sales & CRM,Food & Beverage
+LifeBook, Curated Web ,Death Tech,Human Resources,Creator Economy
+Lifesum, Personal Health ,Health Tech,Healthcare,MedTech
+Lightbox, Mobile ,Mobile,Communications,Creator Economy
+LiveNinja, Video Chat ,Communications,Sales & CRM,Telecoms
+LLUSTRE, E-Commerce ,Creator Economy,Sales & CRM,Sharing Economy
+Lob, Developer Tools ,Sales & CRM,Business Intelligence,Circular Economy
+LOOKK, Fashion ,Fashion,Creator Economy,Beauty
+Lookout, Security ,Security,Cybersecurity,InfoSec
+LoyaltyLion, Analytics ,Sales & CRM,Retail,E-commerce
+Loyalzoo, Local Businesses ,Retail,E-commerce,Sales & CRM
+Lumora, Biotechnology ,Health Tech,Life Sciences,Healthcare
+Lysanda, Clean Technology ,Climate & Clean Tech,GreenTech,Electrification
+Lyst, Technology ,Fashion,Beauty,Creator Economy
+M-KOPA, Mobile ,FinTech,DeFi,Sharing Economy
+Marcandi, E-Commerce ,AdTech,Procurement,DeFi
+Marqeta, Curated Web ,Payments,E-commerce,DeFi
+mCASH, Mobile ,Sales & CRM,DeFi,Payments
+MedaPhor, Education ,MedTech,Healthcare,EdTech
+MedArkive, Health Care ,Mobile,FemTech,Communications
+MedeAnalytics, Analytics ,Business Intelligence,Health Tech,Healthcare
+Mediamorph, Software ,Media,Creator Economy,Entertainment
+Memopal, Web Hosting ,Data Storage,Data Infrastructure,Cloud Computing
+Mendeley, Social Network Media ,Social Networks,Web3,Future of Work
+Mercaux, Fashion ,E-commerce,Sales & CRM,Payments
+Metamarkets, Analytics ,AdTech,Sales & CRM,Retail
+Metrasens, Security ,MedTech,Healthcare,Health Tech
+Metrolight, Clean Technology ,Energy Efficiency,Energy Storage,Energy Distribution
+Million-2-1, Mobile ,Mobile,MarTech,Telecoms
+Mind-NRG, Biotechnology ,Neuro,Life Sciences,Genomics
+Mindshapes, Games ,Creator Economy,Design,Sharing Economy
+MobileAware, Mobile ,Telecoms,Mobile,5G Networks
+MobiliBuy, QR Codes ,E-commerce,Retail,Sales & CRM
+Mobissimo, Travel ,Search,Logistics,Travel
+Mobyko, Synchronization ,Mobile,Telecoms,Future of Work
+MoneyExpert, Finance ,FinTech,InsurTech,Sales & CRM
+MooBella, Manufacturing ,Circular Economy,Food & Beverage,Deep Tech
+Moven, Mobile ,Sales & CRM,DeFi,FinTech
+Movidius, Semiconductors ,MedTech,Computer Vision,Industrial Tech
+Movirtu, Emerging Markets ,Mobile,Sharing Economy,Telecoms
+Muzicall, Mobile ,Telecoms,Sales & CRM,Sharing Economy
+MyBuilder, Plumbers ,Sales & CRM,AdTech,Sharing Economy
+MycoTechnology, Specialty Foods ,Food & Beverage,Circular Economy,Nutrition
+MymCart, E-Commerce ,Mobile,Sharing Economy,E-commerce
+MySQL, Databases ,Business Intelligence,Big Data,Data Management
+myTips, User Experience Design ,Sales & CRM,Productivity,EdTech
+NanoSight, Nanotechnology ,Nano,Deep Tech,Semiconductors
+Nanosolar, Clean Technology ,3D Printing,GreenTech,Semiconductors
+Napatech, Hardware + Software ,Network Infrastructure,Data Storage,Data Centers
+NationBuilder, Politics ,Sales & CRM,DeFi,Sharing Economy
+navabi, Retail ,Fashion,Creator Economy,Retail
+NearDesk, Biometrics ,Future of Work,Sales & CRM,Sharing Economy
+Neogrowth, Finance ,Sales & CRM,FinTech,Beauty
+Netlog, Curated Web ,Social Networks,Communications,Creator Economy
+Netvibes, Web Development ,Business Intelligence,Sales & CRM,Productivity
+Neurotech, Biotechnology ,Life Sciences,Healthcare,Beauty
+NewVoiceMedia, Enterprise Software ,Data Centers,Telecoms,Sales & CRM
+Nexeon, Hardware + Software ,Energy Storage,GreenTech,Energy Efficiency
+Nexthink, Software ,Future of Work,Productivity,Sales & CRM
+nkf-pharma, Health Care ,Nutrition,Beauty,Life Sciences
+NormOxys, Biotechnology ,Nutrition,Beauty,Health Tech
+Notion, Sensors ,Productivity,Future of Work,Health Tech
+Novaerus,,Healthcare,MedTech,InfoSec
+Novus, Analytics ,Data Management,DeFi,RegTech
+NPS, Clean Technology ,Manufacturing,Deep Tech,3D Printing
+Nualight, Clean Technology ,Retail,Circular Economy,GreenTech
+Nuji, Curated Web ,Retail,E-commerce,Sales & CRM
+Nutmeg, Investment Management ,DeFi,FinTech,Physical Storage
+Nykaa, Fashion ,Beauty,FemTech,Health Tech
+Ocapo, E-Commerce ,MarTech,AdTech,Sales & CRM
+Olapic, Content ,Creator Economy,MarTech,AdTech
+Omaze, Curated Web ,Entertainment,Creator Economy,Sharing Economy
+Ometria, E-Commerce ,Sales & CRM,Retail,Creator Economy
+OMGPOP, Auctions ,Gaming,Social Networks,Mobile
+Omnidrone, Games ,Gaming,Mobile,Future of Work
+Omniox, Biotechnology ,Longevity,Healthcare,MedTech
+OmPrompt, Enterprise Software ,Sales & CRM,Payments,Productivity
+ON24, Curated Web ,Sales & CRM,MarTech,AdTech
+Ondango, Retail ,E-commerce,Retail,Sales & CRM
+onefinestay, Travel ,Sharing Economy,Travel,Economic Empowerment
+OneTwoTrip, Travel ,Travel,Entertainment,Sharing Economy
+Onfido, Internet ,Security,Payments,DeFi
+Onyvax, Biotechnology ,Life Sciences,Future of Work,Cybersecurity
+OpenBuildings, Curated Web ,Metaverse,Creator Economy,Physical Storage
+OpenCloud, Web Hosting ,Telecoms,Network Infrastructure,Communications
+Openet, Software ,Network Infrastructure,5G Networks,Data Infrastructure
+OpenFin, Finance ,Security,Cloud Ops,Communications
+OpenX, Advertising Exchanges ,AdTech,MarTech,Creator Economy
+Oppex, Search ,Social Impact,Economic Empowerment,Sales & CRM
+Opsmatic, Enterprise Software ,Productivity,Future of Work,Sales & CRM
+Opsona, Biotechnology ,Life Sciences,Healthcare,Nutrition
+OpTier, Analytics ,Data Infrastructure,Business Intelligence,Sales & CRM
+Optimizely, Software ,Sales & CRM,Productivity,Business Intelligence
+Orecon, Clean Technology ,GreenTech,Energy Generation,OceanTech
+Orphazyme, Biotechnology ,Life Sciences,Genomics,Psychedelics
+Orthogem, Biotechnology ,Beauty,MedTech,Circular Economy
+OurCrowd, Venture Capital ,Economic Empowerment,DeFi,Social Impact
+Outbrain, Reviews and Recommendations ,Creator Economy,MarTech,Social Networks
+Oxagen, Biotechnology ,Life Sciences,Nutrition,Healthcare
+Oxitec, Biotechnology ,Climate & Clean Tech,GreenTech,Carbon Removal
+Oxtox, Health Care ,Psychedelics,MedTech,Life Sciences
+Oxyntix,,Deep Tech,Productivity,Circular Economy
+PacketVideo, Software ,Communications,Network Infrastructure,Mobile
+Path, Mobile ,Mobile,Social Networks,Sharing Economy
+Pax8, Software ,Sales & CRM,E-commerce,Cloud Computing
+payleven, Mobile ,Payments,Sales & CRM,E-commerce
+PDV, Advertising ,MarTech,Creator Economy,AdTech
+Peerius, Reviews and Recommendations ,Sales & CRM,Creator Economy,InsurTech
+Pelikon,,Sales & CRM,Circular Economy,Connected Home
+Phagenesis, Biotechnology ,Neuro,MedTech,Psychedelics
+Phorm, Ad Targeting ,AdTech,Sales & CRM,Health Tech
+Photoways, Photography ,Physical Storage,Creator Economy,Network Infrastructure
+Phylogy, Web Hosting ,Telecoms,Sales & CRM,Health Tech
+Picfair, Licensing ,AdTech,E-commerce,Cloud Infrastructure
+picoChip, Software ,5G Networks,IoT,Communications
+Picodeon,,3D Printing,Semiconductors,Manufacturing
+Pinterest, Curated Web ,Creator Economy,Developer Tools,Design
+Pitzi, Mobile ,InsurTech,Supply Chains,Procurement
+Pixowl, Games ,Gaming,Mobile,Creator Economy
+Plaid, Software ,DeFi,FinTech,Business Intelligence
+PlayCanvas, Games ,Gaming,Metaverse,Creator Economy
+Playfish, Games ,Gaming,Social Networks,Creator Economy
+PlayJam, Social Games ,Gaming,Mobile,Sharing Economy
+PlayMob, Mobile ,Gaming,Creator Economy,Retail
+PlayRaven, Game ,Gaming,Creator Economy,Metaverse
+Plazes, Social Media ,Social Networks,Mobile,Location Services
+Polatis, Web Hosting ,Network Infrastructure,Telecoms,5G Networks
+PolicyBazaar, Finance ,InsurTech,RegTech,Analytics
+Polyera, Semiconductors ,Materials,3D Printing,Hardware
+PolyPid, Biotechnology ,Health Tech,API-First,Healthcare
+PolyTherics, Biotechnology ,Life Sciences,Genomics,Beauty
+Pomelo, Fashion ,FinTech,DeFi,Payments
+POPxo, Beauty ,Creator Economy,Fashion,Beauty
+Portalarium, Games ,Gaming,Social Networks,Entertainment
+Povo, Advertising ,Creator Economy,Search,Developer Tools
+Prevently, Health and Wellness ,Healthcare,Health Tech,FemTech
+Privalia, E-Commerce ,Fashion,Beauty,Retail
+PromoRepublic, Small and Medium Businesses ,Creator Economy,Sales & CRM,Circular Economy
+PropertyGuru, E-Commerce ,PropTech,Sales & CRM,AdTech
+Prosensa, Health Care ,Life Sciences,Healthcare,Health Tech
+Prosonix, Biotechnology ,Manufacturing,Deep Tech,Nano
+PROTEGO, Manufacturing ,Physical Storage,Circular Economy,Hardware
+Publisha, iPhone ,Creator Economy,Media,Data Infrastructure
+Puridify, Biotechnology ,Chemicals,Deep Tech,Hardware
+Pyreos, Hardware + Software ,RegTech,GreenTech,Climate & Clean Tech
+Q-Bot, Software ,Robotics,Industrial Tech,Productivity
+Qapa, Marketplaces ,Human Resources,Sales & CRM,Future of Work
+QikServe, Hospitality ,Travel,E-commerce,Communications
+Qnovo, Enterprise Software ,Energy Storage,Electrification,Mobility
+Qosmos, Software ,RegTech,Network Infrastructure,InfoSec
+Quandoo, Online Reservations ,Food & Beverage,Sharing Economy,Circular Economy
+Quill, Text Analytics ,Productivity,Developer Tools,Sales & CRM
+Quipper, Mobile ,Creator Economy,EdTech,FamilyTech
+Quisic, Education ,EdTech,Design,Creator Economy
+Qumas, Software ,RegTech,Supply Chains,Circular Economy
+Qype, Curated Web ,Social Networks,Creator Economy,Mobile
+Rad, E-Commerce ,Fashion,Beauty,E-commerce
+Radialpoint, Software ,Sales & CRM,Sharing Economy,Connected Home
+RadiumOne, Mobile Advertising ,Sales & CRM,AdTech,E-commerce
+Rangespan, E-Commerce ,Supply Chains,Sales & CRM,Logistics
+RateSetter, Curated Web ,FinTech,DeFi,Payments
+Readmill, Mobile ,Creator Economy,Sharing Economy,Social Networks
+RealityMine, Market Research ,Communications,Connected Home,Entertainment
+Rebtel, VoIP ,Future of Work,Economic Empowerment,Productivity
+Recommind, Enterprise Software ,Search,Sales & CRM,Business Intelligence
+Remote,,Future of Work,Supply Chains,Productivity
+Rentify, Software ,PropTech,DeFi,Sharing Economy
+RentMineOnline, Sales and Marketing ,Sharing Economy,Economic Empowerment,Social Networks
+RetentionGrid, Software ,Sales & CRM,E-commerce,AdTech
+Revolut, Customer Service ,Payments,DeFi,FinTech
+Rhytec,,Beauty,Circular Economy,DeFi
+RightScale, Cloud Computing ,Cloud Computing,Cloud Ops,Sales & CRM
+Riskclick, Software ,Sales & CRM,InsurTech,LegalTech
+Robinhood, Personal Finance ,InsurTech,Crypto,DeFi

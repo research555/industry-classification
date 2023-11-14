@@ -12,7 +12,7 @@ class Embedding:
     A class to generate embeddings for startups and industries using specified language models and pooling methods.
     """
 
-    def __init__(self, startups, industries, llm='bert', pool='max', sentence_transformer=False):
+    def __init__(self, startups, column_name, industries, llm='bert', pool='max', sentence_transformer=False):
 
         """
         Initializes the Embedding class with specified language models and pooling methods.
@@ -26,6 +26,7 @@ class Embedding:
 
         self.startups = startups
         self.industries = industries
+        self.column_name = column_name
         self.sentence_transformer = sentence_transformer
         self.pool = pool
         self.llm = {
@@ -57,7 +58,7 @@ class Embedding:
         for i, row in tqdm(texts.iterrows()):
             id = row['id']
             if startup:
-                description = row['cb_description']
+                description = self.startups[self.column_name]
             else:
                 description = row['keywords']
             if self.sentence_transformer:

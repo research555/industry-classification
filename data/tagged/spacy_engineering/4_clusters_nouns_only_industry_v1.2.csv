@@ -1,0 +1,31 @@
+name,cb_description,id,industry1,score1,industry2,score2,industry3,score3,industry4,score4,industry5,score5
+InterResolve,"insurance, insurer, agency, compensation",0,InsurTech,0.524,Automotive,0.356,Procurement,0.345,FemTech,0.334,Travel,0.325
+GladCloud,"brand, asset, customisation, product, learn, marketing, analysis, stakeholder, cosmetic",1,Design,0.649,Beauty,0.641,Fashion,0.639,MarTech,0.592,Sales & CRM,0.585
+13th-Lab,"camera, vision, sensor, vehicle, potential",2,Autonomous Driving,0.515,Robotics,0.491,Automotive,0.429,Security,0.426,Hardware,0.424
+Hilson-Moran,"leisure, facility, hotel",3,Travel,0.629,Sharing Economy,0.381,Physical Storage,0.356,Entertainment,0.328,Esports,0.324
+1928-Diagnostics,"infection, diagnostic, trace, outbreak",4,Healthcare,0.386,Life Sciences,0.304,Cybersecurity,0.291,Security,0.285,Health Tech,0.28
+1939-Games,"gaming, veteran, experience, fun, game, card",5,Gaming,0.621,Esports,0.521,Metaverse,0.505,Design,0.413,Sport & Wellness,0.39
+2021.AI,"capability, oversight, expertise",6,Productivity,0.439,Security,0.379,Future of Work,0.349,Human Resources,0.342,Defense,0.338
+20nine,"brand, industry, marketing",7,Fashion,0.593,MarTech,0.584,Sales & CRM,0.565,Procurement,0.559,Design,0.533
+21GRAMS,"post, offer, postage, mailing",8,Procurement,0.487,Logistics,0.412,E-commerce,0.369,Physical Storage,0.366,Payments,0.358
+Geltor,"fermentation, protein",9,Nutrition,0.277,Food & Beverage,0.212,Manufacturing,0.185,Life Sciences,0.178,Procurement,0.167
+Cloud-Sustainability,"platform, term, software, user, consultancy",10,Sales & CRM,0.473,LegalTech,0.468,Procurement,0.45,Productivity,0.446,Business Intelligence,0.436
+IOCOM,videoconferencing,11,Video/Audio,0.374,Communications,0.344,Esports,0.268,Computer Vision,0.264,Entertainment,0.229
+21st.BIO,"platform, bioproduction, system, media, molecule, startup, foundation",12,Life Sciences,0.517,Hardware,0.45,Nano,0.44,Genomics,0.388,Materials,0.385
+iSIZE-Technologies,"content, video, saving, bitrate, improvement, quality",13,Video/Audio,0.687,Entertainment,0.486,Communications,0.438,Sharing Economy,0.432,Media,0.43
+Iterable,"customer, marketer, market, channel",14,Sales & CRM,0.6,MarTech,0.514,Sharing Economy,0.507,Telecoms,0.484,Procurement,0.478
+Cyrus-Audio,"design, engineering, equipment, audio",15,Video/Audio,0.555,Manufacturing,0.535,Industrial Tech,0.49,3D Printing,0.488,Hardware,0.471
+24SevenOffice,"web, file, module, application",16,Web3,0.296,Cloud Infrastructure,0.295,IoT,0.274,Cybersecurity,0.27,Video/Audio,0.26
+2D-fab-AB,"material, powder, electronic, defense, graphite",17,Materials,0.615,Hardware,0.432,Nano,0.415,3D Printing,0.404,Chemicals,0.359
+Utmost,"vendor, legacy, source",18,Procurement,0.381,Physical Storage,0.263,Retail,0.253,Logistics,0.251,Manufacturing,0.249
+Jiffy.ai,"platform, robot, algorithm, process, automation, processing, software, format, data",19,Robotics,0.761,Automation,0.73,Industrial IoT,0.646,Autonomous Driving,0.628,Industrial Tech,0.607
+eleXsys-Energy,"energy, electricity, flow",20,Energy Distribution,0.512,Electrification,0.472,Energy Generation,0.472,Energy Efficiency,0.466,Energy Storage,0.463
+Gemfire,"atmosphere, aerospace",21,Space Tech,0.549,Carbon Capture,0.359,Autonomous Driving,0.288,AR/MR/VR,0.283,Hardware,0.266
+Jobandtalent,"labor, worker, company, office, reduction, employment, unemployment, jobandtalent",22,Future of Work,0.442,Human Resources,0.439,Productivity,0.428,Procurement,0.421,Sales & CRM,0.399
+360-Logistics,"deliver, shipment, box",23,Logistics,0.517,Supply Chains,0.469,Physical Storage,0.426,Procurement,0.412,Transportation,0.338
+3rd-Eye-Studios,"movie, tv, game",24,Gaming,0.484,Entertainment,0.451,Esports,0.423,Space Tech,0.354,Metaverse,0.334
+Joost,"platform, peer, livestation, server, internet, desktop, friend, widget, skype, browser, service, type, party, client, chat",25,Communications,0.608,Social Networks,0.607,Sharing Economy,0.584,Telecoms,0.562,Esports,0.529
+NAVENTIK-GmbH,"sensor, system, software, security, solution",26,Industrial Tech,0.539,IoT,0.508,Cybersecurity,0.501,Security,0.482,Connected Life,0.465
+3TEMP-AB,"tool, knowledge, year, experience, quality, end, service",27,Manufacturing,0.52,Productivity,0.509,Procurement,0.499,Sales & CRM,0.499,Industrial IoT,0.466
+46elks,"number, telephony",28,Communications,0.533,Telecoms,0.45,Healthcare,0.421,Mobile,0.306,5G Networks,0.292
+4Subsea,"integrity, experience, expert, competence, forefront, subsea, way",29,Sales & CRM,0.449,Human Resources,0.444,LegalTech,0.438,Procurement,0.421,Data Management,0.407

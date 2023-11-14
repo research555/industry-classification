@@ -1,0 +1,11 @@
+id,name,cb_description,industry1,score1,industry2,score2,industry3,score3,industry4,score4,industry5,score5
+4081,InterResolve,"insurance, insurer, agency, compensation",InsurTech,0.524,RegTech,0.358,Automotive,0.356,Procurement,0.345,Professional Services,0.339
+2785,GladCloud,"brand, asset, customisation, product, learn, marketing, analysis, stakeholder, cosmetic",Design,0.649,Beauty,0.641,Fashion,0.639,MarTech,0.592,Sales & CRM,0.585
+23680,13th-Lab,"camera, vision, sensor, vehicle, potential",Autonomous Driving,0.515,Robotics,0.491,Automotive,0.429,Security,0.426,Hardware,0.424
+2932,Hilson-Moran,"leisure, facility, hotel",Travel,0.629,Sharing Economy,0.381,Physical Storage,0.356,Entertainment,0.328,Esports,0.324
+22003,1928-Diagnostics,"infection, diagnostic, trace, outbreak",Healthcare,0.386,Gut Microbiome,0.364,Life Sciences,0.304,Cybersecurity,0.291,Security,0.285
+21617,1939-Games,"gaming, veteran, experience, fun, game, card",Gaming,0.621,Esports,0.521,Metaverse,0.505,SexTech,0.428,Design,0.413
+23558,2021.AI,"capability, oversight, expertise",Productivity,0.439,Security,0.379,RegTech,0.364,Future of Work,0.349,Human Resources,0.342
+22310,20nine,"brand, industry, marketing",Fashion,0.593,MarTech,0.584,Sales & CRM,0.565,Procurement,0.559,Design,0.533
+21774,21GRAMS,"post, offer, postage, mailing",Procurement,0.487,Logistics,0.412,E-commerce,0.369,Physical Storage,0.366,Payments,0.358
+9229,Geltor,"fermentation, protein",Gut Microbiome,0.341,Nutrition,0.277,Food & Beverage,0.212,BioTech,0.192,Manufacturing,0.185

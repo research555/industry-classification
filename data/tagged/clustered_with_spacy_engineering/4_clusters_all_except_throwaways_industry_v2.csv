@@ -1,0 +1,31 @@
+id,name,cb_description,industry1,score1,industry2,score2,industry3,score3,industry4,score4,industry5,score5
+0,InterResolve,"insurer, injury, insurance, legal, inefficient, accident, claim",InsurTech,0.527,Healthcare,0.441,RegTech,0.407,FemTech,0.396,Social Impact,0.393
+1,GladCloud,"platform, brand, asset, network, customisation, solution, design, customer, infrastructure, datum, product, marketing, analysis, stakeholder, learning, specifically, service, cosmetic, delivery",Fashion,0.635,Beauty,0.577,Hardware,0.563,Sales & CRM,0.555,Retail,0.532
+2,13th-Lab,"ball, platform, tool, mapping, vision, sensor, device, technology, ios, mobile, vehicle, autonomous, camera, mission, potential, application, localization, computer",Autonomous Driving,0.607,Mobile,0.567,Computer Vision,0.553,Location Services,0.549,Industrial Tech,0.53
+3,Hilson-Moran,"building, engineer, project, management, consultancy, sustainability",Energy Efficiency,0.522,Climate & Clean Tech,0.512,GreenTech,0.496,Infrastructure Tech,0.483,Social Impact,0.478
+4,1928-Diagnostics,"dna, antibiotic, infection, diagnostic, outbreak",Life Sciences,0.456,Gut Microbiome,0.429,Nutrition,0.429,MedTech,0.406,Genomics,0.4
+5,1939-Games,"gaming, fun, work, focus, game, games",Gaming,0.584,Esports,0.489,Entertainment,0.47,Mobile,0.461,Sharing Economy,0.453
+6,2021.AI,"business, headquarter, organization, employee, oversight, governance, apply, responsible, capability, grow, development, management",Social Impact,0.592,Physical Storage,0.518,Food & Beverage,0.502,Telecoms,0.495,Human Resources,0.492
+7,20nine,"brand, industry, marketing, originality, ride",Sharing Economy,0.562,Creator Economy,0.488,Fashion,0.43,Circular Economy,0.425,Retail,0.409
+8,21GRAMS,"postal, document, print, saving, unique, postage, mailing",E-commerce,0.421,Payments,0.375,Physical Storage,0.374,Sales & CRM,0.365,Data Management,0.353
+9,Geltor,"cultivate, company, product, fermentation, designer, start, create, combine, consumer, protein",Food & Beverage,0.566,Circular Economy,0.481,Hardware,0.46,Life Sciences,0.458,Nutrition,0.42
+10,Cloud-Sustainability,"platform, consultancy, create, cloud, base, term, software",Health Tech,0.541,Cloud Computing,0.535,Sales & CRM,0.527,DeFi,0.504,Business Intelligence,0.487
+11,IOCOM,"collaboration, communication, videoconference",Communications,0.541,Social Networks,0.426,Video/Audio,0.406,Future of Work,0.384,Entertainment,0.382
+12,21st.BIO,"transition, bioproduction, production, company, manufacturing, demand, bioindustrial, market, innovation, yield",Carbon Removal,0.557,Food & Beverage,0.533,Chemicals,0.502,Circular Economy,0.499,Hardware,0.493
+13,iSIZE-Technologies,"network, neural, recognition, deep, encoder, bitrate, ai, data",Computer Vision,0.627,Autonomous Driving,0.531,Connected Home,0.526,Connected Life,0.49,Video/Audio,0.483
+14,NPS,polymer,Materials,0.426,3D Printing,0.256,Nano,0.245,Manufacturing,0.245,Deep Tech,0.244
+15,Iterable,"platform, design, customer, experience, marketing, create, love, marketer",Sharing Economy,0.568,Sales & CRM,0.554,Mobile,0.537,MarTech,0.527,Gaming,0.524
+16,Cyrus-Audio,"detail, engineering, innovative, design, achieve, audio, equipment",Hardware,0.575,Video/Audio,0.572,Semiconductors,0.509,Manufacturing,0.508,Automotive,0.501
+17,24SevenOffice,"integrate, web, ajax, file, project, service, webex, module, application, customize",API-First,0.436,Developer Tools,0.399,Productivity,0.398,Connected Life,0.396,Business Intelligence,0.377
+18,2D-fab-AB,"graphite, graphene",Materials,0.27,Deep Tech,0.24,Nano,0.219,Carbon Removal,0.171,Web3,0.158
+19,Utmost,"workday, company, legacy, vendor, base, management, enterprise, workforce",Circular Economy,0.506,Sales & CRM,0.498,Future of Work,0.481,Sharing Economy,0.459,Human Resources,0.448
+20,Jiffy.ai,"platform, capture, automate, system, integrate, robot, achieve, algorithm, cognitive, productively, unstructured, automation, processing, process, ai, task, detect, software",Automation,0.666,Industrial Tech,0.662,Productivity,0.624,Autonomous Driving,0.596,Robotics,0.587
+21,eleXsys-Energy,"cleantech, innovative, company, technology",Hardware,0.478,Deep Tech,0.46,GreenTech,0.451,Manufacturing,0.44,Automation,0.437
+22,Gemfire,"optical, conductor, technology, atmosphere, type, telecom, component, aerospace",Hardware,0.554,Telecoms,0.536,Semiconductors,0.514,Space Tech,0.492,Fashion,0.485
+23,Jobandtalent,"labor, hire, worker, company, office, employment, staff, unemployment, service, growth, jobandtalent",Human Resources,0.493,Sharing Economy,0.428,Telecoms,0.426,Sales & CRM,0.402,Data Centers,0.392
+24,360-Logistics,"business, owner, automate, operator, autostore, employee, service, store, concentrate, growth, market, supplier, warehouse, logistic",Sales & CRM,0.648,Logistics,0.613,Physical Storage,0.594,Supply Chains,0.566,E-commerce,0.527
+25,3rd-Eye-Studios,"movie, group, industry, work, company, game, technology, tv, atmospheric",Space Tech,0.47,Gaming,0.452,Mobile,0.451,Esports,0.451,Sharing Economy,0.448
+26,Joost,"tool, etc, channel, embed, screen, experience, widget, forum, content, example, directly, data, chat, catalog, iptv, technology, skype, browser, video, image, livestation, enhance, internet, datum, desktop, interactive, hardware, display, allow, type, stream, platform, intersperse, server, require, program, programming, television, tv, download, software",Communications,0.579,Mobile,0.511,Social Networks,0.502,Connected Home,0.501,Video/Audio,0.452
+27,NAVENTIK-GmbH,"system, relevant, solution, sensor, diverse, develop, security, pathinfder, autonomous, position, software, execute",Robotics,0.508,Automation,0.497,Industrial Tech,0.474,Autonomous Driving,0.471,Connected Home,0.469
+28,3Shape,"digital, art, scanning, software, intra, laboratory",MedTech,0.511,3D Printing,0.496,Computer Vision,0.471,AR/MR/VR,0.455,Manufacturing,0.434
+29,3TEMP-AB,"investment, people, coffee, receive, year, drip, player, end, commercial, include, brewer, sell, market, filter, worth",Sharing Economy,0.473,Circular Economy,0.456,Food & Beverage,0.455,DeFi,0.421,E-commerce,0.398
