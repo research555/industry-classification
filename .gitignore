@@ -1,6 +1,9 @@
 #project
 
 .rmdir
+#/notebooks/throwaways/
+#/figures_for_presentation/
+
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
